@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Help Documentation"
 theme = "ace-documentation-1.0.4"
+publishDir = "docs"
 
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
