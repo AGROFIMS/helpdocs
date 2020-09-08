@@ -2,6 +2,7 @@ baseURL = "https://agrofims.github.io/helpdocs/"
 languageCode = "en-us"
 title = "Help Documentation"
 theme = "ace-documentation-1.0.4"
+
 publishDir = "docs"
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"

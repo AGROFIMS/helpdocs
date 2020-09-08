@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Policy Terms on Help Documentation</title>
-    <link>http://example.org/policyterms/</link>
+    <link>https://agrofims.github.io/helpdocs/policyterms/</link>
     <description>Recent content in Policy Terms on Help Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/policyterms/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://agrofims.github.io/helpdocs/policyterms/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
