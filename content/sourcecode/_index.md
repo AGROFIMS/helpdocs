@@ -21,13 +21,7 @@ People in general, can find all the open source code in https://github.com/AGROF
 
 
 *Note*: It is importante to remark that AgroFIMS runs under GPL3 License. For further details, please go 
-to the [License section](https://agrofims.github.io/helpdocs/helpdocs/sourcecode/license/).
-
-
-
-
-
-
+to the [License section](https://agrofims.github.io/helpdocs/sourcecode/license/).
 
 
 <!-- ### Page ordering
