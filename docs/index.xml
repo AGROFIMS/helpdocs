@@ -31,6 +31,18 @@ There may be other ways to install Hugo that are more applicable for your projec
     </item>
     
     <item>
+      <title>AgroFIMS License</title>
+      <link>https://agrofims.github.io/helpdocs/sourcecode/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/sourcecode/license/</guid>
+      <description>License text without any modification  License  All the source of AGROFIMS is under GPL-3 license. For further details about this licence, please click on link.
+GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
+Copyright (C) 2007 Free Software Foundation, Inc. http://fsf.org/ Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+ Preamble  The GNU General Public License is a free, copyleft license for software and other kinds of works.</description>
+    </item>
+    
+    <item>
       <title>Buttons</title>
       <link>https://agrofims.github.io/helpdocs/shortcodes/buttons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

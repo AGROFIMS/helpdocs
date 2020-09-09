@@ -4,11 +4,11 @@
     <meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <link rel="canonical" href="https://agrofims.github.io/helpdocs/shortcodes/table/">
+    <link rel="canonical" href="https://agrofims.github.io/helpdocs/sourcecode/">
 
     <title>
         
-        Table | Help Documentation
+        Open Source | Help Documentation
         
     </title>
 
@@ -94,7 +94,7 @@
         
         <a class="nav-link p-0" href="/helpdocs/configuration/"><h6>Configuration</h6></a>
     </li>
-    <li data-nav-id="/helpdocs/sourcecode/" class="nav-item my-1 haschildren
+    <li data-nav-id="/helpdocs/sourcecode/" class="nav-item my-1 parent active haschildren
         ">
         
         <a class="nav-link p-0" href="/helpdocs/sourcecode/"><h6>Open Source</h6></a>
@@ -112,7 +112,7 @@
         
         <a class="nav-link p-0" href="/helpdocs/policyterms/"><h6>Policy Terms</h6></a>
     </li>
-    <li data-nav-id="/helpdocs/shortcodes/" class="nav-item my-1 parent haschildren
+    <li data-nav-id="/helpdocs/shortcodes/" class="nav-item my-1 haschildren
         ">
         
         <a class="nav-link p-0" href="/helpdocs/shortcodes/"><h6>Shortcodes</h6></a>
@@ -165,7 +165,7 @@
                     Panel
                 </a>
         </li>
-        <li data-nav-id="/helpdocs/shortcodes/table/" class="nav-item my-1 active">
+        <li data-nav-id="/helpdocs/shortcodes/table/" class="nav-item my-1">
                 
                  <a href="/helpdocs/shortcodes/table/" class="nav-link p-0">
                     Table
@@ -180,56 +180,42 @@
 
 </div>
                 <div class="docs-toc large order-lg-2 order-md-0 order-xs-1 col-12 col-lg-2 col-xl-2 position-sticky border-left"><div class="docs-toc">
-	<nav id="TableOfContents">
-  <ul>
-    <li><a href="#usage">Usage</a>
-      <ul>
-        <li><a href="#parameters">Parameters</a></li>
-      </ul>
-    </li>
-  </ul>
-</nav>
+	<nav id="TableOfContents"></nav>
 </div>
 </div>
                 <div class="main col-12 order-1 col-md-9 col-lg-10 col-xl-8 py-3">
                 
 
-<h1>Table</h1>
+<h1>Open Source</h1>
 
-<p>The table shortcode allows you to wrap your tables in a <code>table</code> class, providing styling to the table such as borders, stripes and hover effects.</p>
+<p class="lead">
+    Open tools for open science
+</p>
 
-<div class="table " role="alert">
-    <table>
-<thead>
-<tr>
-<th>Tables</th>
-<th align="center">are</th>
-<th align="right">cool</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>col 3 is</td>
-<td align="center">right-aligned</td>
-<td align="right">$1600</td>
-</tr>
-<tr>
-<td>col 2 is</td>
-<td align="center">centered</td>
-<td align="right">$12</td>
-</tr>
-<tr>
-<td>zebra stripes</td>
-<td align="center">are neat</td>
-<td align="right">$1</td>
-</tr>
-</tbody>
-</table>
+<p>In the AgroFIMS project, we are strong advocates of building the community by providing open tools and trainings for agronomist and researchers in general. AgroFIMS is composed by</p>
+<ul>
+<li>
+<p>web applications based on Angular, HTML, Javascript; and</p>
+</li>
+<li>
+<p>R-packages to facilitates the design and analysis of agronomic data.</p>
+</li>
+<li>
+<p>Pythons and Java rutines to facilitate the conversion of AgroFIMS file format to mobile applications such as KDSmart and Fieldbook App.</p>
+</li>
+</ul>
+<p>People in general, can find all the open source code in <a href="https://github.com/AGROFIMS/">https://github.com/AGROFIMS/</a></p>
+<p><em>Note</em>: It is importante to remark that AgroFIMS runs under GPL3 License. For further details, please go
+to the <a href="https://agrofims.github.io/helpdocs/helpdocs/sourcecode/license/">License section</a>.</p>
+<!-- ### Page ordering
 
-</div>
+By default, pages are sorted on the weight assigned to them in their <code>frontmatter</code>. This is set in <code>config.toml</code>, using <code>orderSectionsby = "weight"</code>. Change this to <code>"title"</code> to sort pages alphabetically based on their title instead. Alternatively, do not assign a weight to any pages and it will also sort them alphabetically on their title.
 
-<h2 id="usage">Usage</h2>
-<p>Place the following shortcode on the page
+
+### Table of contents
+
+By default, a table of contents (ToC) is generated for each page in the right side menu. This can be disabled using:
+
 
 
 
@@ -244,36 +230,68 @@
 
 <div class="position-relative">
     <div class="position-absolute" style="right:0;">
-        <button class="btn btn-light" data-clipboard-target="#clipboard_cb70518199">
+        <button class="btn btn-light" data-clipboard-target="#clipboard_04197ee706">
         Copy
         </button>
     </div>
-    <div id="clipboard_cb70518199">
-    <div class="highlight"><pre style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html"> 
-{{<span style="color:#111">&lt;</span> <span style="color:#f92672">table</span> <span style="color:#75af00">style</span><span style="color:#f92672">=</span><span style="color:#d88200">&#34;STYLE&#34;</span> <span style="color:#111">&gt;</span>}}
-| Tables        | are           | cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-{{<span style="color:#111">&lt;</span> <span style="color:#111">/</span><span style="color:#f92672">table</span> <span style="color:#111">&gt;</span>}}
+    <div id="clipboard_04197ee706">
+    <pre><code class="language-<nil>" data-lang="<nil>">
+toc = false
 
-</code></pre></div>
+</code></pre>
     </div>
 </div>
 
 
 
-</p>
-<h3 id="parameters">Parameters</h3>
-<h4 id="style">Style</h4>
-<p>The style parameter is directly applied to the table as a class in the format <em>&quot;{STYLE}&quot;</em>. Bootstrap comes with several styles that can be used with this:</p>
-<ul>
-<li>table-striped</li>
-<li>table-dark</li>
-<li>table-bordered</li>
-<li>table-hover</li>
-</ul>
+
+
+in the <code>config.toml</code> or the <code>frontmatter</code> (a page's markdown file) for a page-wide or page-specific disabling of the ToC respectively.
+
+### Google Analytics
+
+Enable Google Analytics by adding your GA tracking ID to the <code>config.toml</code> file, at:
+
+
+
+
+
+
+    
+    
+
+
+
+
+<div class="position-relative">
+    <div class="position-absolute" style="right:0;">
+        <button class="btn btn-light" data-clipboard-target="#clipboard_77a1e5ce9a">
+        Copy
+        </button>
+    </div>
+    <div id="clipboard_77a1e5ce9a">
+    <pre><code class="language-<nil>" data-lang="<nil>">
+googleAnalytics = &quot;XX-XXXXXXXXX-X&quot;
+
+</code></pre>
+    </div>
+</div>
+
+
+
+
+Where <code>XX-XXXXXXXXX-X</code> is your tracking ID.
+
+
+### Read more navigation
+
+In <code>config.toml</code> or a page's <code>frontmatter</code>, set <code>disableReadmoreNav = true</code> to disable the prev/next buttons at the buttom of every page.
+
+
+### Search
+
+Disable search by setting <code>disableSearch = true</code> in <code>config.toml</code>.  --><blockquote>
+</blockquote>
 
 
     
@@ -285,8 +303,8 @@
 
     <h4 class="text-white text-center">Read more</h4>
 
-    <div class="d-flex justify-content-center"><a class="p-1 mr-3 d-inline-block text-white" href="/helpdocs/shortcodes/panel/" title="Panel"><i class="fas fa-chevron-left p-1"></i>Panel</a>
-        <a class="p-1 ml-3 d-inline-block text-white text-right" href="/helpdocs/shortcodes/alerts/" title="Alerts">Alerts<i class="fas fa-chevron-right p-1"></i></a>
+    <div class="d-flex justify-content-center"><a class="p-1 mr-3 d-inline-block text-white" href="/helpdocs/configuration/" title="Configuration"><i class="fas fa-chevron-left p-1"></i>Configuration</a>
+        <a class="p-1 ml-3 d-inline-block text-white text-right" href="/helpdocs/sourcecode/license/" title="AgroFIMS License">AgroFIMS License<i class="fas fa-chevron-right p-1"></i></a>
     </div>
 </div>
 
