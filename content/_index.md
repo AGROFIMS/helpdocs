@@ -5,10 +5,7 @@ description = ""
 
 {{< lead >}}
 
-The AGROFIMS help page contains the most relevant information about the The Agronomy Field Information Management System (AgroFIMS). 
-
-WRITE TEXT
-
+Welcome to the AgroFIMS help documentation which provide instructions to getting started with the interface and produce a fieldbook. 
 
 {{< /lead >}}
 
@@ -52,10 +49,10 @@ WRITE TEXT
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
-					For every project.
+					Sementics inside.
 				</h5>
 				<p class="card-text text-muted">
-					Hugo does not require Java, Python or Ruby and is available as a simple binary or through NPM and other package managers.
+					AgroFIMS relies on ontologies to build fieldbook semantically annotated.
 				</p>
 			</div>
 		</div>
