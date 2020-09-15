@@ -4,7 +4,6 @@ description = ""
 weight = 1
 +++
 
-
 ## Signing Up
 1.	Go to  <a href="https://research.cip.cgiar.org/agrofims/dev/0212" target="_blank">AgroFIMS</a>.
 2.	Enter your email, password, name, last name, organization and country. 

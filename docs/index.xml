@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AGROFIMS Help Page on Help Documentation</title>
+    <title>AGROFIMS Help Page on AgroFIMS Help Documentation</title>
     <link>https://agrofims.github.io/helpdocs/</link>
-    <description>Recent content in AGROFIMS Help Page on Help Documentation</description>
+    <description>Recent content in AGROFIMS Help Page on AgroFIMS Help Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -49,16 +49,6 @@ Copyright (C) 2007 Free Software Foundation, Inc. http://fsf.org/ Everyone is pe
       <guid>https://agrofims.github.io/helpdocs/shortcodes/buttons/</guid>
       <description>The button shortcode allows you to add a button to the page. This button is a HTML anchor element and can thus be used to link to another page or website.
 ButtonButtonButtonButtonButtonButtonButtonUsage Place the following shortcode on the page Copy{{&amp;lt; button style=&amp;#34;STYLE&amp;#34; link=&amp;#34;https://yourwebsite.com&amp;#34; &amp;gt;}} [content] {{&amp;lt; /button &amp;gt;}} Parameters style The style parameter is directly applied to the alert as a class in the format &amp;ldquo;btn-{STYLE}&amp;quot;.</description>
-    </item>
-    
-    <item>
-      <title>Usage</title>
-      <link>https://agrofims.github.io/helpdocs/getting-started/usage/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/getting-started/usage/</guid>
-      <description>With the site created and the theme installed, it&amp;rsquo;s time to run the server and create content.Starting &amp;amp; building the site Development server To start the site for development mode, execute the following command while in your /docs folder: Copyhugo server This will start a server on your localhost that will live-update with any changes you make to your site.
-For more Hugo commands visit https://gohugo.</description>
     </item>
     
     <item>
