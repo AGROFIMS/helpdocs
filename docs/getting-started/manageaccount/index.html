@@ -182,18 +182,10 @@
                 <div class="docs-toc large order-lg-2 order-md-0 order-xs-1 col-12 col-lg-2 col-xl-2 position-sticky border-left"><div class="docs-toc">
 	<nav id="TableOfContents">
   <ul>
-    <li><a href="#sign-up">Sign Up</a>
-      <ul>
-        <li><a href="#checking-your-hugo-installation">Checking your Hugo installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#creating-a-site">Creating a site</a>
-      <ul>
-        <li><a href="#installing-the-theme">Installing the theme</a></li>
-        <li><a href="#configuring-your-hugo-site-to-use-the-theme">Configuring your hugo site to use the theme</a></li>
-      </ul>
-    </li>
-    <li><a href="#installing-example-content">Installing example content</a></li>
+    <li><a href="#signing-up">Signing Up</a></li>
+    <li><a href="#logging-in">Logging in</a></li>
+    <li><a href="#updating-your-password">Updating your password</a></li>
+    <li><a href="#requesting-a-new-password">Requesting a new password</a></li>
   </ul>
 </nav>
 </div>
@@ -203,7 +195,7 @@
 
 <h1>Manage your account</h1>
 
-<h2 id="sign-up">Sign Up</h2>
+<h2 id="signing-up">Signing Up</h2>
 <ol>
 <li>Go to  <a href="https://research.cip.cgiar.org/agrofims/dev/0212" target="_blank">AgroFIMS</a>.</li>
 <li>Enter your email, password, name, last name, organization and country.</li>
@@ -216,137 +208,33 @@
 </div>
 </li>
 </ol>
-<h3 id="checking-your-hugo-installation">Checking your Hugo installation</h3>
-<p>Run the following command in your terminal to check if Hugo is installed.
+<h2 id="logging-in">Logging in</h2>
+<ol>
+<li>At the upper right corner of the Home page, click on    and select Log In</li>
+<li>Enter your email and your password.</li>
+<li>Click Log In</li>
+</ol>
+<h2 id="updating-your-password">Updating your password</h2>
+<ol>
+<li>Log in.</li>
+<li>Click on      at the top right corner of the Home page.</li>
+<li>Select Autentication</li>
+<li>Enter your current password and a new password.</li>
+<li>Click ‘’Update password’’.</li>
+<li>Your password has been updated and you can now log in with your new password.</li>
+</ol>
+<h2 id="requesting-a-new-password">Requesting a new password</h2>
+<ol>
+<li>At the upper right corner of the Home page, click on and select</li>
+<li>Select ‘’Forgot your password?’’</li>
+<li>Enter your email and click on  Reset my password</li>
+<li>A new password will be sent to your email address.</li>
+</ol>
 
-
-
-
-
-
-    
-    
-
-
-
-
-<div class="position-relative">
-    <div class="position-absolute" style="right:0;">
-        <button class="btn btn-light" data-clipboard-target="#clipboard_fb3b24d6f8">
-        Copy
-        </button>
-    </div>
-    <div id="clipboard_fb3b24d6f8">
-    <div class="highlight"><pre style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">
-hugo version
-
-</code></pre></div>
-    </div>
+<div class="alert alert-warning" role="alert">
+    Don’t forget to check your spam folder
 </div>
 
-
-
-
-Make sure the version name mentions <i>extended</i>, to indicate you&rsquo;ve installed the extended version of Hugo, which is required for this theme.</p>
-<h2 id="creating-a-site">Creating a site</h2>
-<p>Create a new site <em>docs</em> (you may choose any name you want). In your projects root folder, run the following command:
-
-
-
-
-
-
-    
-    
-
-
-
-
-<div class="position-relative">
-    <div class="position-absolute" style="right:0;">
-        <button class="btn btn-light" data-clipboard-target="#clipboard_5cb95e9691">
-        Copy
-        </button>
-    </div>
-    <div id="clipboard_5cb95e9691">
-    <div class="highlight"><pre style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">
-hugo new site docs
-
-</code></pre></div>
-    </div>
-</div>
-
-
-
-
-This will create a new folder <code>/docs</code> with all required files in it.</p>
-<h3 id="installing-the-theme">Installing the theme</h3>
-<p>Download and copy the theme files into <code>/docs/themes/ace-documentation</code> or use <i>git</i> to clone the repository to that directory:
-
-
-
-
-
-
-    
-    
-
-
-
-
-<div class="position-relative">
-    <div class="position-absolute" style="right:0;">
-        <button class="btn btn-light" data-clipboard-target="#clipboard_7fbf3df15e">
-        Copy
-        </button>
-    </div>
-    <div id="clipboard_7fbf3df15e">
-    <div class="highlight"><pre style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">
-<span style="color:#111">cd</span> docs
-<span style="color:#111">cd</span> themes
-git clone https://github.com/vantagedesign/ace-documentation
-
-</code></pre></div>
-    </div>
-</div>
-
-
-
-</p>
-<p>After theme installation, the <code>/docs/themes/ace-documentation</code> folder should contain the file <code>theme.toml</code>, along with all other theme files.</p>
-<h3 id="configuring-your-hugo-site-to-use-the-theme">Configuring your hugo site to use the theme</h3>
-<p>Inside your site&rsquo;s folder, <code>/docs</code>, you will find a file called <code>config.toml</code>. This is the configuration file for your site. Open it and configure it to use the Ace theme by setting the following value:
-
-
-
-
-
-
-    
-    
-
-
-
-
-<div class="position-relative">
-    <div class="position-absolute" style="right:0;">
-        <button class="btn btn-light" data-clipboard-target="#clipboard_9fe1f19e8d">
-        Copy
-        </button>
-    </div>
-    <div id="clipboard_9fe1f19e8d">
-    <div class="highlight"><pre style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-toml" data-lang="toml">
-<span style="color:#75af00">theme</span> <span style="color:#111">=</span> <span style="color:#d88200">&#34;ace-documentation&#34;</span>
-
-</code></pre></div>
-    </div>
-</div>
-
-
-
-</p>
-<h2 id="installing-example-content">Installing example content</h2>
-<p>You can add some sample content to your site by placing the contents of the <code>exampleSite</code> directory in your <code>/docs</code> directory.</p>
 
 
     
