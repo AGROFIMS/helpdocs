@@ -31,21 +31,11 @@ menushortcutsnewtab = true # set true to open shortcuts links to a new tab/windo
 home = [ "HTML", "RSS", "JSON"]
 
 [[menu.shortcuts]]
-name = "More from us"
-url = "https://github.com/AGROFIMS/"
-weight = 1
-
-[[menu.shortcuts]]
-name = "<i class='fab fa-github'></i>"
-url = "https://github.com/AGROFIMS/"
-weight = 2
-
-[[menu.shortcuts]]
-name = "<button class='btn btn-success mt-n1'>Download</button>"
-url = "https://github.com/vantagedesign/ace-documentation/releases"
+name = "<button class='btn btn-success mt-n1'>AgroFIMS</button>"
+url = "https://research.cip.cgiar.org/agrofims/dev/0212"
 weight = 3
 
 [[menu.shortcuts]]
 name = "<i class='fab fa-github'></i>"
-url = "https://research.cip.cgiar.org/agrofims/dev/0212"
-weight = 10
+url = "https://github.com/AGROFIMS/"
+weight = 20
