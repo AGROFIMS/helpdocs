@@ -4,11 +4,11 @@
     <meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <link rel="canonical" href="https://agrofims.github.io/helpdocs/shortcodes/buttons/">
+    <link rel="canonical" href="https://agrofims.github.io/helpdocs/getting-started/manageaccount/">
 
     <title>
         
-        Buttons | Help Documentation
+        Manage your account | Help Documentation
         
     </title>
 
@@ -70,12 +70,12 @@
                 <input class="form-control mr-sm-2 w-100" data-search-input id="search-by" type="text" placeholder="Search">
             </form>
          <ul class="navbar-nav flex-column pt-3">
-    <li data-nav-id="/helpdocs/getting-started/" class="nav-item my-1 haschildren
+    <li data-nav-id="/helpdocs/getting-started/" class="nav-item my-1 parent haschildren
         ">
         
         <a class="nav-link p-0" href="/helpdocs/getting-started/"><h6>Getting started</h6></a>
         <ul class="list-unstyled ml-2">
-        <li data-nav-id="/helpdocs/getting-started/manageaccount/" class="nav-item my-1">
+        <li data-nav-id="/helpdocs/getting-started/manageaccount/" class="nav-item my-1 active">
                 
                  <a href="/helpdocs/getting-started/manageaccount/" class="nav-link p-0">
                     Manage your account
@@ -112,7 +112,7 @@
         
         <a class="nav-link p-0" href="/helpdocs/policyterms/"><h6>Policy Terms</h6></a>
     </li>
-    <li data-nav-id="/helpdocs/shortcodes/" class="nav-item my-1 parent haschildren
+    <li data-nav-id="/helpdocs/shortcodes/" class="nav-item my-1 haschildren
         ">
         
         <a class="nav-link p-0" href="/helpdocs/shortcodes/"><h6>Shortcodes</h6></a>
@@ -123,7 +123,7 @@
                     Alerts
                 </a>
         </li>
-        <li data-nav-id="/helpdocs/shortcodes/buttons/" class="nav-item my-1 active">
+        <li data-nav-id="/helpdocs/shortcodes/buttons/" class="nav-item my-1">
                 
                  <a href="/helpdocs/shortcodes/buttons/" class="nav-link p-0">
                     Buttons
@@ -182,11 +182,18 @@
                 <div class="docs-toc large order-lg-2 order-md-0 order-xs-1 col-12 col-lg-2 col-xl-2 position-sticky border-left"><div class="docs-toc">
 	<nav id="TableOfContents">
   <ul>
-    <li><a href="#usage">Usage</a>
+    <li><a href="#sign-up">Sign Up</a>
       <ul>
-        <li><a href="#parameters">Parameters</a></li>
+        <li><a href="#checking-your-hugo-installation">Checking your Hugo installation</a></li>
       </ul>
     </li>
+    <li><a href="#creating-a-site">Creating a site</a>
+      <ul>
+        <li><a href="#installing-the-theme">Installing the theme</a></li>
+        <li><a href="#configuring-your-hugo-site-to-use-the-theme">Configuring your hugo site to use the theme</a></li>
+      </ul>
+    </li>
+    <li><a href="#installing-example-content">Installing example content</a></li>
   </ul>
 </nav>
 </div>
@@ -194,60 +201,23 @@
                 <div class="main col-12 order-1 col-md-9 col-lg-10 col-xl-8 py-3">
                 
 
-<h1>Buttons</h1>
+<h1>Manage your account</h1>
 
-<p>The button shortcode allows you to add a button to the page. This button is a HTML <em>anchor</em> element and can thus be used to link to another page or website.</p>
-<p>
+<h2 id="sign-up">Sign Up</h2>
+<ol>
+<li>Go to  <a href="https://research.cip.cgiar.org/agrofims/dev/0212" target="_blank">AgroFIMS</a>.</li>
+<li>Enter your email, password, name, last name, organization and country.</li>
+<li>Click Create.</li>
+<li>Your account has been created. You can Log in and start using AgroFIMS.</li>
+<li>An email will be sent to your mailbox to confirm your account. 
 
-
-<a href="" class="btn btn-primary">
-    Button
-</a>
-
-
-
-
-<a href="" class="btn btn-secondary">
-    Button
-</a>
-
-
-
-
-<a href="" class="btn btn-outline-primary">
-    Button
-</a>
-
-
-
-
-<a href="" class="btn btn-danger">
-    Button
-</a>
-
-
-
-
-<a href="" class="btn btn-warning">
-    Button
-</a>
-
-
-
-
-<a href="" class="btn btn-success">
-    Button
-</a>
-
-
-
-
-<a href="" class="btn btn-info">
-    Button
-</a>
-</p>
-<h2 id="usage">Usage</h2>
-<p>Place the following shortcode on the page
+<div class="alert alert-warning" role="alert">
+    Don’t forget to check your spam folder if you don’t see the email in your inbox!
+</div>
+</li>
+</ol>
+<h3 id="checking-your-hugo-installation">Checking your Hugo installation</h3>
+<p>Run the following command in your terminal to check if Hugo is installed.
 
 
 
@@ -262,13 +232,79 @@
 
 <div class="position-relative">
     <div class="position-absolute" style="right:0;">
-        <button class="btn btn-light" data-clipboard-target="#clipboard_5c840688d4">
+        <button class="btn btn-light" data-clipboard-target="#clipboard_fb3b24d6f8">
         Copy
         </button>
     </div>
-    <div id="clipboard_5c840688d4">
-    <div class="highlight"><pre style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html"> 
-{{<span style="color:#111">&lt;</span> <span style="color:#f92672">button</span> <span style="color:#75af00">style</span><span style="color:#f92672">=</span><span style="color:#d88200">&#34;STYLE&#34;</span> <span style="color:#75af00">link</span><span style="color:#f92672">=</span><span style="color:#d88200">&#34;https://yourwebsite.com&#34;</span> <span style="color:#111">&gt;</span>}} [content] {{<span style="color:#111">&lt;</span> <span style="color:#111">/</span><span style="color:#f92672">button</span> <span style="color:#111">&gt;</span>}}
+    <div id="clipboard_fb3b24d6f8">
+    <div class="highlight"><pre style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">
+hugo version
+
+</code></pre></div>
+    </div>
+</div>
+
+
+
+
+Make sure the version name mentions <i>extended</i>, to indicate you&rsquo;ve installed the extended version of Hugo, which is required for this theme.</p>
+<h2 id="creating-a-site">Creating a site</h2>
+<p>Create a new site <em>docs</em> (you may choose any name you want). In your projects root folder, run the following command:
+
+
+
+
+
+
+    
+    
+
+
+
+
+<div class="position-relative">
+    <div class="position-absolute" style="right:0;">
+        <button class="btn btn-light" data-clipboard-target="#clipboard_5cb95e9691">
+        Copy
+        </button>
+    </div>
+    <div id="clipboard_5cb95e9691">
+    <div class="highlight"><pre style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">
+hugo new site docs
+
+</code></pre></div>
+    </div>
+</div>
+
+
+
+
+This will create a new folder <code>/docs</code> with all required files in it.</p>
+<h3 id="installing-the-theme">Installing the theme</h3>
+<p>Download and copy the theme files into <code>/docs/themes/ace-documentation</code> or use <i>git</i> to clone the repository to that directory:
+
+
+
+
+
+
+    
+    
+
+
+
+
+<div class="position-relative">
+    <div class="position-absolute" style="right:0;">
+        <button class="btn btn-light" data-clipboard-target="#clipboard_7fbf3df15e">
+        Copy
+        </button>
+    </div>
+    <div id="clipboard_7fbf3df15e">
+    <div class="highlight"><pre style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">
+<span style="color:#111">cd</span> docs
+<span style="color:#111">cd</span> themes
+git clone https://github.com/vantagedesign/ace-documentation
 
 </code></pre></div>
     </div>
@@ -277,22 +313,40 @@
 
 
 </p>
-<h3 id="parameters">Parameters</h3>
-<h4 id="style"><em>style</em></h4>
-<p>The style parameter is directly applied to the alert as a class in the format <em>&ldquo;btn-{STYLE}&quot;</em>. Bootstrap comes with a variety of styles that can be used with this:</p>
-<ul>
-<li>primary</li>
-<li>secondary</li>
-<li>danger</li>
-<li>warning</li>
-<li>success</li>
-<li>info</li>
-</ul>
-<p>Each style can also be presented as an &lsquo;outline&rsquo; variant by prefixing the style with &lsquo;outline-&rsquo;.<br>
-Example: <code>style=&quot;outline-primary&quot;</code>.</p>
-<h4 id="link"><em>link</em></h4>
-<p>The link parameter may consist of an URL leading to a page or other website. Simply use it by defining a URL for the button to link to.<br>
-Example: <code>link=&quot;https://google.com&quot;</code>.</p>
+<p>After theme installation, the <code>/docs/themes/ace-documentation</code> folder should contain the file <code>theme.toml</code>, along with all other theme files.</p>
+<h3 id="configuring-your-hugo-site-to-use-the-theme">Configuring your hugo site to use the theme</h3>
+<p>Inside your site&rsquo;s folder, <code>/docs</code>, you will find a file called <code>config.toml</code>. This is the configuration file for your site. Open it and configure it to use the Ace theme by setting the following value:
+
+
+
+
+
+
+    
+    
+
+
+
+
+<div class="position-relative">
+    <div class="position-absolute" style="right:0;">
+        <button class="btn btn-light" data-clipboard-target="#clipboard_9fe1f19e8d">
+        Copy
+        </button>
+    </div>
+    <div id="clipboard_9fe1f19e8d">
+    <div class="highlight"><pre style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-toml" data-lang="toml">
+<span style="color:#75af00">theme</span> <span style="color:#111">=</span> <span style="color:#d88200">&#34;ace-documentation&#34;</span>
+
+</code></pre></div>
+    </div>
+</div>
+
+
+
+</p>
+<h2 id="installing-example-content">Installing example content</h2>
+<p>You can add some sample content to your site by placing the contents of the <code>exampleSite</code> directory in your <code>/docs</code> directory.</p>
 
 
     
@@ -304,8 +358,8 @@ Example: <code>link=&quot;https://google.com&quot;</code>.</p>
 
     <h4 class="text-white text-center">Read more</h4>
 
-    <div class="d-flex justify-content-center"><a class="p-1 mr-3 d-inline-block text-white" href="/helpdocs/shortcodes/alerts/" title="Alerts"><i class="fas fa-chevron-left p-1"></i>Alerts</a>
-        <a class="p-1 ml-3 d-inline-block text-white text-right" href="/helpdocs/shortcodes/childpages/" title="Childpages">Childpages<i class="fas fa-chevron-right p-1"></i></a>
+    <div class="d-flex justify-content-center"><a class="p-1 mr-3 d-inline-block text-white" href="/helpdocs/getting-started/" title="Getting started"><i class="fas fa-chevron-left p-1"></i>Getting started</a>
+        <a class="p-1 ml-3 d-inline-block text-white text-right" href="/helpdocs/getting-started/usage/" title="Usage">Usage<i class="fas fa-chevron-right p-1"></i></a>
     </div>
 </div>
 

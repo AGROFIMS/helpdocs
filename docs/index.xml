@@ -21,13 +21,12 @@
     </item>
     
     <item>
-      <title>Installation</title>
-      <link>https://agrofims.github.io/helpdocs/getting-started/installation/</link>
+      <title>Manage your account</title>
+      <link>https://agrofims.github.io/helpdocs/getting-started/manageaccount/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://agrofims.github.io/helpdocs/getting-started/installation/</guid>
-      <description>Installing Ace is easy. Just install the Hugo binary, create a new site and install the Ace theme.Installing Hugo In order to run this theme, you need to install Hugo on your system. This theme requires Hugo&amp;rsquo;s extended version to support SCSS compilation, so make please sure you install the extended version. For more detailed information and other methods of installation you can visit the Hugo installation guide.
-There may be other ways to install Hugo that are more applicable for your project.</description>
+      <guid>https://agrofims.github.io/helpdocs/getting-started/manageaccount/</guid>
+      <description>Sign Up  Go to AgroFIMS. Enter your email, password, name, last name, organization and country. Click Create. Your account has been created. You can Log in and start using AgroFIMS. An email will be sent to your mailbox to confirm your account. Don’t forget to check your spam folder if you don’t see the email in your inbox!  Checking your Hugo installation Run the following command in your terminal to check if Hugo is installed.</description>
     </item>
     
     <item>
