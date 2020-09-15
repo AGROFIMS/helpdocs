@@ -27,9 +27,9 @@ weight = 1
 6.	Your password has been updated and you can now log in with your new password.
 
 ## 	Requesting a new password
-1.	At the upper right corner of the Home page, click on and select 
+1.	At the upper right corner of the Home page, click on ![ ](/static/login.png) and select 
 2.	Select ‘’Forgot your password?’’
-3.	Enter your email and click on  Reset my password
+3.	Enter your email and click on Reset my password
 4.	A new password will be sent to your email address. 
 
 {{< alert style="warning" >}} Don’t forget to check your spam folder{{< /alert >}}

@@ -1,6 +1,6 @@
 baseURL = "https://agrofims.github.io/helpdocs/"
 languageCode = "en-us"
-title = "Help Documentation"
+title = "AgroFIMS Help Documentation"
 theme = "ace-documentation-1.0.4"
 publishDir = "docs"
 
