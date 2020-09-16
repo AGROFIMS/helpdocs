@@ -30,5 +30,6 @@ weight = 1
 2.	Select ‘’Forgot your password?’’
 3.	Enter your email and click on Reset my password
 4.	A new password will be sent to your email address. 
+5.  Nueva entrada {{% img src="images/login.png" h="412" %}}
 
 {{< alert style="warning" >}} Don’t forget to check your spam folder{{< /alert >}}
