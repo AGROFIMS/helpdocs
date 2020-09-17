@@ -15,6 +15,8 @@ Before creating your fielbook, you may want to create the site of your experimen
 3.	Fill the information about the site type, site name, country name and administrative divisions using text boxes and picklists as appropriate. You can zoom in the map to help you find the name of your location, but you cannot use the map to directly pinpoint the site. 
 4.	Once you have filled the information about the site and the site is pinpointed on the map, click Create at the bottom left of the page. 
 
+![create_a_site](https://agrofims.github.io/helpdocs/video/newsite.mp4)
+
 ## Viewing Site Information
 1.	Go to Sites in the Menu. 
 2.	Click on the eye icon next to the site you want to get information about.
