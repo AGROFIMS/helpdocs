@@ -16,6 +16,6 @@ AgroFIMS also allows users to collect data electronically in the field, thereby 
 AgroFIMS works in collaboration with the Android applications like KDSmart, ODK Collect and Field Book apps to provide a complete workflow to manage data for the creation of a fieldbook to the data analysis. Below are the different steps to follow to create, collect, analyze and save data using AgroFIMS:
 
 ## Home screen
-
+ ![home_screen](https://agrofims.github.io/helpdocs/images/homescreen.png)
 
 {{< childpages >}}
