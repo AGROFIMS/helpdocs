@@ -26,8 +26,8 @@ weight = 1
 6.	Your password has been updated and you can now log in with your new password.
 
 ## 	Requesting a new password
-1.	At the upper right corner of the Home page, click on ![ ](/static/login.png) and select 
-2.	Select ‘’Forgot your password?’’
+1.	At the upper right corner of the Home page, click on ![click on login page](https://agrofims.github.io/helpdocs/images/login.png) and select 
+2.	Select ‘’Forgot your password?’’  ![login_image](https://agrofims.github.io/helpdocs/images/forgot_password.png)
 3.	Enter your email and click on Reset my password
 4.	A new password will be sent to your email address. 
 
