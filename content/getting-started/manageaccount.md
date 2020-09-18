@@ -27,8 +27,16 @@ weight = 1
 
 ## 	Requesting a new password
 1.	At the upper right corner of the Home page, click on ![click on login page](https://agrofims.github.io/helpdocs/images/login.png) and select 
-2.	Select ‘’Forgot your password?’’  ![login_image](https://agrofims.github.io/helpdocs/images/forgot_password.png)
+2.	Select <code> Forgot your password?</code>  (Celine check the image next) ![forgot password link](https://agrofims.github.io/helpdocs/images/forgot_password.png)
 3.	Enter your email and click on Reset my password
 4.	A new password will be sent to your email address. 
 
 {{< alert style="warning" >}} Don’t forget to check your spam folder{{< /alert >}}
+
+
+- An example of video content below: 
+
+Just need the id of the video https://www.youtube.com/watch?v=L5rVH1KGBCY, in this case: L5rVH1KGBCY
+
+{{< youtube L5rVH1KGBCY >}}
+
