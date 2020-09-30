@@ -34,9 +34,3 @@ weight = 1
 {{< alert style="warning" >}} Don’t forget to check your spam folder{{< /alert >}}
 
 
-- An example of video content below: 
-
-Just need the id of the video https://www.youtube.com/watch?v=L5rVH1KGBCY, in this case: L5rVH1KGBCY
-
-{{< youtube L5rVH1KGBCY >}}
-
