@@ -32,5 +32,3 @@ weight = 1
 4.	A new password will be sent to your email address. 
 
 {{< alert style="warning" >}} Don’t forget to check your spam folder{{< /alert >}}
-
-
