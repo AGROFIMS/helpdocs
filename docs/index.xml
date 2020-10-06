@@ -138,6 +138,15 @@
     </item>
     
     <item>
+      <title>Adding a crop or a variety to the experiment</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/adding_a_crop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/adding_a_crop/</guid>
+      <description>1.	Select the type of cropping system of your experiment. Currently the choices are: Monocrop, Intercrop or Relay crop.2.	Select the crop’s common name. If the crop is not listed, select ‘’Other’’ and specify the crop common name. If “Intercrop” or “Relay crop” are selected, AgroFIMS will require you to add at least 2 crops. To add more, click on “add crop”.3.	Enter the variety name. You can enter as many varieties as needed.</description>
+    </item>
+    
+    <item>
       <title>AgroFIMS License</title>
       <link>https://agrofims.github.io/helpdocs/sourcecode/license/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -157,6 +166,24 @@ Copyright (C) 2007 Free Software Foundation, Inc. http://fsf.org/ Everyone is pe
       <guid>https://agrofims.github.io/helpdocs/shortcodes/buttons/</guid>
       <description>The button shortcode allows you to add a button to the page. This button is a HTML anchor element and can thus be used to link to another page or website.
 ButtonButtonButtonButtonButtonButtonButtonUsage Place the following shortcode on the page Copy{{&amp;lt; button style=&amp;#34;STYLE&amp;#34; link=&amp;#34;https://yourwebsite.com&amp;#34; &amp;gt;}} [content] {{&amp;lt; /button &amp;gt;}} Parameters style The style parameter is directly applied to the alert as a class in the format &amp;ldquo;btn-{STYLE}&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>May I import a list of varieties or genotypes?</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/import_variety/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/import_variety/</guid>
+      <description>It is not currently possible to import a list of varieties or genotypes. You have to manually enter your list in the text box: Variety name(s)</description>
+    </item>
+    
+    <item>
+      <title>What is Fieldbook ID?</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/fieldbook_id/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/fieldbook_id/</guid>
+      <description>Fieldbook ID is a unique identifier created by AgroFIMS to identify your experiment. It is made of the concatenation of the following information: F_Cropping type_Crop name_Experiment start date_Country. “F” stands for Fieldbook in this case.</description>
     </item>
     
     <item>
