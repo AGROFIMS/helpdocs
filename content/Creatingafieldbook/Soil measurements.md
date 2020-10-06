@@ -1,10 +1,10 @@
 +++
-title = "Soil measurements"
+title = "13.Soil measurements"
 description = ""
 weight = 2
 +++
 
 {{< lead >}}
-Find below the steps to create a fieldbook in AgroFIMS.
+This section is dedicated to the selection of soil measurements to make during the experiment.
 {{< /lead >}}
 

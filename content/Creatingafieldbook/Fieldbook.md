@@ -1,5 +1,5 @@
 +++
-title = "Creating a fieldbook"
+title = "3.Fieldbook"
 description = ""
 weight = 2
 +++
@@ -7,7 +7,3 @@ weight = 2
 {{< lead >}}
 Find below the steps to create a fieldbook in AgroFIMS.
 {{< /lead >}}
-
-## Creating a new fieldbook
-
-1

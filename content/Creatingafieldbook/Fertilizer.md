@@ -1,13 +1,9 @@
 +++
-title = "Fertilizer"
+title = "7.Fertilizer"
 description = ""
 weight = 2
 +++
 
 {{< lead >}}
-Find below the steps to create a fieldbook in AgroFIMS.
+Find below the steps to add fertilizer applications in your protocol.
 {{< /lead >}}
-
-## Fertilizer
-
-1.	
