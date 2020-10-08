@@ -1,10 +1,31 @@
 [
 {
+	"uri": "https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/",
+	"title": "1.Experiments",
+	"tags": [],
+	"description": "",
+	"content": "In this section, you can detail the experiment metadata.\r"
+},
+{
+	"uri": "https://agrofims.github.io/helpdocs/creatingafieldbook/crop/adding_a_crop/",
+	"title": "Adding a crop or a variety to the experiment",
+	"tags": [],
+	"description": "",
+	"content": "1.\tSelect the type of cropping system of your experiment. Currently the choices are: Monocrop, Intercrop or Relay crop.\r2.\tSelect the crop’s common name. If the crop is not listed, select ‘’Other’’ and specify the crop common name. If “Intercrop” or “Relay crop” are selected, AgroFIMS will require you to add at least 2 crops. To add more, click on “add crop”.\r3.\tEnter the variety name. You can enter as many varieties as needed.  "
+},
+{
 	"uri": "https://agrofims.github.io/helpdocs/shortcodes/alerts/",
 	"title": "Alerts",
 	"tags": [],
 	"description": "",
 	"content": "The alerts shortcode allows you to let information stand out by means of an alert styled box. This can be used to indicate danger, warning, success or info.\n\rI\u0026rsquo;m a danger alert\r\rI\u0026rsquo;m a warning alert\r\rI\u0026rsquo;m a success alert\r\rI\u0026rsquo;m an info alert\r\rUsage Place the following shortcode on the page Copy\r\r\r{{\u0026lt; alert style=\u0026#34;STYLE\u0026#34; \u0026gt;}} [content] {{\u0026lt; /alert \u0026gt;}} \r\r\rParameters Style The style parameter is directly applied to the alert as a class in the format \u0026ldquo;alert-{STYLE}\u0026quot;. Bootstrap comes with four styles that can be used with this:\n danger warning success info  "
+},
+{
+	"uri": "https://agrofims.github.io/helpdocs/creatingafieldbook/",
+	"title": "Creating a new fieldbook",
+	"tags": [],
+	"description": "",
+	"content": "Find below the steps to create a fieldbook in AgroFIMS.\r"
 },
 {
 	"uri": "https://agrofims.github.io/helpdocs/getting-started/",
@@ -21,95 +42,11 @@
 	"content": "Signing Up  Go to AgroFIMS. Enter your email, password, name, last name, organization and country. Click Create. Your account has been created. You can Log in and start using AgroFIMS. An email will be sent to your mailbox to confirm your account. Don’t forget to check your spam folder if you don’t see the email in your inbox!\r\r  Logging in  At the upper right corner of the Home page, click on and select Log In Enter your email and your password. Click Log In  Updating your password  Log in. Click on at the top right corner of the Home page. Select Autentication Enter your current password and a new password. Click ‘’Update password’’. Your password has been updated and you can now log in with your new password.  Requesting a new password  At the upper right corner of the Home page, click on and select Select  Forgot your password? (Celine check the image next)  Enter your email and click on Reset my password A new password will be sent to your email address.  Don’t forget to check your spam folder\r\r"
 },
 {
-	"uri": "https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/",
-	"title": "1.Experiments",
-	"tags": [],
-	"description": "",
-	"content": "In this section, you can detail the experiment metadata.\r"
-},
-{
-	"uri": "https://agrofims.github.io/helpdocs/creatingafieldbook/phenology-measurements/",
-	"title": "11.Phenology measurements",
-	"tags": [],
-	"description": "",
-	"content": "Find below the steps to create a fieldbook in AgroFIMS.\rPhenology measurements 1.\n"
-},
-{
-	"uri": "https://agrofims.github.io/helpdocs/creatingafieldbook/weather-measurements/",
-	"title": "12.Weather measurements",
-	"tags": [],
-	"description": "",
-	"content": "This section is dedicated to the selection of weather measurements to make during the experiment.\rSelecting a weather measurement  Select a measurement in the drop-down list. You can either scroll through the list or delete the default and type the name of your measurement – the auto-complete feature will select the term if the measurement is in the list. Once you have found your measurement, select it and click on . The measurement will be added to the list of measurements for this experiment. You can then indicate its unit, the number of times it has to be measured during the season, and its timing. You can add as many weather measurements as needed.  Removing a measurement from the list To remove a measurement, click on the cross at the upper right side of the measurement box.\n"
-},
-{
-	"uri": "https://agrofims.github.io/helpdocs/creatingafieldbook/soil-measurements/",
-	"title": "13.Soil measurements",
-	"tags": [],
-	"description": "",
-	"content": "This section is dedicated to the selection of soil measurements to make during the experiment.\r"
-},
-{
 	"uri": "https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/",
 	"title": "2.Personnel",
 	"tags": [],
 	"description": "",
 	"content": "In this section you can add information about the personnel linked to the experiment.\r"
-},
-{
-	"uri": "https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/",
-	"title": "3.Fieldbook",
-	"tags": [],
-	"description": "",
-	"content": "Find below the steps to create a fieldbook in AgroFIMS.\r"
-},
-{
-	"uri": "https://agrofims.github.io/helpdocs/creatingafieldbook/site/",
-	"title": "4.Site",
-	"tags": [],
-	"description": "",
-	"content": "In this section you can describe the experimental site and its surroundings.\r"
-},
-{
-	"uri": "https://agrofims.github.io/helpdocs/creatingafieldbook/crop/",
-	"title": "5.Crop",
-	"tags": [],
-	"description": "",
-	"content": "This section is dedicated to the description of the crops cultivated in the experiment.\rAdding a crop or a variety to the experiment  Select the type of cropping system of your experiment. Currently the choices are: Monocrop, Intercrop or Relay crop. Select the crop’s common name. If the crop is not listed, select ‘’Other’’ and specify the crop common name. If “Intercrop” or “Relay crop” are selected, AgroFIMS will require you to add at least 2 crops. To add more, click on “add crop”. Enter the variety name. You can enter as many varieties as needed.  May I import a list of varieties or genotypes? It is not currently possible to import a list of varieties or genotypes. You have to manually enter your list in the text box: Variety name(s)\nWhat is Fieldbook ID? Fieldbook ID is a unique identifier created by AgroFIMS to identify your experiment. It is made of the concatenation of the following information: F_Cropping type_Crop name_Experiment start date_Country. “F” stands for Fieldbook in this case.\n"
-},
-{
-	"uri": "https://agrofims.github.io/helpdocs/creatingafieldbook/design/",
-	"title": "6.Design",
-	"tags": [],
-	"description": "",
-	"content": "Find below the steps to create a fieldbook in AgroFIMS.\r"
-},
-{
-	"uri": "https://agrofims.github.io/helpdocs/creatingafieldbook/fertilizer/",
-	"title": "7.Fertilizer",
-	"tags": [],
-	"description": "",
-	"content": "Find below the steps to add fertilizer applications in your protocol.\r"
-},
-{
-	"uri": "https://agrofims.github.io/helpdocs/creatingafieldbook/management-practices/",
-	"title": "8.Management practices",
-	"tags": [],
-	"description": "",
-	"content": "Find below the steps to add management practices in your protocol.\r"
-},
-{
-	"uri": "https://agrofims.github.io/helpdocs/creatingafieldbook/crop-measurement/",
-	"title": "9.Crop measurements",
-	"tags": [],
-	"description": "",
-	"content": "In this section you can select and describe the measurements to be made on the crops.\r"
-},
-{
-	"uri": "https://agrofims.github.io/helpdocs/creatingafieldbook/crop/adding_a_crop/",
-	"title": "Adding a crop or a variety to the experiment",
-	"tags": [],
-	"description": "",
-	"content": "1.\tSelect the type of cropping system of your experiment. Currently the choices are: Monocrop, Intercrop or Relay crop.\r2.\tSelect the crop’s common name. If the crop is not listed, select ‘’Other’’ and specify the crop common name. If “Intercrop” or “Relay crop” are selected, AgroFIMS will require you to add at least 2 crops. To add more, click on “add crop”.\r3.\tEnter the variety name. You can enter as many varieties as needed.  "
 },
 {
 	"uri": "https://agrofims.github.io/helpdocs/sourcecode/license/",
@@ -126,32 +63,11 @@
 	"content": "The button shortcode allows you to add a button to the page. This button is a HTML anchor element and can thus be used to link to another page or website.\n\rButton\r\rButton\r\rButton\r\rButton\r\rButton\r\rButton\r\rButton\r\rUsage Place the following shortcode on the page Copy\r\r\r{{\u0026lt; button style=\u0026#34;STYLE\u0026#34; link=\u0026#34;https://yourwebsite.com\u0026#34; \u0026gt;}} [content] {{\u0026lt; /button \u0026gt;}} \r\r\rParameters style The style parameter is directly applied to the alert as a class in the format \u0026ldquo;btn-{STYLE}\u0026quot;. Bootstrap comes with a variety of styles that can be used with this:\n primary secondary danger warning success info  Each style can also be presented as an \u0026lsquo;outline\u0026rsquo; variant by prefixing the style with \u0026lsquo;outline-\u0026rsquo;.\nExample: style=\u0026quot;outline-primary\u0026quot;.\nlink The link parameter may consist of an URL leading to a page or other website. Simply use it by defining a URL for the button to link to.\nExample: link=\u0026quot;https://google.com\u0026quot;.\n"
 },
 {
-	"uri": "https://agrofims.github.io/helpdocs/creatingafieldbook/",
-	"title": "Creating a new fieldbook",
-	"tags": [],
-	"description": "",
-	"content": "Find below the steps to create a fieldbook in AgroFIMS.\r"
-},
-{
 	"uri": "https://agrofims.github.io/helpdocs/creatingasite/",
 	"title": "Creating a new site",
 	"tags": [],
 	"description": "",
 	"content": "Before creating your fielbook, you may want to create the site of your experiment.\rCreating a new site  Select Sites in the Menu. Click on the button New site. Fill the information about the site type, site name, country name and administrative divisions using text boxes and picklists as appropriate. You can zoom in the map to help you find the name of your location, but you cannot use the map to directly pinpoint the site. Once you have filled the information about the site and the site is pinpointed on the map, click Create at the bottom left of the page.    Viewing Site Information  Go to Sites in the Menu. Click on the eye icon next to the site you want to get information about.  Deleting a Site  Go to Sites in the Menu. Click on bin icon next to the site you want to delete.  Updating information for a site A site cannot be updated. You must create a new site.\nWhat is a site ID? The site ID is a unique identifier automatically generated by AgroFIMS to distinguish the sites in your sites list.\n"
-},
-{
-	"uri": "https://agrofims.github.io/helpdocs/creatingafieldbook/crop/",
-	"title": "Crop",
-	"tags": [],
-	"description": "",
-	"content": "This section is dedicated to the description of the crops cultivated in the experiment.\r"
-},
-{
-	"uri": "https://agrofims.github.io/helpdocs/creatingafieldbook/crop/import_variety/",
-	"title": "May I import a list of varieties or genotypes?",
-	"tags": [],
-	"description": "",
-	"content": "It is not currently possible to import a list of varieties or genotypes. You have to manually enter your list in the text box: Variety name(s)\n"
 },
 {
 	"uri": "https://agrofims.github.io/helpdocs/sourcecode/",
@@ -175,11 +91,25 @@
 	"content": "Fieldbook ID is a unique identifier created by AgroFIMS to identify your experiment. It is made of the concatenation of the following information: F_Cropping type_Crop name_Experiment start date_Country. “F” stands for Fieldbook in this case.\n"
 },
 {
+	"uri": "https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/",
+	"title": "3.Fieldbook",
+	"tags": [],
+	"description": "",
+	"content": "Find below the steps to create a fieldbook in AgroFIMS.\r"
+},
+{
 	"uri": "https://agrofims.github.io/helpdocs/shortcodes/childpages/",
 	"title": "Childpages",
 	"tags": [],
 	"description": "",
 	"content": "The childpages shortcode allows you to show a list of sub-pages of the current page. For example, the Getting started page of this documentation has three child pages: Installation, Configuration and Creating content. Placing the childpages shortcode in the Getting started page will place a create a list of these sub-pages in that page.\nUsage Simply place the following shortcode on the page Copy\r\r\r{{\u0026lt; childpages \u0026gt;}} \r\r\r"
+},
+{
+	"uri": "https://agrofims.github.io/helpdocs/creatingafieldbook/crop/import_variety/",
+	"title": "May I import a list of varieties or genotypes?",
+	"tags": [],
+	"description": "",
+	"content": "It is not currently possible to import a list of varieties or genotypes. You have to manually enter your list in the text box: Variety name(s)\n"
 },
 {
 	"uri": "https://agrofims.github.io/helpdocs/shortcodes/",
@@ -189,11 +119,25 @@
 	"content": "Shortcodes are a great way to add some more advanced elements to your page. Code highlighting, a \u0026lsquo;lead\u0026rsquo; style paragraph, images, videos, and more.\rAlerts \r\rButtons \r\rChildpages \r\rCode \r\rCollapse \r\rDoublecode \r\rLead \r\rPanel \r\rTable \r\r\r"
 },
 {
+	"uri": "https://agrofims.github.io/helpdocs/creatingafieldbook/site/",
+	"title": "4.Site",
+	"tags": [],
+	"description": "",
+	"content": "In this section you can describe the experimental site and its surroundings.\r"
+},
+{
 	"uri": "https://agrofims.github.io/helpdocs/shortcodes/code/",
 	"title": "Code",
 	"tags": [],
 	"description": "",
 	"content": "Add code to your page with syntax highlighting and a copy button so your users can easily copy the code to their clipboard with the press of a button. The code may be entered inside the shortcode or come from an external file.\nCopy\r\r\r\u0026lt;div class=\u0026#34;mydiv bg-primary shadow text-white\u0026#34;\u0026gt; \u0026lt;h1 class=\u0026#34;title\u0026#34;\u0026gt;Hi there\u0026lt;/h1\u0026gt; \u0026lt;p class=\u0026#34;lead\u0026#34;\u0026gt;I\u0026#39;m inside a code shortcode. Check out my syntax highlighting!.\u0026lt;/p\u0026gt; \u0026lt;/div\u0026gt; \r\r\rUsage Simply place the following shortcode on the page\nCode in the shortcode Copy\r\r\r{{\u0026lt; code lang=\u0026#34;LANG\u0026#34; \u0026gt;}} [your code] {{\u0026lt; /code \u0026gt;}} \r\r\rCode from a file Copy\r\r\r{{\u0026lt; code lang=\u0026#34;LANG\u0026#34; file=\u0026#34;code/mycode.html\u0026#34; \u0026gt;}} \r\r\rParameters lang The lang parameter defines the language to be used for code highlighting. You can find a complete list of supported languages here.\nExample: lang=\u0026quot;html\u0026quot;\nfile The file parameter allows you to define an external file that contains your code to be displayed. This is done by giving a path to that file, starting from the root directory of your site. For example, a HTML file named \u0026lsquo;mycode.html\u0026rsquo; you wish to link that is in the docs/code/ directory can be defined as follows: file=\u0026quot;code/mycode.html\u0026quot;.\n"
+},
+{
+	"uri": "https://agrofims.github.io/helpdocs/creatingafieldbook/crop/",
+	"title": "5.Crop",
+	"tags": [],
+	"description": "",
+	"content": "This section is dedicated to the description of the crops cultivated in the experiment.\rAdding a crop or a variety to the experiment  Select the type of cropping system of your experiment. Currently the choices are: Monocrop, Intercrop or Relay crop. Select the crop’s common name. If the crop is not listed, select ‘’Other’’ and specify the crop common name. If “Intercrop” or “Relay crop” are selected, AgroFIMS will require you to add at least 2 crops. To add more, click on “add crop”. Enter the variety name. You can enter as many varieties as needed.  May I import a list of varieties or genotypes? It is not currently possible to import a list of varieties or genotypes. You have to manually enter your list in the text box: Variety name(s)\nWhat is Fieldbook ID? Fieldbook ID is a unique identifier created by AgroFIMS to identify your experiment. It is made of the concatenation of the following information: F_Cropping type_Crop name_Experiment start date_Country. “F” stands for Fieldbook in this case.\n"
 },
 {
 	"uri": "https://agrofims.github.io/helpdocs/shortcodes/collapse/",
@@ -203,11 +147,25 @@
 	"content": "Feel like hiding some content from your visitor in a collapsible element? The collapse shortcode does exactly that. It creates a button that shows or hides the content in the shortcode on request.\nClick me to show content\r\rHi there, I'm the hidden content. Didn't see that one coming, huh?\r\r Usage Simply place the following shortcode on the page Copy\r\r\r{{\u0026lt; collapse title=\u0026#34;TITLE\u0026#34; \u0026gt;}} [content] {{\u0026lt; /collapse \u0026gt;}} \r\r\rParameters title The lang parameter defines the text to show in the button that toggles the collapse content.\nExample: title=\u0026quot;Click me to show content\u0026quot;.\n"
 },
 {
+	"uri": "https://agrofims.github.io/helpdocs/creatingafieldbook/design/",
+	"title": "6.Design",
+	"tags": [],
+	"description": "",
+	"content": "Find below the steps to create a fieldbook in AgroFIMS.\r"
+},
+{
 	"uri": "https://agrofims.github.io/helpdocs/shortcodes/doublecode/",
 	"title": "Doublecode",
 	"tags": [],
 	"description": "",
 	"content": "The doublecode shortcode works the same as the code shortcode, but extends the functionality by also rendering the code in the page. This is useful for showing the code of HTML elements in your page.\nHi there\nI'm inside a doublecode shortcode, that's why I look so fancy.\n\r\r\rCopy\r\r\r\u0026lt;div class=\u0026#34;mydiv bg-primary shadow text-white p-3 m-4 border-primary\u0026#34;\u0026gt; \u0026lt;p class=\u0026#34;h4 title\u0026#34;\u0026gt;Hi there\u0026lt;/p\u0026gt; \u0026lt;p class=\u0026#34;lead mb-0\u0026#34;\u0026gt;I\u0026#39;m inside a doublecode shortcode, that\u0026#39;s why I look so fancy.\u0026lt;/p\u0026gt; \u0026lt;/div\u0026gt; \r\r\rUsage Simply place the following shortcode on the page\nCode in the shortcode Copy\r\r\r{{\u0026lt; doublecode lang=\u0026#34;LANG\u0026#34; \u0026gt;}} [your code] {{\u0026lt; /doublecode \u0026gt;}} \r\r\rCode from a file Copy\r\r\r{{\u0026lt; doublecode lang=\u0026#34;LANG\u0026#34; file=\u0026#34;code/mycode.html\u0026#34; \u0026gt;}} \r\r\rParameters lang The lang parameter defines the language to be used for code highlighting. You can find a complete list of supported languages here.\nExample: lang=\u0026quot;html\u0026quot;\nfile The file parameter allows you to define an external file that contains your code to be displayed. This is done by giving a path to that file, starting from the root directory of your site. For example, a HTML file named \u0026lsquo;mycode.html\u0026rsquo; you wish to link that is in the docs/code/ directory can be defined as follows: file=\u0026quot;code/mycode.html\u0026quot;.\n"
+},
+{
+	"uri": "https://agrofims.github.io/helpdocs/creatingafieldbook/fertilizer/",
+	"title": "7.Fertilizer",
+	"tags": [],
+	"description": "",
+	"content": "Find below the steps to add fertilizer applications in your protocol.\r"
 },
 {
 	"uri": "https://agrofims.github.io/helpdocs/shortcodes/lead/",
@@ -217,6 +175,13 @@
 	"content": "The lead shortcode creates a paragraph with the lead class to make it stand out. Great for introductions or summaries.\nI\u0026rsquo;m a lead paragraph. That means I\u0026rsquo;m more important. And you can see that.\rUsage Simply place the following shortcode on the page Copy\r\r\r{{\u0026lt; lead \u0026gt;}} [content] {{\u0026lt; /lead \u0026gt;}} \r\r\r"
 },
 {
+	"uri": "https://agrofims.github.io/helpdocs/creatingafieldbook/management-practices/",
+	"title": "8.Management practices",
+	"tags": [],
+	"description": "",
+	"content": "Find below the steps to add management practices in your protocol.\r"
+},
+{
 	"uri": "https://agrofims.github.io/helpdocs/shortcodes/panel/",
 	"title": "Panel",
 	"tags": [],
@@ -224,11 +189,46 @@
 	"content": "Draw your visitor\u0026rsquo;s attention by separating information from the rest of the page using a panel. Convey meaning to this information by using colors implying danger, warning, success or info in a similar fashion as alerts.\nI\u0026#39;m important\r\rBe sure to read me, I might have important information for you.\r\r\r\rUsage Simply place the following shortcode on the page Copy\r\r\r{{\u0026lt; panel title=\u0026#34;TITLE\u0026#34; style=\u0026#34;STYLE\u0026#34; \u0026gt;}} [content] {{\u0026lt; /panel \u0026gt;}} \r\r\rParameters Style The style parameter is directly applied to the alert as a class in the format \u0026ldquo;border-{STYLE}\u0026quot;. Bootstrap comes with a variety of styles that can be used with this:\n primary secondary danger warning success info Example: style=\u0026quot;danger\u0026quot;.  Title The title paramter defines the text shown as a title in the panel. It will have the same color as the style.\nExample: title=\u0026quot;I\u0026rsquo;m important\u0026quot;.\n"
 },
 {
+	"uri": "https://agrofims.github.io/helpdocs/creatingafieldbook/crop-measurement/",
+	"title": "9.Crop measurements",
+	"tags": [],
+	"description": "",
+	"content": "In this section you can select and describe the measurements to be made on the crops.\r"
+},
+{
+	"uri": "https://agrofims.github.io/helpdocs/creatingafieldbook/phenology-measurements/",
+	"title": "10.Phenology measurements",
+	"tags": [],
+	"description": "",
+	"content": "Find below the steps to create a fieldbook in AgroFIMS.\rPhenology measurements 1.\n"
+},
+{
+	"uri": "https://agrofims.github.io/helpdocs/creatingafieldbook/weather-measurements/",
+	"title": "11.Weather measurements",
+	"tags": [],
+	"description": "",
+	"content": "This section is dedicated to the selection of weather measurements to make during the experiment.\rSelecting a weather measurement  Select a measurement in the drop-down list. You can either scroll through the list or delete the default and type the name of your measurement – the auto-complete feature will select the term if the measurement is in the list. Once you have found your measurement, select it and click on . The measurement will be added to the list of measurements for this experiment. You can then indicate its unit, the number of times it has to be measured during the season, and its timing. You can add as many weather measurements as needed.  Removing a measurement from the list To remove a measurement, click on the cross at the upper right side of the measurement box.\n"
+},
+{
+	"uri": "https://agrofims.github.io/helpdocs/creatingafieldbook/soil-measurements/",
+	"title": "12.Soil measurements",
+	"tags": [],
+	"description": "",
+	"content": "This section is dedicated to the selection of soil measurements to make during the experiment.\r"
+},
+{
+	"uri": "https://agrofims.github.io/helpdocs/creatingafieldbook/crop/",
+	"title": "00. Former Crop",
+	"tags": [],
+	"description": "",
+	"content": "This section is dedicated to the description of the crops cultivated in the experiment.\rAdding a crop or a variety to the experiment  Select the type of cropping system of your experiment. Currently the choices are: Monocrop, Intercrop or Relay crop. Select the crop’s common name. If the crop is not listed, select ‘’Other’’ and specify the crop common name. If “Intercrop” or “Relay crop” are selected, AgroFIMS will require you to add at least 2 crops. To add more, click on “add crop”. Enter the variety name. You can enter as many varieties as needed.  May I import a list of varieties or genotypes? It is not currently possible to import a list of varieties or genotypes. You have to manually enter your list in the text box: Variety name(s)\nWhat is Fieldbook ID? Fieldbook ID is a unique identifier created by AgroFIMS to identify your experiment. It is made of the concatenation of the following information: F_Cropping type_Crop name_Experiment start date_Country. “F” stands for Fieldbook in this case.\n"
+},
+{
 	"uri": "https://agrofims.github.io/helpdocs/",
 	"title": "AGROFIMS Help Page",
 	"tags": [],
 	"description": "",
-	"content": "Welcome to the AgroFIMS help documentation which provide instructions to getting started with the interface and produce a fieldbook.\rFeatures \r\rFast.\r\rStatic files generated in less than a second. And served to your visitors just as fast.\r\r\r\r\r\rMinimalistic.\r\rA clean look to keep your user's attention to the content that matters: your documentation.\r\r\r\r\r\rSementics inside.\r\rAgroFIMS relies on ontologies to build fieldbook semantically annotated.\r\r\r\r\r\rAutomatic.\r\rFolders and files are automatically added in the menu depending on your file and folder structure.\r\r\r\r\r\rFull search.\r\rEasily find the content you look for through the search function.\r\r\r\r\r\rCode hightlighting.\r\rCode highlighting. Include code samples with a copy button. If it’s HTML, you can also render the code.\r\r\r\r\r\rUseful shortcodes.\r\rCode, buttons, alerts, leads, collapse, panels, images, videos and more.\r\r\r\r\r\rBuilt with Bootstrap.\r\rBuilt with Bootstrap 4. Fully responsive out of the box. Build and style page elements using Bootstrap.\r\r\r\r\r\rIcons.\r\rPacked with Font Awesome. Empower your content with a shit ton of awesome icons.\r\r\r\r\r"
+	"content": "Welcome to the AgroFIMS help documentation which provide instructions to getting started with the interface and produce a fieldbook.\rFeatures \r\rNew field book\r\rStatic files generated in less than a second. And served to your visitors just as fast.\r\r\r\r\r\rMinimalistic.\r\rA clean look to keep your user's attention to the content that matters: your documentation.\r\r\r\r\r\rSementics inside.\r\rAgroFIMS relies on ontologies to build fieldbook semantically annotated.\r\r\r\r\r\rAutomatic.\r\rFolders and files are automatically added in the menu depending on your file and folder structure.\r\r\r\r\r\rFull search.\r\rEasily find the content you look for through the search function.\r\r\r\r\r\rCode hightlighting.\r\rCode highlighting. Include code samples with a copy button. If it’s HTML, you can also render the code.\r\r\r\r\r\rUseful shortcodes.\r\rCode, buttons, alerts, leads, collapse, panels, images, videos and more.\r\r\r\r\r\rBuilt with Bootstrap.\r\rBuilt with Bootstrap 4. Fully responsive out of the box. Build and style page elements using Bootstrap.\r\r\r\r\r\rIcons.\r\rPacked with Font Awesome. Empower your content with a shit ton of awesome icons.\r\r\r\r\r"
 },
 {
 	"uri": "https://agrofims.github.io/helpdocs/categories/",

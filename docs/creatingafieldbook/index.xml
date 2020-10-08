@@ -20,33 +20,6 @@
     </item>
     
     <item>
-      <title>11.Phenology measurements</title>
-      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/phenology-measurements/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/phenology-measurements/</guid>
-      <description>Find below the steps to create a fieldbook in AgroFIMS.Phenology measurements 1.</description>
-    </item>
-    
-    <item>
-      <title>12.Weather measurements</title>
-      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/weather-measurements/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/weather-measurements/</guid>
-      <description>This section is dedicated to the selection of weather measurements to make during the experiment.Selecting a weather measurement  Select a measurement in the drop-down list. You can either scroll through the list or delete the default and type the name of your measurement – the auto-complete feature will select the term if the measurement is in the list. Once you have found your measurement, select it and click on .</description>
-    </item>
-    
-    <item>
-      <title>13.Soil measurements</title>
-      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/soil-measurements/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/soil-measurements/</guid>
-      <description>This section is dedicated to the selection of soil measurements to make during the experiment.</description>
-    </item>
-    
-    <item>
       <title>2.Personnel</title>
       <link>https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -71,15 +44,6 @@
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/site/</guid>
       <description>In this section you can describe the experimental site and its surroundings.</description>
-    </item>
-    
-    <item>
-      <title>5.Crop</title>
-      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/</guid>
-      <description>This section is dedicated to the description of the crops cultivated in the experiment.Adding a crop or a variety to the experiment  Select the type of cropping system of your experiment. Currently the choices are: Monocrop, Intercrop or Relay crop. Select the crop’s common name. If the crop is not listed, select ‘’Other’’ and specify the crop common name. If “Intercrop” or “Relay crop” are selected, AgroFIMS will require you to add at least 2 crops.</description>
     </item>
     
     <item>
@@ -116,6 +80,42 @@
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/crop-measurement/</guid>
       <description>In this section you can select and describe the measurements to be made on the crops.</description>
+    </item>
+    
+    <item>
+      <title>10.Phenology measurements</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/phenology-measurements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/phenology-measurements/</guid>
+      <description>Find below the steps to create a fieldbook in AgroFIMS.Phenology measurements 1.</description>
+    </item>
+    
+    <item>
+      <title>11.Weather measurements</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/weather-measurements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/weather-measurements/</guid>
+      <description>This section is dedicated to the selection of weather measurements to make during the experiment.Selecting a weather measurement  Select a measurement in the drop-down list. You can either scroll through the list or delete the default and type the name of your measurement – the auto-complete feature will select the term if the measurement is in the list. Once you have found your measurement, select it and click on .</description>
+    </item>
+    
+    <item>
+      <title>12.Soil measurements</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/soil-measurements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/soil-measurements/</guid>
+      <description>This section is dedicated to the selection of soil measurements to make during the experiment.</description>
+    </item>
+    
+    <item>
+      <title>00. Former Crop</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/</guid>
+      <description>This section is dedicated to the description of the crops cultivated in the experiment.Adding a crop or a variety to the experiment  Select the type of cropping system of your experiment. Currently the choices are: Monocrop, Intercrop or Relay crop. Select the crop’s common name. If the crop is not listed, select ‘’Other’’ and specify the crop common name. If “Intercrop” or “Relay crop” are selected, AgroFIMS will require you to add at least 2 crops.</description>
     </item>
     
   </channel>

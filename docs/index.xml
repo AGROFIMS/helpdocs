@@ -11,6 +11,24 @@
     
     
     <item>
+      <title>1.Experiments</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/</guid>
+      <description>In this section, you can detail the experiment metadata.</description>
+    </item>
+    
+    <item>
+      <title>Adding a crop or a variety to the experiment</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/adding_a_crop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/adding_a_crop/</guid>
+      <description>1.	Select the type of cropping system of your experiment. Currently the choices are: Monocrop, Intercrop or Relay crop.2.	Select the crop’s common name. If the crop is not listed, select ‘’Other’’ and specify the crop common name. If “Intercrop” or “Relay crop” are selected, AgroFIMS will require you to add at least 2 crops. To add more, click on “add crop”.3.	Enter the variety name. You can enter as many varieties as needed.</description>
+    </item>
+    
+    <item>
       <title>Alerts</title>
       <link>https://agrofims.github.io/helpdocs/shortcodes/alerts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -30,120 +48,12 @@
     </item>
     
     <item>
-      <title>1.Experiments</title>
-      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/</guid>
-      <description>In this section, you can detail the experiment metadata.</description>
-    </item>
-    
-    <item>
-      <title>11.Phenology measurements</title>
-      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/phenology-measurements/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/phenology-measurements/</guid>
-      <description>Find below the steps to create a fieldbook in AgroFIMS.Phenology measurements 1.</description>
-    </item>
-    
-    <item>
-      <title>12.Weather measurements</title>
-      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/weather-measurements/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/weather-measurements/</guid>
-      <description>This section is dedicated to the selection of weather measurements to make during the experiment.Selecting a weather measurement  Select a measurement in the drop-down list. You can either scroll through the list or delete the default and type the name of your measurement – the auto-complete feature will select the term if the measurement is in the list. Once you have found your measurement, select it and click on .</description>
-    </item>
-    
-    <item>
-      <title>13.Soil measurements</title>
-      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/soil-measurements/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/soil-measurements/</guid>
-      <description>This section is dedicated to the selection of soil measurements to make during the experiment.</description>
-    </item>
-    
-    <item>
       <title>2.Personnel</title>
       <link>https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/</guid>
       <description>In this section you can add information about the personnel linked to the experiment.</description>
-    </item>
-    
-    <item>
-      <title>3.Fieldbook</title>
-      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/</guid>
-      <description>Find below the steps to create a fieldbook in AgroFIMS.</description>
-    </item>
-    
-    <item>
-      <title>4.Site</title>
-      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/site/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/site/</guid>
-      <description>In this section you can describe the experimental site and its surroundings.</description>
-    </item>
-    
-    <item>
-      <title>5.Crop</title>
-      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/</guid>
-      <description>This section is dedicated to the description of the crops cultivated in the experiment.Adding a crop or a variety to the experiment  Select the type of cropping system of your experiment. Currently the choices are: Monocrop, Intercrop or Relay crop. Select the crop’s common name. If the crop is not listed, select ‘’Other’’ and specify the crop common name. If “Intercrop” or “Relay crop” are selected, AgroFIMS will require you to add at least 2 crops.</description>
-    </item>
-    
-    <item>
-      <title>6.Design</title>
-      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/design/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/design/</guid>
-      <description>Find below the steps to create a fieldbook in AgroFIMS.</description>
-    </item>
-    
-    <item>
-      <title>7.Fertilizer</title>
-      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/fertilizer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/fertilizer/</guid>
-      <description>Find below the steps to add fertilizer applications in your protocol.</description>
-    </item>
-    
-    <item>
-      <title>8.Management practices</title>
-      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/management-practices/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/management-practices/</guid>
-      <description>Find below the steps to add management practices in your protocol.</description>
-    </item>
-    
-    <item>
-      <title>9.Crop measurements</title>
-      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/crop-measurement/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/crop-measurement/</guid>
-      <description>In this section you can select and describe the measurements to be made on the crops.</description>
-    </item>
-    
-    <item>
-      <title>Adding a crop or a variety to the experiment</title>
-      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/adding_a_crop/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/adding_a_crop/</guid>
-      <description>1.	Select the type of cropping system of your experiment. Currently the choices are: Monocrop, Intercrop or Relay crop.2.	Select the crop’s common name. If the crop is not listed, select ‘’Other’’ and specify the crop common name. If “Intercrop” or “Relay crop” are selected, AgroFIMS will require you to add at least 2 crops. To add more, click on “add crop”.3.	Enter the variety name. You can enter as many varieties as needed.</description>
     </item>
     
     <item>
@@ -169,21 +79,21 @@ Copyright (C) 2007 Free Software Foundation, Inc. http://fsf.org/ Everyone is pe
     </item>
     
     <item>
-      <title>May I import a list of varieties or genotypes?</title>
-      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/import_variety/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/import_variety/</guid>
-      <description>It is not currently possible to import a list of varieties or genotypes. You have to manually enter your list in the text box: Variety name(s)</description>
-    </item>
-    
-    <item>
       <title>What is Fieldbook ID?</title>
       <link>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/fieldbook_id/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/fieldbook_id/</guid>
       <description>Fieldbook ID is a unique identifier created by AgroFIMS to identify your experiment. It is made of the concatenation of the following information: F_Cropping type_Crop name_Experiment start date_Country. “F” stands for Fieldbook in this case.</description>
+    </item>
+    
+    <item>
+      <title>3.Fieldbook</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/</guid>
+      <description>Find below the steps to create a fieldbook in AgroFIMS.</description>
     </item>
     
     <item>
@@ -194,6 +104,24 @@ Copyright (C) 2007 Free Software Foundation, Inc. http://fsf.org/ Everyone is pe
       <guid>https://agrofims.github.io/helpdocs/shortcodes/childpages/</guid>
       <description>The childpages shortcode allows you to show a list of sub-pages of the current page. For example, the Getting started page of this documentation has three child pages: Installation, Configuration and Creating content. Placing the childpages shortcode in the Getting started page will place a create a list of these sub-pages in that page.
 Usage Simply place the following shortcode on the page Copy{{&amp;lt; childpages &amp;gt;}} </description>
+    </item>
+    
+    <item>
+      <title>May I import a list of varieties or genotypes?</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/import_variety/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/import_variety/</guid>
+      <description>It is not currently possible to import a list of varieties or genotypes. You have to manually enter your list in the text box: Variety name(s)</description>
+    </item>
+    
+    <item>
+      <title>4.Site</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/site/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/site/</guid>
+      <description>In this section you can describe the experimental site and its surroundings.</description>
     </item>
     
     <item>
@@ -217,6 +145,15 @@ Click me to show contentHi there, I&#39;m the hidden content. Didn&#39;t see t
     </item>
     
     <item>
+      <title>6.Design</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/design/</guid>
+      <description>Find below the steps to create a fieldbook in AgroFIMS.</description>
+    </item>
+    
+    <item>
       <title>Doublecode</title>
       <link>https://agrofims.github.io/helpdocs/shortcodes/doublecode/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -226,6 +163,15 @@ Click me to show contentHi there, I&#39;m the hidden content. Didn&#39;t see t
 Hi there
 I&#39;m inside a doublecode shortcode, that&#39;s why I look so fancy.
 Copy&amp;lt;div class=&amp;#34;mydiv bg-primary shadow text-white p-3 m-4 border-primary&amp;#34;&amp;gt; &amp;lt;p class=&amp;#34;h4 title&amp;#34;&amp;gt;Hi there&amp;lt;/p&amp;gt; &amp;lt;p class=&amp;#34;lead mb-0&amp;#34;&amp;gt;I&amp;#39;m inside a doublecode shortcode, that&amp;#39;s why I look so fancy.</description>
+    </item>
+    
+    <item>
+      <title>7.Fertilizer</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/fertilizer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/fertilizer/</guid>
+      <description>Find below the steps to add fertilizer applications in your protocol.</description>
     </item>
     
     <item>
@@ -239,6 +185,15 @@ I&amp;rsquo;m a lead paragraph. That means I&amp;rsquo;m more important. And you
     </item>
     
     <item>
+      <title>8.Management practices</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/management-practices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/management-practices/</guid>
+      <description>Find below the steps to add management practices in your protocol.</description>
+    </item>
+    
+    <item>
       <title>Panel</title>
       <link>https://agrofims.github.io/helpdocs/shortcodes/panel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -246,6 +201,51 @@ I&amp;rsquo;m a lead paragraph. That means I&amp;rsquo;m more important. And you
       <guid>https://agrofims.github.io/helpdocs/shortcodes/panel/</guid>
       <description>Draw your visitor&amp;rsquo;s attention by separating information from the rest of the page using a panel. Convey meaning to this information by using colors implying danger, warning, success or info in a similar fashion as alerts.
 I&amp;#39;m importantBe sure to read me, I might have important information for you.Usage Simply place the following shortcode on the page Copy{{&amp;lt; panel title=&amp;#34;TITLE&amp;#34; style=&amp;#34;STYLE&amp;#34; &amp;gt;}} [content] {{&amp;lt; /panel &amp;gt;}} Parameters Style The style parameter is directly applied to the alert as a class in the format &amp;ldquo;border-{STYLE}&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>9.Crop measurements</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/crop-measurement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/crop-measurement/</guid>
+      <description>In this section you can select and describe the measurements to be made on the crops.</description>
+    </item>
+    
+    <item>
+      <title>10.Phenology measurements</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/phenology-measurements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/phenology-measurements/</guid>
+      <description>Find below the steps to create a fieldbook in AgroFIMS.Phenology measurements 1.</description>
+    </item>
+    
+    <item>
+      <title>11.Weather measurements</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/weather-measurements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/weather-measurements/</guid>
+      <description>This section is dedicated to the selection of weather measurements to make during the experiment.Selecting a weather measurement  Select a measurement in the drop-down list. You can either scroll through the list or delete the default and type the name of your measurement – the auto-complete feature will select the term if the measurement is in the list. Once you have found your measurement, select it and click on .</description>
+    </item>
+    
+    <item>
+      <title>12.Soil measurements</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/soil-measurements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/soil-measurements/</guid>
+      <description>This section is dedicated to the selection of soil measurements to make during the experiment.</description>
+    </item>
+    
+    <item>
+      <title>00. Former Crop</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/</guid>
+      <description>This section is dedicated to the description of the crops cultivated in the experiment.Adding a crop or a variety to the experiment  Select the type of cropping system of your experiment. Currently the choices are: Monocrop, Intercrop or Relay crop. Select the crop’s common name. If the crop is not listed, select ‘’Other’’ and specify the crop common name. If “Intercrop” or “Relay crop” are selected, AgroFIMS will require you to add at least 2 crops.</description>
     </item>
     
     <item>

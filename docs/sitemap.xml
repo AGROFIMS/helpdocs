@@ -3,7 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/adding_a_crop/</loc>
+  </url>
+  
+  <url>
     <loc>https://agrofims.github.io/helpdocs/shortcodes/alerts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/</loc>
   </url>
   
   <url>
@@ -15,55 +27,7 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/</loc>
-  </url>
-  
-  <url>
-    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/phenology-measurements/</loc>
-  </url>
-  
-  <url>
-    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/weather-measurements/</loc>
-  </url>
-  
-  <url>
-    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/soil-measurements/</loc>
-  </url>
-  
-  <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/</loc>
-  </url>
-  
-  <url>
-    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/</loc>
-  </url>
-  
-  <url>
-    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/site/</loc>
-  </url>
-  
-  <url>
-    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/</loc>
-  </url>
-  
-  <url>
-    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/design/</loc>
-  </url>
-  
-  <url>
-    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/fertilizer/</loc>
-  </url>
-  
-  <url>
-    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/management-practices/</loc>
-  </url>
-  
-  <url>
-    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/crop-measurement/</loc>
-  </url>
-  
-  <url>
-    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/adding_a_crop/</loc>
   </url>
   
   <url>
@@ -75,19 +39,7 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/</loc>
-  </url>
-  
-  <url>
     <loc>https://agrofims.github.io/helpdocs/creatingasite/</loc>
-  </url>
-  
-  <url>
-    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/</loc>
-  </url>
-  
-  <url>
-    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/import_variety/</loc>
   </url>
   
   <url>
@@ -103,7 +55,15 @@
   </url>
   
   <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/</loc>
+  </url>
+  
+  <url>
     <loc>https://agrofims.github.io/helpdocs/shortcodes/childpages/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/import_variety/</loc>
   </url>
   
   <url>
@@ -111,7 +71,15 @@
   </url>
   
   <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/site/</loc>
+  </url>
+  
+  <url>
     <loc>https://agrofims.github.io/helpdocs/shortcodes/code/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/</loc>
   </url>
   
   <url>
@@ -119,7 +87,15 @@
   </url>
   
   <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/design/</loc>
+  </url>
+  
+  <url>
     <loc>https://agrofims.github.io/helpdocs/shortcodes/doublecode/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/fertilizer/</loc>
   </url>
   
   <url>
@@ -127,7 +103,31 @@
   </url>
   
   <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/management-practices/</loc>
+  </url>
+  
+  <url>
     <loc>https://agrofims.github.io/helpdocs/shortcodes/panel/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/crop-measurement/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/phenology-measurements/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/weather-measurements/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/soil-measurements/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/</loc>
   </url>
   
   <url>
