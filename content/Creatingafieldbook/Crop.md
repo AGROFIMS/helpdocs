@@ -1,7 +1,7 @@
 +++
-title = "5.Crop"
+title = "00. Former Crop"
 description = ""
-weight = 2
+weight = 20
 +++
 
 {{< lead >}}

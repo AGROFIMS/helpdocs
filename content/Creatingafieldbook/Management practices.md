@@ -1,7 +1,7 @@
 +++
 title = "8.Management practices"
 description = ""
-weight = 2
+weight = 8
 +++
 
 {{< lead >}}

@@ -1,7 +1,7 @@
 +++
 title = "6.Design"
 description = ""
-weight = 2
+weight = 6
 +++
 
 {{< lead >}}

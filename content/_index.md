@@ -19,7 +19,7 @@ Welcome to the AgroFIMS help documentation which provide instructions to getting
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
-					Fast.
+					<a href="https://agrofims.github.io/helpdocs/creatingafieldbook/">New field book</a>
 				</h5>
 				<p class="card-text text-muted">
 					Static files generated in less than a second. And served to your visitors just as fast.

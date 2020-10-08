@@ -23,6 +23,11 @@ disableReadmoreNav = false # set true to hide prev/next navigation, default is f
 highlightClientSide = false # set true to use highlight.pack.js instead of the default hugo chroma highlighter
 menushortcutsnewtab = true # set true to open shortcuts links to a new tab/window
 
+# toc = true                                                                            # 是否开启目录
+# autoCollapseToc = true  # Auto expand and collapse toc                              # 目录自动展开/折叠
+ 
+
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

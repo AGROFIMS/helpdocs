@@ -1,7 +1,7 @@
 +++
 title = "9.Crop measurements"
 description = ""
-weight = 2
+weight = 9
 +++
 
 {{< lead >}}

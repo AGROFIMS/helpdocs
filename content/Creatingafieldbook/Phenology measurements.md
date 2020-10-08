@@ -1,7 +1,7 @@
 +++
-title = "11.Phenology measurements"
+title = "10.Phenology measurements"
 description = ""
-weight = 2
+weight = 10
 +++
 
 {{< lead >}}
