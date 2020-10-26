@@ -1,7 +1,7 @@
 +++
 title = "Creating a new fieldbook"
 description = ""
-weight = 1
+weight = 2
 +++
 
 {{< lead >}}

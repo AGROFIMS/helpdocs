@@ -38,7 +38,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [[menu.shortcuts]]
 name = "<button class='btn btn-success mt-n1'>AgroFIMS</button>"
-url = "https://research.cip.cgiar.org/agrofims/dev/0212"
+url = "https://agrofims.org/"
 weight = 3
 
 [[menu.shortcuts]]

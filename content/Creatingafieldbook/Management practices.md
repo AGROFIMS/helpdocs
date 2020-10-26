@@ -1,5 +1,5 @@
 +++
-title = "8.Management practices"
+title = "Management practices"
 description = ""
 weight = 8
 +++

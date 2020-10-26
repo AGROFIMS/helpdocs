@@ -1,5 +1,5 @@
 +++
-title = "3.Fieldbook"
+title = "Fieldbook"
 description = ""
 weight = 3
 +++

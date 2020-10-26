@@ -1,2 +1,2 @@
 # helpdocs
-AGROFIMS help documentation page
+AgroFIMS help documentation page

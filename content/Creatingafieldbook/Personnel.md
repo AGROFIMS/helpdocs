@@ -1,5 +1,5 @@
 +++
-title = "2.Personnel"
+title = "Personnel"
 description = ""
 weight = 2
 +++

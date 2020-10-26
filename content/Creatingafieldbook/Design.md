@@ -1,5 +1,5 @@
 +++
-title = "6.Design"
+title = "Design"
 description = ""
 weight = 6
 +++

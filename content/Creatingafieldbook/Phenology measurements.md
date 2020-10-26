@@ -1,5 +1,5 @@
 +++
-title = "10.Phenology measurements"
+title = "Phenology measurements"
 description = ""
 weight = 10
 +++

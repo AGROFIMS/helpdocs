@@ -1,5 +1,5 @@
 +++
-title = "1.Experiments"
+title = "Experiments"
 description = ""
 weight = 1
 +++

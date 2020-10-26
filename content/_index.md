@@ -1,11 +1,11 @@
 +++
-title = "AGROFIMS Help Page"
+title = "AgroFIMS Help Page"
 description = ""
 +++
 
 {{< lead >}}
 
-Welcome to the AgroFIMS help documentation which provide instructions to getting started with the interface and produce a fieldbook. 
+Welcome to the AgroFIMS help documentation which provide instructions to getting started with the interface and to producing a fieldbook. 
 
 {{< /lead >}}
 

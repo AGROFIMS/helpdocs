@@ -1,11 +1,11 @@
 +++
-title = "Manage your account"
+title = "Managing your account"
 description = ""
 weight = 1
 +++
 
 ## Signing Up
-1.	Go to  <a href="https://research.cip.cgiar.org/agrofims/dev/0212" target="_blank">AgroFIMS</a>.
+1.	Go to  <a href="https://agrofims.org/" target="_blank">AgroFIMS</a>.
 2.	Enter your email, password, name, last name, organization and country. 
 3.	Click Create.
 4.	Your account has been created. You can Log in and start using AgroFIMS. 

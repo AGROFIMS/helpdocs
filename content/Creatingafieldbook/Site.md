@@ -1,5 +1,5 @@
 +++
-title = "4.Site"
+title = "Site"
 description = ""
 weight = 4
 +++

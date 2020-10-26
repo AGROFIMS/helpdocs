@@ -11,7 +11,7 @@
     
     
     <item>
-      <title>1.Experiments</title>
+      <title>Experiments</title>
       <link>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -20,7 +20,7 @@
     </item>
     
     <item>
-      <title>2.Personnel</title>
+      <title>Personnel</title>
       <link>https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -29,7 +29,7 @@
     </item>
     
     <item>
-      <title>3.Fieldbook</title>
+      <title>Fieldbook</title>
       <link>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -38,7 +38,7 @@
     </item>
     
     <item>
-      <title>4.Site</title>
+      <title>Site</title>
       <link>https://agrofims.github.io/helpdocs/creatingafieldbook/site/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -47,7 +47,7 @@
     </item>
     
     <item>
-      <title>6.Design</title>
+      <title>Design</title>
       <link>https://agrofims.github.io/helpdocs/creatingafieldbook/design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -56,7 +56,7 @@
     </item>
     
     <item>
-      <title>7.Fertilizer</title>
+      <title>Fertilizer</title>
       <link>https://agrofims.github.io/helpdocs/creatingafieldbook/fertilizer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -65,7 +65,7 @@
     </item>
     
     <item>
-      <title>8.Management practices</title>
+      <title>Management practices</title>
       <link>https://agrofims.github.io/helpdocs/creatingafieldbook/management-practices/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -74,7 +74,7 @@
     </item>
     
     <item>
-      <title>9.Crop measurements</title>
+      <title>Crop measurements</title>
       <link>https://agrofims.github.io/helpdocs/creatingafieldbook/crop-measurement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -83,7 +83,7 @@
     </item>
     
     <item>
-      <title>10.Phenology measurements</title>
+      <title>Phenology measurements</title>
       <link>https://agrofims.github.io/helpdocs/creatingafieldbook/phenology-measurements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -92,21 +92,21 @@
     </item>
     
     <item>
-      <title>11.Weather measurements</title>
-      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/weather-measurements/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/weather-measurements/</guid>
-      <description>This section is dedicated to the selection of weather measurements to make during the experiment.Selecting a weather measurement  Select a measurement in the drop-down list. You can either scroll through the list or delete the default and type the name of your measurement – the auto-complete feature will select the term if the measurement is in the list. Once you have found your measurement, select it and click on .</description>
-    </item>
-    
-    <item>
-      <title>12.Soil measurements</title>
+      <title>Soil measurements</title>
       <link>https://agrofims.github.io/helpdocs/creatingafieldbook/soil-measurements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/soil-measurements/</guid>
       <description>This section is dedicated to the selection of soil measurements to make during the experiment.</description>
+    </item>
+    
+    <item>
+      <title>Weather measurements</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/weather-measurements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/weather-measurements/</guid>
+      <description>This section is dedicated to the selection of weather measurements to make during the experiment.Selecting a weather measurement  Select a measurement in the drop-down list. You can either scroll through the list or delete the default and type the name of your measurement – the auto-complete feature will select the term if the measurement is in the list. Once you have found your measurement, select it and click on .</description>
     </item>
     
     <item>

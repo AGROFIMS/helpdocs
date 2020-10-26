@@ -1,5 +1,5 @@
 +++
-title = "9.Crop measurements"
+title = "Crop measurements"
 description = ""
 weight = 9
 +++

@@ -9,18 +9,18 @@ Open tools for open science
 {{< /lead >}}
 
 
-In the AgroFIMS project, we are strong advocates of building the community by providing open tools and trainings for agronomist and researchers in general. AgroFIMS is composed by 
+In the AgroFIMS project, we are strong advocates of enriching the community with open tools for agronomists and researchers in general. AgroFIMS is composed by:
 
-- web applications based on Angular, HTML, Javascript; and 
+- a web application based on Angular, HTML and Javascript;
 
-- R-packages to facilitates the design and analysis of agronomic data.
+- R-packages to facilitate the design and analysis of agronomic data;
 
-- Pythons and Java rutines to facilitate the conversion of AgroFIMS file format to mobile applications such as KDSmart and Fieldbook App.
+- Pythons and Java rutines to facilitate the conversion of AgroFIMS files to mobile applications such as KDSmart and Field Book.
 
-People in general, can find all the open source code in https://github.com/AGROFIMS/
+You can find the open source code at https://github.com/AGROFIMS/
 
 
-*Note*: It is importante to remark that AgroFIMS runs under GPL3 License. For further details, please go 
+*Note*: AgroFIMS runs under GPL3 License. For further details, please go 
 to the [License section](https://agrofims.github.io/helpdocs/sourcecode/license/).
 
 

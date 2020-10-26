@@ -1,7 +1,7 @@
 +++
-title = "11.Weather measurements"
+title = "Weather measurements"
 description = ""
-weight = 11
+weight = 12
 +++
 
 {{< lead >}}
