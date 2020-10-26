@@ -4,9 +4,9 @@ description = ""
 weight = 10
 +++
 
-{{< lead >}}
+
 Find below the steps to create a fieldbook in AgroFIMS.
-{{< /lead >}}
+
 
 ## Phenology measurements
 

@@ -1,7 +1,7 @@
 baseURL = "https://agrofims.github.io/helpdocs/"
 languageCode = "en-us"
 title = "AgroFIMS Help Documentation"
-theme = "ace-documentation-1.0.4"
+theme = "dot-hugo-documentation-theme-master"
 canonifyURLs = true
 publishDir = "docs"
 
@@ -26,6 +26,25 @@ menushortcutsnewtab = true # set true to open shortcuts links to a new tab/windo
 # toc = true                                                                            # 是否开启目录
 # autoCollapseToc = true  # Auto expand and collapse toc                              # 目录自动展开/折叠
  
+# logo is for all page
+logo = "image/logo.png"
+# logo white is for homepage logo, you can use colorful logo too...
+logo_white = "image/logo.png"
+# when logo is empty, it will shown your site title
+
+# customize color
+primary_color = "#02007e"
+body_color = "#f9f9f9"
+text_color = "#636363"
+text_color_dark = "#242738"
+white_color = "#ffffff"
+light_color = "#f8f9fa"
+
+# font family
+font_family = "lato" # Choose font family from : https://fonts.google.com/
+
+# contact form action
+contact_form_action = "#agrofims@cgiar.org" # contact form works with : https://formspree.io
 
 
 [markup]
@@ -45,3 +64,83 @@ weight = 3
 name = "<i class='fab fa-github'></i>"
 url = "https://github.com/AGROFIMS/"
 weight = 20
+
+
+
+
+############################## social links ##############################
+  
+[[params.social]]
+icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
+link = "#https://github.com/AGROFIMS"
+
+[[params.social]]
+icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
+link = "#https://www.youtube.com/channel/UChfp4kWQCscsIUP-4duKzeQ/"
+  
+[[params.social]]
+icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+################################ English Language ######################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+weight = 1
+copyright = "Copyright © AgroFIMS 2020"
+
+# banner
+[Languages.en.params.banner]
+title = "AgroFIMS help documentation"
+subtitle = "Find advice to create your own fieldbooks or get in touch"
+bg_image = "images/banner.png"
+placeholder = "Have a question? Just ask here or enter terms"
+
+# call to action
+[Languages.en.params.cta]
+enable = true
+title = "Didn't find an answer to your question?"
+content = ""
+# call to action button
+[Languages.en.params.cta.button]
+enable = true
+label = "contact us"
+link = "agrofims@cgiar.org"
+
+
+################## english navigation #################
+[[Languages.en.menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[Languages.en.menu.main]]
+name = "Tutorial"
+url = "tutorial"
+weight = 2
+
+[[Languages.en.menu.main]]
+name = "contact"
+url = "contact"
+weight = 3
+
+
+  [[Languages.en.menu.main]]
+  parent = "docs"
+  name = "Installation"
+  url = "installation"
+  weight = 1
+
+  [[Languages.en.menu.main]]
+  parent = "docs"
+  name = "choice"
+  url = "billing-pricing"
+  weight = 2
+
+  [[Languages.en.menu.main]]
+  parent = "docs"
+  name = "Features"
+  url = "features"
+  weight = 3
+
+

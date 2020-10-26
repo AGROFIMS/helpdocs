@@ -1,348 +1,1043 @@
 <!DOCTYPE html>
-<html><head>
+<html lang="en-us">
+  <head>
+  <meta charset="utf-8">
+  <title>Design</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="generator" content="Hugo 0.74.3" />
+  
+  <!-- ** CSS Plugins Needed for the Project ** -->
+  
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="https://agrofims.github.io/helpdocs/plugins/bootstrap/bootstrap.min.css">
 
-    <meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <!-- themefy-icon -->
+  <link rel="stylesheet" href="https://agrofims.github.io/helpdocs/plugins/themify-icons/themify-icons.css">
 
-    <link rel="canonical" href="https://agrofims.github.io/helpdocs/creatingafieldbook/design/">
+  <!--Favicon-->
+  <link rel="icon" href="https://agrofims.github.io/helpdocs/images/favicon.png" type="image/x-icon">
 
-    <title>
-        
-        Design | AgroFIMS Help Documentation
-        
-    </title>
+  <!-- fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap" rel="stylesheet">
+  
+  <style>
+  :root{
+    --primary-color:#02007e;
+    --body-color:#f9f9f9;
+    --text-color:#636363;
+    --text-color-dark:#242738;
+    --white-color:#ffffff;
+    --light-color:#f8f9fa;
+    --font-family:Lato;
+  }
+  </style>
 
-    
-    <link href="https://agrofims.github.io/helpdocs/css/fontawesome.min.css" rel="stylesheet">
+<!-- Main Stylesheet -->
 
-    
-    <link rel="stylesheet" href="https://agrofims.github.io/helpdocs/css/ace.min.css">
+<link href="https://agrofims.github.io/helpdocs/css/style.min.css" rel="stylesheet" media="screen"/>
+  
+<!-- ** JS Plugins Needed for the Project ** -->
 
-    
-    
-        
-    
+<!-- jquiry -->
+<script src="https://agrofims.github.io/helpdocs/plugins/jquery/jquery-1.12.4.js"></script>
+
+<!-- jquary ui -->
+<script src="https://agrofims.github.io/helpdocs/plugins/jquery/jquery-ui.js"></script>
+
+<!-- Bootstrap JS -->
+<script src="https://agrofims.github.io/helpdocs/plugins/bootstrap/bootstrap.min.js"></script>
+
+<!-- match-height JS -->
+<script src="https://agrofims.github.io/helpdocs/plugins/match-height/jquery.matchHeight-min.js"></script>
+
+
+  
+
+  <!-- create /layouts/partials/overrides/header.html in your own theme or root directory to add your custom content here -->
+
 
 </head>
-<body><nav class="navbar navbar-expand-lg navbar-dark bg-primary shadow sticky-top" id="navbarMain">
-    <div class="container">
-        <div>
-            <a class="navbar-brand" href="https://agrofims.github.io/helpdocs/">
-                AgroFIMS Help Documentation
-            </a>
-        </div>
-        
-            <button class="navbar-toggler navbar-toggler-right collapsed" type="button" data-toggle="collapse" data-target="#navbarMainCollapse" aria-controls="navbarMainCollapse" aria-expanded="false" aria-label="Toggle navigation">
-              <span class="navbar-toggler-icon"></span>
-            </button>
 
-            <div class="collapse navbar-collapse" id="navbarMainCollapse">
-              <ul class="navbar-nav ml-auto">
-                            <li class="nav-item">
-                                <a class="nav-link" href="https://agrofims.org/" target="_blank">
-                                  <button class='btn btn-success mt-n1'>AgroFIMS</button>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="https://github.com/AGROFIMS/" target="_blank">
-                                  <i class='fab fa-github'></i>
-                                </a>
-                            </li>
-              </ul>
-            </div>
-    </div>
-</nav>
-<div class="container-fluid">
-            <div class="row">
-
-                <div class="docs-sidenav order-0 col-12 col-md-3 col-lg-2 col-xl-2 position-sticky border-right"><nav class="navbar navbar-expand-md navbar-light pl-0">
-    <button class="navbar-toggler navbar-toggler-right collapsed" type="button" data-toggle="collapse" data-target="#sidenav-left-collapse" aria-controls="sidenav-left-collapse" aria-expanded="false" aria-label="Toggle navigation">
+  
+  <body>
+    
+    <!-- header -->
+    <header class="shadow-bottom sticky-top bg-white">
+      <nav class="navbar navbar-expand-md navbar-light">
+  <div class="container">
+    <a class="navbar-brand px-2" href="https://agrofims.github.io/helpdocs/">
+      
+      
+      
+      
+      <img class="img-fluid" src="https://agrofims.github.io/helpdocs/image/logo.png" alt="AgroFIMS Help Documentation">
+      
+      
+    </a>
+    <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation"
+      aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
 
-     <div class="collapse navbar-collapse align-items-start flex-column" id="sidenav-left-collapse">
-            <form class="form-inline my-2 my-lg-0 searchbox">
-                <input class="form-control mr-sm-2 w-100" data-search-input id="search-by" type="text" placeholder="Search">
-            </form>
-         <ul class="navbar-nav flex-column pt-3">
-    <li data-nav-id="/getting-started/" class="nav-item my-1 haschildren
-        ">
+    <div class="collapse navbar-collapse text-center" id="navigation">
+      <ul class="navbar-nav ml-auto">
         
-        <a class="nav-link p-0" href="https://agrofims.github.io/helpdocs/getting-started/"><h6>Getting started</h6></a>
-        <ul class="list-unstyled ml-2">
-        <li data-nav-id="/getting-started/manageaccount/" class="nav-item my-1">
-                
-                 <a href="https://agrofims.github.io/helpdocs/getting-started/manageaccount/" class="nav-link p-0">
-                    Managing your account
-                </a>
-        </li>
-        </ul>
-    </li>
-    <li data-nav-id="/creatingafieldbook/" class="nav-item my-1 parent haschildren
-        ">
         
-        <a class="nav-link p-0" href="https://agrofims.github.io/helpdocs/creatingafieldbook/"><h6>Creating a new fieldbook</h6></a>
-        <ul class="list-unstyled ml-2">
-        <li data-nav-id="/creatingafieldbook/experiments/" class="nav-item my-1">
-                
-                 <a href="https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/" class="nav-link p-0">
-                    Experiments
-                </a>
+        <li class="nav-item">
+          <a class="nav-link text-dark" href="https://agrofims.github.io/">Home</a>
         </li>
-        <li data-nav-id="/creatingafieldbook/personnel/" class="nav-item my-1">
-                
-                 <a href="https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/" class="nav-link p-0">
-                    Personnel
-                </a>
-        </li>
-        <li data-nav-id="/creatingafieldbook/fieldbook/" class="nav-item my-1">
-                
-                 <a href="https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/" class="nav-link p-0">
-                    Fieldbook
-                </a>
-        </li>
-        <li data-nav-id="/creatingafieldbook/site/" class="nav-item my-1">
-                
-                 <a href="https://agrofims.github.io/helpdocs/creatingafieldbook/site/" class="nav-link p-0">
-                    Site
-                </a>
-        </li>
-    <li data-nav-id="/creatingafieldbook/crop/" class="nav-item my-1 haschildren
-        ">
         
-        <a class="nav-link p-0" href="https://agrofims.github.io/helpdocs/creatingafieldbook/crop/"><h6>Crop</h6></a>
-        <ul class="list-unstyled ml-2">
-        <li data-nav-id="/creatingafieldbook/crop/adding_a_crop/" class="nav-item my-1">
-                
-                 <a href="https://agrofims.github.io/helpdocs/creatingafieldbook/crop/adding_a_crop/" class="nav-link p-0">
-                    Adding a crop or a variety to the experiment
-                </a>
-        </li>
-        <li data-nav-id="/creatingafieldbook/crop/fieldbook_id/" class="nav-item my-1">
-                
-                 <a href="https://agrofims.github.io/helpdocs/creatingafieldbook/crop/fieldbook_id/" class="nav-link p-0">
-                    What is Fieldbook ID?
-                </a>
-        </li>
-        <li data-nav-id="/creatingafieldbook/crop/import_variety/" class="nav-item my-1">
-                
-                 <a href="https://agrofims.github.io/helpdocs/creatingafieldbook/crop/import_variety/" class="nav-link p-0">
-                    May I import a list of varieties or genotypes?
-                </a>
-        </li>
-        </ul>
-    </li>
-        <li data-nav-id="/creatingafieldbook/design/" class="nav-item my-1 active">
-                
-                 <a href="https://agrofims.github.io/helpdocs/creatingafieldbook/design/" class="nav-link p-0">
-                    Design
-                </a>
-        </li>
-        <li data-nav-id="/creatingafieldbook/fertilizer/" class="nav-item my-1">
-                
-                 <a href="https://agrofims.github.io/helpdocs/creatingafieldbook/fertilizer/" class="nav-link p-0">
-                    Fertilizer
-                </a>
-        </li>
-        <li data-nav-id="/creatingafieldbook/management-practices/" class="nav-item my-1">
-                
-                 <a href="https://agrofims.github.io/helpdocs/creatingafieldbook/management-practices/" class="nav-link p-0">
-                    Management practices
-                </a>
-        </li>
-        <li data-nav-id="/creatingafieldbook/crop-measurement/" class="nav-item my-1">
-                
-                 <a href="https://agrofims.github.io/helpdocs/creatingafieldbook/crop-measurement/" class="nav-link p-0">
-                    Crop measurements
-                </a>
-        </li>
-        <li data-nav-id="/creatingafieldbook/phenology-measurements/" class="nav-item my-1">
-                
-                 <a href="https://agrofims.github.io/helpdocs/creatingafieldbook/phenology-measurements/" class="nav-link p-0">
-                    Phenology measurements
-                </a>
-        </li>
-        <li data-nav-id="/creatingafieldbook/soil-measurements/" class="nav-item my-1">
-                
-                 <a href="https://agrofims.github.io/helpdocs/creatingafieldbook/soil-measurements/" class="nav-link p-0">
-                    Soil measurements
-                </a>
-        </li>
-        <li data-nav-id="/creatingafieldbook/weather-measurements/" class="nav-item my-1">
-                
-                 <a href="https://agrofims.github.io/helpdocs/creatingafieldbook/weather-measurements/" class="nav-link p-0">
-                    Weather measurements
-                </a>
-        </li>
-        <li data-nav-id="/creatingafieldbook/crop/" class="nav-item my-1">
-                
-                 <a href="https://agrofims.github.io/helpdocs/creatingafieldbook/crop/" class="nav-link p-0">
-                    00. Former Crop
-                </a>
-        </li>
-        </ul>
-    </li>
-    <li data-nav-id="/creatingasite/" class="nav-item my-1
-        ">
         
-        <a class="nav-link p-0" href="https://agrofims.github.io/helpdocs/creatingasite/"><h6>Creating a new site</h6></a>
-    </li>
-    <li data-nav-id="/sourcecode/" class="nav-item my-1 haschildren
-        ">
         
-        <a class="nav-link p-0" href="https://agrofims.github.io/helpdocs/sourcecode/"><h6>Open Source</h6></a>
-        <ul class="list-unstyled ml-2">
-        <li data-nav-id="/sourcecode/license/" class="nav-item my-1">
-                
-                 <a href="https://agrofims.github.io/helpdocs/sourcecode/license/" class="nav-link p-0">
-                    AgroFIMS License
-                </a>
+        <li class="nav-item">
+          <a class="nav-link text-dark" href="https://agrofims.github.io/helpdocs/tutorial">Tutorial</a>
         </li>
-        </ul>
-    </li>
-    <li data-nav-id="/policyterms/" class="nav-item my-1 haschildren
-        ">
         
-        <a class="nav-link p-0" href="https://agrofims.github.io/helpdocs/policyterms/"><h6>Privacy policy and terms of use</h6></a>
-        <ul class="list-unstyled ml-2">
-        <li data-nav-id="/policyterms/privacy_policy/" class="nav-item my-1">
-                
-                 <a href="https://agrofims.github.io/helpdocs/policyterms/privacy_policy/" class="nav-link p-0">
-                    Privacy policy
-                </a>
-        </li>
-        <li data-nav-id="/policyterms/use/" class="nav-item my-1">
-                
-                 <a href="https://agrofims.github.io/helpdocs/policyterms/use/" class="nav-link p-0">
-                    Use of AgroFIMS
-                </a>
-        </li>
-        </ul>
-    </li>
-    <li data-nav-id="/shortcodes/" class="nav-item my-1 haschildren
-        ">
         
-        <a class="nav-link p-0" href="https://agrofims.github.io/helpdocs/shortcodes/"><h6>Shortcodes</h6></a>
-        <ul class="list-unstyled ml-2">
-        <li data-nav-id="/shortcodes/alerts/" class="nav-item my-1">
-                
-                 <a href="https://agrofims.github.io/helpdocs/shortcodes/alerts/" class="nav-link p-0">
-                    Alerts
-                </a>
+        
+        <li class="nav-item">
+          <a class="nav-link text-dark" href="https://agrofims.github.io/helpdocs/contact">contact</a>
         </li>
-        <li data-nav-id="/shortcodes/buttons/" class="nav-item my-1">
-                
-                 <a href="https://agrofims.github.io/helpdocs/shortcodes/buttons/" class="nav-link p-0">
-                    Buttons
-                </a>
+        
+        
+        
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle text-dark" href="#" role="button" data-toggle="dropdown"
+            aria-haspopup="true" aria-expanded="false">
+            docs
+          </a>
+          <div class="dropdown-menu">
+            
+            <a class="dropdown-item" href="https://agrofims.github.io/helpdocs/installation">Installation</a>
+            
+            <a class="dropdown-item" href="https://agrofims.github.io/helpdocs/billing-pricing">choice</a>
+            
+            <a class="dropdown-item" href="https://agrofims.github.io/helpdocs/features">Features</a>
+            
+          </div>
         </li>
-        <li data-nav-id="/shortcodes/childpages/" class="nav-item my-1">
-                
-                 <a href="https://agrofims.github.io/helpdocs/shortcodes/childpages/" class="nav-link p-0">
-                    Childpages
-                </a>
-        </li>
-        <li data-nav-id="/shortcodes/code/" class="nav-item my-1">
-                
-                 <a href="https://agrofims.github.io/helpdocs/shortcodes/code/" class="nav-link p-0">
-                    Code
-                </a>
-        </li>
-        <li data-nav-id="/shortcodes/collapse/" class="nav-item my-1">
-                
-                 <a href="https://agrofims.github.io/helpdocs/shortcodes/collapse/" class="nav-link p-0">
-                    Collapse
-                </a>
-        </li>
-        <li data-nav-id="/shortcodes/doublecode/" class="nav-item my-1">
-                
-                 <a href="https://agrofims.github.io/helpdocs/shortcodes/doublecode/" class="nav-link p-0">
-                    Doublecode
-                </a>
-        </li>
-        <li data-nav-id="/shortcodes/lead/" class="nav-item my-1">
-                
-                 <a href="https://agrofims.github.io/helpdocs/shortcodes/lead/" class="nav-link p-0">
-                    Lead
-                </a>
-        </li>
-        <li data-nav-id="/shortcodes/panel/" class="nav-item my-1">
-                
-                 <a href="https://agrofims.github.io/helpdocs/shortcodes/panel/" class="nav-link p-0">
-                    Panel
-                </a>
-        </li>
-        <li data-nav-id="/shortcodes/table/" class="nav-item my-1">
-                
-                 <a href="https://agrofims.github.io/helpdocs/shortcodes/table/" class="nav-link p-0">
-                    Table
-                </a>
-        </li>
-        </ul>
-    </li>
-        </ul>
+        
+        
+      </ul>
+      
     </div>
+  </div>
 </nav>
 
-
-</div>
-                <div class="docs-toc large order-lg-2 order-md-0 order-xs-1 col-12 col-lg-2 col-xl-2 position-sticky border-left"><div class="docs-toc">
-	<nav id="TableOfContents"></nav>
-</div>
-</div>
-                <div class="main col-12 order-1 col-md-9 col-lg-10 col-xl-8 py-3">
-                
-
-<h1>Design</h1>
-
-<p class="lead">
-    Find below the steps to create a fieldbook in AgroFIMS.
-</p>
-
-
-
+    </header>
+    <!-- /header -->
+    
     
 
+<!-- details page -->
+<section class="single section-sm pb-0">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-3">
+        <div class="sidebar">
+          <ul class="list-styled">
+            
+            <a class="back-btn" href="https://agrofims.github.io/helpdocs/"></a>
+            
+              
+            
+              
+              
 
-                    
-                    <div class="row"><div class="position-relative mx-auto col-lg-9">
-                          <div class="bg-primary overflow-hidden p-3 mt-5 shadow">
 
-    <h4 class="text-white text-center">Read more</h4>
 
-    <div class="d-flex justify-content-center"><a class="p-1 mr-3 d-inline-block text-white" href="https://agrofims.github.io/helpdocs/creatingafieldbook/crop/import_variety/" title="May I import a list of varieties or genotypes?"><i class="fas fa-chevron-left p-1"></i>May I import a list of varieties or genotypes?</a>
-        <a class="p-1 ml-3 d-inline-block text-white text-right" href="https://agrofims.github.io/helpdocs/creatingafieldbook/fertilizer/" title="Fertilizer">Fertilizer<i class="fas fa-chevron-right p-1"></i></a>
-    </div>
+
+
+
+
+
+<li data-nav-id="https://agrofims.github.io/helpdocs/creatingafieldbook/" title="Creating a new fieldbook" class="sidelist
+  ">
+  <a href="https://agrofims.github.io/helpdocs/creatingafieldbook/">
+    Creating a new fieldbook
+  </a>
+  
+  
+    <ul>
+      
+        
+          
+
+
+
+
+
+
+
+
+<li data-nav-id="https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/" title="Experiments" class="sidelist
+  ">
+  <a href="https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/">
+    Experiments
+  </a>
+  
+  
+</li>
+
+
+        
+      
+        
+          
+
+
+
+
+
+
+
+
+<li data-nav-id="https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/" title="Personnel" class="sidelist
+  ">
+  <a href="https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/">
+    Personnel
+  </a>
+  
+  
+</li>
+
+
+        
+      
+        
+          
+
+
+
+
+
+
+
+
+<li data-nav-id="https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/" title="Fieldbook" class="sidelist
+  ">
+  <a href="https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/">
+    Fieldbook
+  </a>
+  
+  
+</li>
+
+
+        
+      
+        
+          
+
+
+
+
+
+
+
+
+<li data-nav-id="https://agrofims.github.io/helpdocs/creatingafieldbook/site/" title="Site" class="sidelist
+  ">
+  <a href="https://agrofims.github.io/helpdocs/creatingafieldbook/site/">
+    Site
+  </a>
+  
+  
+</li>
+
+
+        
+      
+        
+          
+
+
+
+
+
+
+
+
+<li data-nav-id="https://agrofims.github.io/helpdocs/creatingafieldbook/crop/" title="Crop" class="sidelist
+  ">
+  <a href="https://agrofims.github.io/helpdocs/creatingafieldbook/crop/">
+    Crop
+  </a>
+  
+  
+    <ul>
+      
+        
+          
+
+
+
+
+
+
+
+
+<li data-nav-id="https://agrofims.github.io/helpdocs/creatingafieldbook/crop/adding_a_crop/" title="Adding a crop or a variety to the experiment" class="sidelist
+  ">
+  <a href="https://agrofims.github.io/helpdocs/creatingafieldbook/crop/adding_a_crop/">
+    Adding a crop or a variety to the experiment
+  </a>
+  
+  
+</li>
+
+
+        
+      
+        
+          
+
+
+
+
+
+
+
+
+<li data-nav-id="https://agrofims.github.io/helpdocs/creatingafieldbook/crop/fieldbook_id/" title="What is Fieldbook ID?" class="sidelist
+  ">
+  <a href="https://agrofims.github.io/helpdocs/creatingafieldbook/crop/fieldbook_id/">
+    What is Fieldbook ID?
+  </a>
+  
+  
+</li>
+
+
+        
+      
+        
+          
+
+
+
+
+
+
+
+
+<li data-nav-id="https://agrofims.github.io/helpdocs/creatingafieldbook/crop/import_variety/" title="May I import a list of varieties or genotypes?" class="sidelist
+  ">
+  <a href="https://agrofims.github.io/helpdocs/creatingafieldbook/crop/import_variety/">
+    May I import a list of varieties or genotypes?
+  </a>
+  
+  
+</li>
+
+
+        
+      
+    </ul>
+  
+</li>
+
+
+        
+      
+        
+          
+
+
+
+
+
+
+
+
+<li data-nav-id="https://agrofims.github.io/helpdocs/creatingafieldbook/design/" title="Design" class="sidelist
+  active">
+  <a href="https://agrofims.github.io/helpdocs/creatingafieldbook/design/">
+    Design
+  </a>
+  
+  
+</li>
+
+
+        
+      
+        
+          
+
+
+
+
+
+
+
+
+<li data-nav-id="https://agrofims.github.io/helpdocs/creatingafieldbook/fertilizer/" title="Fertilizer" class="sidelist
+  ">
+  <a href="https://agrofims.github.io/helpdocs/creatingafieldbook/fertilizer/">
+    Fertilizer
+  </a>
+  
+  
+</li>
+
+
+        
+      
+        
+          
+
+
+
+
+
+
+
+
+<li data-nav-id="https://agrofims.github.io/helpdocs/creatingafieldbook/management-practices/" title="Management practices" class="sidelist
+  ">
+  <a href="https://agrofims.github.io/helpdocs/creatingafieldbook/management-practices/">
+    Management practices
+  </a>
+  
+  
+</li>
+
+
+        
+      
+        
+          
+
+
+
+
+
+
+
+
+<li data-nav-id="https://agrofims.github.io/helpdocs/creatingafieldbook/crop-measurement/" title="Crop measurements" class="sidelist
+  ">
+  <a href="https://agrofims.github.io/helpdocs/creatingafieldbook/crop-measurement/">
+    Crop measurements
+  </a>
+  
+  
+</li>
+
+
+        
+      
+        
+          
+
+
+
+
+
+
+
+
+<li data-nav-id="https://agrofims.github.io/helpdocs/creatingafieldbook/phenology-measurements/" title="Phenology measurements" class="sidelist
+  ">
+  <a href="https://agrofims.github.io/helpdocs/creatingafieldbook/phenology-measurements/">
+    Phenology measurements
+  </a>
+  
+  
+</li>
+
+
+        
+      
+        
+          
+
+
+
+
+
+
+
+
+<li data-nav-id="https://agrofims.github.io/helpdocs/creatingafieldbook/soil-measurements/" title="Soil measurements" class="sidelist
+  ">
+  <a href="https://agrofims.github.io/helpdocs/creatingafieldbook/soil-measurements/">
+    Soil measurements
+  </a>
+  
+  
+</li>
+
+
+        
+      
+        
+          
+
+
+
+
+
+
+
+
+<li data-nav-id="https://agrofims.github.io/helpdocs/creatingafieldbook/weather-measurements/" title="Weather measurements" class="sidelist
+  ">
+  <a href="https://agrofims.github.io/helpdocs/creatingafieldbook/weather-measurements/">
+    Weather measurements
+  </a>
+  
+  
+</li>
+
+
+        
+      
+        
+          
+
+
+
+
+
+
+
+
+<li data-nav-id="https://agrofims.github.io/helpdocs/creatingafieldbook/crop/" title="00. Former Crop" class="sidelist
+  ">
+  <a href="https://agrofims.github.io/helpdocs/creatingafieldbook/crop/">
+    00. Former Crop
+  </a>
+  
+  
+</li>
+
+
+        
+      
+    </ul>
+  
+</li>
+
+
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+          </ul>
+        </div>
+      </div>
+      <div class="col-lg-9">
+        <div class="p-lg-5 p-4 bg-white">
+          <h2 class="mb-5">Design</h2>
+          
+          <div class="content"><p>Find below the steps to create a fieldbook in AgroFIMS.</p>
 </div>
+          
+          <p class="post-meta border-bottom pb-3 mb-0 mt-3">Updated on 01 Jan 0001</p>
+          <nav class="pagination mt-3">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+
+            
+            <a class="nav nav-prev" href="https://agrofims.github.io/helpdocs/creatingafieldbook/crop/import_variety/"><i class="ti-arrow-left mr-2"></i> <span class="d-none d-md-block">May I import a list of varieties or genotypes?</span></a>
+            
+            
+            <a class="nav nav-next" href="https://agrofims.github.io/helpdocs/creatingafieldbook/fertilizer/"> <span class="d-none d-md-block">Fertilizer</span><i class="ti-arrow-right ml-2"></i></a>
+            
+          </nav>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /details page -->
 
 
-                        </div></div> 
-
-                </div>
-
-            </div> 
-
-        </div> 
-<script src="https://agrofims.github.io/helpdocs/lib/jquery.min.js"></script> 
-<script src="https://agrofims.github.io/helpdocs/lib/popper.min.js"></script> 
-
-<script src="https://agrofims.github.io/helpdocs/js/bootstrap.min.js"></script> 
 
 
-<script type="text/javascript" src="https://agrofims.github.io/helpdocs/plugins/lunr.min.js"></script>
-<script type="text/javascript" src="https://agrofims.github.io/helpdocs/plugins/auto-complete.js"></script>
-<link href="https://agrofims.github.io/helpdocs/plugins/auto-complete.css" rel="stylesheet">
-<script type="text/javascript">
-  
-      var baseurl = "https:\/\/agrofims.github.io\/helpdocs\/";
-  
-</script>
-<script type="text/javascript" src="https://agrofims.github.io/helpdocs/plugins/search.js"></script>
 
+    <!-- footer -->
+<footer class="section pb-4">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-md-8 text-md-left text-center">
+       <p class="mb-md-0 mb-4">Copyright © AgroFIMS 2020</p>
+      </div>
+      <div class="col-md-4 text-md-right text-center">
+        <ul class="list-inline">
+          
+          <li class="list-inline-item"><a class="text-color d-inline-block p-2" href="#https://github.com/AGROFIMS"><i class="ti-github"></i></a></li>
+          
+          <li class="list-inline-item"><a class="text-color d-inline-block p-2" href="#https://www.youtube.com/channel/UChfp4kWQCscsIUP-4duKzeQ/"><i class="ti-youtube"></i></a></li>
+          
+          <li class="list-inline-item"><a class="text-color d-inline-block p-2" href="#"><i class="ti-twitter-alt"></i></a></li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- /footer -->
 
-<script type="text/javascript" src="https://agrofims.github.io/helpdocs/plugins/clipboard.js"></script>
-<script>
-  new ClipboardJS('.btn');
-</script>
-</body>
+<!-- Main Script -->
+
+<script src="https://agrofims.github.io/helpdocs/js/script.min.js"></script>
+  </body>
+
 </html>

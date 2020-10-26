@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AGROFIMS Help Page on AgroFIMS Help Documentation</title>
+    <title>AgroFIMS Help Page on AgroFIMS Help Documentation</title>
     <link>https://agrofims.github.io/helpdocs/</link>
-    <description>Recent content in AGROFIMS Help Page on AgroFIMS Help Documentation</description>
+    <description>Recent content in AgroFIMS Help Page on AgroFIMS Help Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Copyright © AgroFIMS 2020</copyright>
     
 	<atom:link href="https://agrofims.github.io/helpdocs/index.xml" rel="self" type="application/rss+xml" />
     
@@ -20,22 +21,12 @@
     </item>
     
     <item>
-      <title>Alerts</title>
-      <link>https://agrofims.github.io/helpdocs/shortcodes/alerts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/shortcodes/alerts/</guid>
-      <description>The alerts shortcode allows you to let information stand out by means of an alert styled box. This can be used to indicate danger, warning, success or info.
-I&amp;rsquo;m a danger alertI&amp;rsquo;m a warning alertI&amp;rsquo;m a success alertI&amp;rsquo;m an info alertUsage Place the following shortcode on the page Copy{{&amp;lt; alert style=&amp;#34;STYLE&amp;#34; &amp;gt;}} [content] {{&amp;lt; /alert &amp;gt;}} Parameters Style The style parameter is directly applied to the alert as a class in the format &amp;ldquo;alert-{STYLE}&amp;quot;.</description>
-    </item>
-    
-    <item>
       <title>Experiments</title>
       <link>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/</guid>
-      <description>In this section, you can detail the experiment metadata.</description>
+      <description>In this section, you can detail the experiment metadata.</description>
     </item>
     
     <item>
@@ -44,7 +35,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/getting-started/manageaccount/</guid>
-      <description>Signing Up  Go to AgroFIMS. Enter your email, password, name, last name, organization and country. Click Create. Your account has been created. You can Log in and start using AgroFIMS. An email will be sent to your mailbox to confirm your account. Don’t forget to check your spam folder if you don’t see the email in your inbox!  Logging in  At the upper right corner of the Home page, click on and select Log In Enter your email and your password.</description>
+      <description>Signing Up  Go to AgroFIMS. Enter your email, password, name, last name, organization and country. Click Create. Your account has been created. You can Log in and start using AgroFIMS. An email will be sent to your mailbox to confirm your account. Don’t forget to check your spam folder if you don’t see the email in your inbox!  Logging in  At the upper right corner of the Home page, click on and select Log In Enter your email and your password.</description>
     </item>
     
     <item>
@@ -53,7 +44,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/policyterms/privacy_policy/</guid>
-      <description>Effective date: January 01, 2020 WHAT TYPE OF PERSONAL DATA DO WE COLLECT FROM USERS AND HOW DO WE MANAGE IT?  When signing up to AgroFIMS, we ask you for information such as your name, last name, email, name of organization you work with, and the country you live in. Providing this information is mandatory to create an account and use AgroFIMS. We respect user privacy; accordingly, any personally identifiable information you provide is protected by SSL encryption when it is exchanged with AgroFIMS and will only be used for internal purposes in accordance with site-specific policies, or in ways to which you have explicitly consented.</description>
+      <description>Effective date: January 01, 2020
+ WHAT TYPE OF PERSONAL DATA DO WE COLLECT FROM USERS AND HOW DO WE MANAGE IT?  When signing up to AgroFIMS, we ask you for information such as your name, last name, email, name of organization you work with, and the country you live in. Providing this information is mandatory to create an account and use AgroFIMS. We respect user privacy; accordingly, any personally identifiable information you provide is protected by SSL encryption when it is exchanged with AgroFIMS and will only be used for internal purposes in accordance with site-specific policies, or in ways to which you have explicitly consented.</description>
     </item>
     
     <item>
@@ -62,20 +54,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/sourcecode/license/</guid>
-      <description>License text without any modification License All the source of AGROFIMS is under GPL-3 license. For further details about this licence, please click on link.
+      <description>License text without any modification
+ License All the source of AGROFIMS is under GPL-3 license. For further details about this licence, please click on link.
 GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
 Copyright (C) 2007 Free Software Foundation, Inc. http://fsf.org/ Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
  Preamble The GNU General Public License is a free, copyleft license for software and other kinds of works.</description>
-    </item>
-    
-    <item>
-      <title>Buttons</title>
-      <link>https://agrofims.github.io/helpdocs/shortcodes/buttons/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/shortcodes/buttons/</guid>
-      <description>The button shortcode allows you to add a button to the page. This button is a HTML anchor element and can thus be used to link to another page or website.
-ButtonButtonButtonButtonButtonButtonButtonUsage Place the following shortcode on the page Copy{{&amp;lt; button style=&amp;#34;STYLE&amp;#34; link=&amp;#34;https://yourwebsite.com&amp;#34; &amp;gt;}} [content] {{&amp;lt; /button &amp;gt;}} Parameters style The style parameter is directly applied to the alert as a class in the format &amp;ldquo;btn-{STYLE}&amp;quot;.</description>
     </item>
     
     <item>
@@ -84,7 +67,7 @@ Copyright (C) 2007 Free Software Foundation, Inc. http://fsf.org/ Everyone is pe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/</guid>
-      <description>In this section you can add information about the personnel linked to the experiment.</description>
+      <description>In this section you can add information about the personnel linked to the experiment.</description>
     </item>
     
     <item>
@@ -93,7 +76,8 @@ Copyright (C) 2007 Free Software Foundation, Inc. http://fsf.org/ Everyone is pe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/policyterms/use/</guid>
-      <description>Effective date: January 01, 2020 YOUR PRIVACY  We respect user privacy and manage any personally identifiable information collected by us from you through AgroFIMS in accordance with our PRIVACY POLICY.
+      <description>Effective date: January 01, 2020
+ YOUR PRIVACY  We respect user privacy and manage any personally identifiable information collected by us from you through AgroFIMS in accordance with our PRIVACY POLICY.
 COPYRIGHT  Copyright © 2019 International Potato Center – CIP
 AgroFIMS is an online interface conceived to standardizes agronomic data collection. CIP holds the title to the online AgroFIMS and to the materials and content generated by AgroFIMS unless otherwise specified.</description>
     </item>
@@ -108,22 +92,12 @@ AgroFIMS is an online interface conceived to standardizes agronomic data collect
     </item>
     
     <item>
-      <title>Childpages</title>
-      <link>https://agrofims.github.io/helpdocs/shortcodes/childpages/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/shortcodes/childpages/</guid>
-      <description>The childpages shortcode allows you to show a list of sub-pages of the current page. For example, the Getting started page of this documentation has three child pages: Installation, Configuration and Creating content. Placing the childpages shortcode in the Getting started page will place a create a list of these sub-pages in that page.
-Usage Simply place the following shortcode on the page Copy{{&amp;lt; childpages &amp;gt;}} </description>
-    </item>
-    
-    <item>
       <title>Fieldbook</title>
       <link>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/</guid>
-      <description>Find below the steps to create a fieldbook in AgroFIMS.</description>
+      <description>Find below the steps to create a fieldbook in AgroFIMS.</description>
     </item>
     
     <item>
@@ -136,32 +110,12 @@ Usage Simply place the following shortcode on the page Copy{{&amp;lt; childpa
     </item>
     
     <item>
-      <title>Code</title>
-      <link>https://agrofims.github.io/helpdocs/shortcodes/code/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/shortcodes/code/</guid>
-      <description>Add code to your page with syntax highlighting and a copy button so your users can easily copy the code to their clipboard with the press of a button. The code may be entered inside the shortcode or come from an external file.
-Copy&amp;lt;div class=&amp;#34;mydiv bg-primary shadow text-white&amp;#34;&amp;gt; &amp;lt;h1 class=&amp;#34;title&amp;#34;&amp;gt;Hi there&amp;lt;/h1&amp;gt; &amp;lt;p class=&amp;#34;lead&amp;#34;&amp;gt;I&amp;#39;m inside a code shortcode. Check out my syntax highlighting!.&amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt; Usage Simply place the following shortcode on the page</description>
-    </item>
-    
-    <item>
       <title>Site</title>
       <link>https://agrofims.github.io/helpdocs/creatingafieldbook/site/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/site/</guid>
-      <description>In this section you can describe the experimental site and its surroundings.</description>
-    </item>
-    
-    <item>
-      <title>Collapse</title>
-      <link>https://agrofims.github.io/helpdocs/shortcodes/collapse/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/shortcodes/collapse/</guid>
-      <description>Feel like hiding some content from your visitor in a collapsible element? The collapse shortcode does exactly that. It creates a button that shows or hides the content in the shortcode on request.
-Click me to show contentHi there, I&#39;m the hidden content. Didn&#39;t see that one coming, huh? Usage Simply place the following shortcode on the page Copy{{&amp;lt; collapse title=&amp;#34;TITLE&amp;#34; &amp;gt;}} [content] {{&amp;lt; /collapse &amp;gt;}} Parameters title The lang parameter defines the text to show in the button that toggles the collapse content.</description>
+      <description>In this section you can describe the experimental site and its surroundings.</description>
     </item>
     
     <item>
@@ -170,19 +124,7 @@ Click me to show contentHi there, I&#39;m the hidden content. Didn&#39;t see t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/design/</guid>
-      <description>Find below the steps to create a fieldbook in AgroFIMS.</description>
-    </item>
-    
-    <item>
-      <title>Doublecode</title>
-      <link>https://agrofims.github.io/helpdocs/shortcodes/doublecode/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/shortcodes/doublecode/</guid>
-      <description>The doublecode shortcode works the same as the code shortcode, but extends the functionality by also rendering the code in the page. This is useful for showing the code of HTML elements in your page.
-Hi there
-I&#39;m inside a doublecode shortcode, that&#39;s why I look so fancy.
-Copy&amp;lt;div class=&amp;#34;mydiv bg-primary shadow text-white p-3 m-4 border-primary&amp;#34;&amp;gt; &amp;lt;p class=&amp;#34;h4 title&amp;#34;&amp;gt;Hi there&amp;lt;/p&amp;gt; &amp;lt;p class=&amp;#34;lead mb-0&amp;#34;&amp;gt;I&amp;#39;m inside a doublecode shortcode, that&amp;#39;s why I look so fancy.</description>
+      <description>Find below the steps to create a fieldbook in AgroFIMS.</description>
     </item>
     
     <item>
@@ -191,17 +133,7 @@ I&#39;m inside a doublecode shortcode, that&#39;s why I look so fancy.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/fertilizer/</guid>
-      <description>Find below the steps to add fertilizer applications in your protocol.</description>
-    </item>
-    
-    <item>
-      <title>Lead</title>
-      <link>https://agrofims.github.io/helpdocs/shortcodes/lead/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/shortcodes/lead/</guid>
-      <description>The lead shortcode creates a paragraph with the lead class to make it stand out. Great for introductions or summaries.
-I&amp;rsquo;m a lead paragraph. That means I&amp;rsquo;m more important. And you can see that.Usage Simply place the following shortcode on the page Copy{{&amp;lt; lead &amp;gt;}} [content] {{&amp;lt; /lead &amp;gt;}} </description>
+      <description>Find below the steps to add fertilizer applications in your protocol.</description>
     </item>
     
     <item>
@@ -210,17 +142,7 @@ I&amp;rsquo;m a lead paragraph. That means I&amp;rsquo;m more important. And you
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/management-practices/</guid>
-      <description>Find below the steps to add management practices in your protocol.</description>
-    </item>
-    
-    <item>
-      <title>Panel</title>
-      <link>https://agrofims.github.io/helpdocs/shortcodes/panel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/shortcodes/panel/</guid>
-      <description>Draw your visitor&amp;rsquo;s attention by separating information from the rest of the page using a panel. Convey meaning to this information by using colors implying danger, warning, success or info in a similar fashion as alerts.
-I&amp;#39;m importantBe sure to read me, I might have important information for you.Usage Simply place the following shortcode on the page Copy{{&amp;lt; panel title=&amp;#34;TITLE&amp;#34; style=&amp;#34;STYLE&amp;#34; &amp;gt;}} [content] {{&amp;lt; /panel &amp;gt;}} Parameters Style The style parameter is directly applied to the alert as a class in the format &amp;ldquo;border-{STYLE}&amp;quot;.</description>
+      <description>Find below the steps to add management practices in your protocol.</description>
     </item>
     
     <item>
@@ -229,7 +151,7 @@ I&amp;#39;m importantBe sure to read me, I might have important information fo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/crop-measurement/</guid>
-      <description>In this section you can select and describe the measurements to be made on the crops.</description>
+      <description>In this section you can select and describe the measurements to be made on the crops.</description>
     </item>
     
     <item>
@@ -238,7 +160,8 @@ I&amp;#39;m importantBe sure to read me, I might have important information fo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/phenology-measurements/</guid>
-      <description>Find below the steps to create a fieldbook in AgroFIMS.Phenology measurements 1.</description>
+      <description>Find below the steps to create a fieldbook in AgroFIMS.
+Phenology measurements 1.</description>
     </item>
     
     <item>
@@ -247,7 +170,7 @@ I&amp;#39;m importantBe sure to read me, I might have important information fo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/soil-measurements/</guid>
-      <description>This section is dedicated to the selection of soil measurements to make during the experiment.</description>
+      <description>This section is dedicated to the selection of soil measurements to make during the experiment.</description>
     </item>
     
     <item>
@@ -256,7 +179,8 @@ I&amp;#39;m importantBe sure to read me, I might have important information fo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/weather-measurements/</guid>
-      <description>This section is dedicated to the selection of weather measurements to make during the experiment.Selecting a weather measurement  Select a measurement in the drop-down list. You can either scroll through the list or delete the default and type the name of your measurement – the auto-complete feature will select the term if the measurement is in the list. Once you have found your measurement, select it and click on .</description>
+      <description>This section is dedicated to the selection of weather measurements to make during the experiment.
+Selecting a weather measurement  Select a measurement in the drop-down list. You can either scroll through the list or delete the default and type the name of your measurement – the auto-complete feature will select the term if the measurement is in the list. Once you have found your measurement, select it and click on .</description>
     </item>
     
     <item>
@@ -265,17 +189,8 @@ I&amp;#39;m importantBe sure to read me, I might have important information fo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/</guid>
-      <description>This section is dedicated to the description of the crops cultivated in the experiment.Adding a crop or a variety to the experiment  Select the type of cropping system of your experiment. Currently the choices are: Monocrop, Intercrop or Relay crop. Select the crop’s common name. If the crop is not listed, select ‘’Other’’ and specify the crop common name. If “Intercrop” or “Relay crop” are selected, AgroFIMS will require you to add at least 2 crops.</description>
-    </item>
-    
-    <item>
-      <title>Table</title>
-      <link>https://agrofims.github.io/helpdocs/shortcodes/table/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/shortcodes/table/</guid>
-      <description>The table shortcode allows you to wrap your tables in a table class, providing styling to the table such as borders, stripes and hover effects.
-   Tables are cool     col 3 is right-aligned $1600   col 2 is centered $12   zebra stripes are neat $1    Usage Place the following shortcode on the page Copy{{&amp;lt; table style=&amp;#34;STYLE&amp;#34; &amp;gt;}} | Tables | are | cool | | ------------- |:-------------:| -----:| | col 3 is | right-aligned | $1600 | | col 2 is | centered | $12 | | zebra stripes | are neat | $1 | {{&amp;lt; /table &amp;gt;}} Parameters Style The style parameter is directly applied to the table as a class in the format &amp;quot;{STYLE}&amp;quot;.</description>
+      <description>This section is dedicated to the description of the crops cultivated in the experiment.
+Adding a crop or a variety to the experiment  Select the type of cropping system of your experiment. Currently the choices are: Monocrop, Intercrop or Relay crop. Select the crop’s common name. If the crop is not listed, select ‘’Other’’ and specify the crop common name. If “Intercrop” or “Relay crop” are selected, AgroFIMS will require you to add at least 2 crops.</description>
     </item>
     
   </channel>

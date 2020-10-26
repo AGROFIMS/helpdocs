@@ -4,9 +4,8 @@ description = ""
 weight = 12
 +++
 
-{{< lead >}}
+
 This section is dedicated to the selection of weather measurements to make during the experiment.
-{{< /lead >}}
 
 ## Selecting a weather measurement
 1.	Select a measurement in the drop-down list. You can either scroll through the list or delete the default and type the name of your measurement – the auto-complete feature will select the term if the measurement is in the list.

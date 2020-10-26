@@ -10,7 +10,7 @@ weight = 1
 3.	Click Create.
 4.	Your account has been created. You can Log in and start using AgroFIMS. 
 5.	An email will be sent to your mailbox to confirm your account. 
-{{< alert style="warning" >}} Don’t forget to check your spam folder if you don’t see the email in your inbox! {{< /alert >}}
+ Don’t forget to check your spam folder if you don’t see the email in your inbox!
 
 ## Logging in
 1.	At the upper right corner of the Home page, click on    and select Log In
@@ -31,4 +31,4 @@ weight = 1
 3.	Enter your email and click on Reset my password
 4.	A new password will be sent to your email address. 
 
-{{< alert style="warning" >}} Don’t forget to check your spam folder{{< /alert >}}
+Don’t forget to check your spam folder

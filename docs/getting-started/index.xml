@@ -6,6 +6,7 @@
     <description>Recent content in Getting started on AgroFIMS Help Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Copyright © AgroFIMS 2020</copyright>
     
 	<atom:link href="https://agrofims.github.io/helpdocs/getting-started/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,7 +17,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/getting-started/manageaccount/</guid>
-      <description>Signing Up  Go to AgroFIMS. Enter your email, password, name, last name, organization and country. Click Create. Your account has been created. You can Log in and start using AgroFIMS. An email will be sent to your mailbox to confirm your account. Don’t forget to check your spam folder if you don’t see the email in your inbox!  Logging in  At the upper right corner of the Home page, click on and select Log In Enter your email and your password.</description>
+      <description>Signing Up  Go to AgroFIMS. Enter your email, password, name, last name, organization and country. Click Create. Your account has been created. You can Log in and start using AgroFIMS. An email will be sent to your mailbox to confirm your account. Don’t forget to check your spam folder if you don’t see the email in your inbox!  Logging in  At the upper right corner of the Home page, click on and select Log In Enter your email and your password.</description>
     </item>
     
   </channel>

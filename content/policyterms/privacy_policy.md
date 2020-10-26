@@ -4,9 +4,9 @@ description = ""
 weight = 1
 +++
 
-{{< lead >}}
+
 *Effective date: January 01, 2020*
-{{< /lead >}}
+
 
 1. WHAT TYPE OF PERSONAL DATA DO WE COLLECT FROM USERS AND HOW DO WE MANAGE IT?
 
@@ -65,35 +65,3 @@ The images and logos associated with AgroFIMS are subject to copyright. You agre
 
 For the avoidance of doubt, the name, website, images and logos associated with AgroFIMS may not be used for advertising, product endorsement, or any other purpose without our prior written consent.
 
-<!-- ### Page ordering
-
-By default, pages are sorted on the weight assigned to them in their <code>frontmatter</code>. This is set in <code>config.toml</code>, using <code>orderSectionsby = "weight"</code>. Change this to <code>"title"</code> to sort pages alphabetically based on their title instead. Alternatively, do not assign a weight to any pages and it will also sort them alphabetically on their title.
-
-
-### Table of contents
-
-By default, a table of contents (ToC) is generated for each page in the right side menu. This can be disabled using:
-
-{{< code >}}
-toc = false
-{{< /code >}}
-
-in the <code>config.toml</code> or the <code>frontmatter</code> (a page's markdown file) for a page-wide or page-specific disabling of the ToC respectively.
-
-### Google Analytics
-
-Enable Google Analytics by adding your GA tracking ID to the <code>config.toml</code> file, at:
-{{< code >}}
-googleAnalytics = "XX-XXXXXXXXX-X"
-{{< /code >}}
-Where <code>XX-XXXXXXXXX-X</code> is your tracking ID.
-
-
-### Read more navigation
-
-In <code>config.toml</code> or a page's <code>frontmatter</code>, set <code>disableReadmoreNav = true</code> to disable the prev/next buttons at the buttom of every page.
-
-
-### Search
-
-Disable search by setting <code>disableSearch = true</code> in <code>config.toml</code>.  -->

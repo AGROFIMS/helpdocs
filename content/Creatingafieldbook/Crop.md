@@ -4,9 +4,9 @@ description = ""
 weight = 20
 +++
 
-{{< lead >}}
+
 This section is dedicated to the description of the crops cultivated in the experiment.
-{{< /lead >}}
+
 
 ## 	Adding a crop or a variety to the experiment
 1.	Select the type of cropping system of your experiment. Currently the choices are: Monocrop, Intercrop or Relay crop.

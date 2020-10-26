@@ -4,9 +4,9 @@ description = ""
 weight = 2
 +++
 
-{{< lead >}}
+
 Before creating your fielbook, you may want to create the site of your experiment.
-{{< /lead >}}
+
 
 ## Creating a new site
 
