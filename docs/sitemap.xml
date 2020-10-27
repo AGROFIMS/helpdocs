@@ -11,6 +11,10 @@
   </url>
   
   <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/experiments/</loc>
+  </url>
+  
+  <url>
     <loc>https://agrofims.github.io/helpdocs/creatingasite/site/</loc>
   </url>
   
@@ -28,6 +32,10 @@
   
   <url>
     <loc>https://agrofims.github.io/helpdocs/sourcecode/license/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/experimentid/</loc>
   </url>
   
   <url>
@@ -63,6 +71,10 @@
   </url>
   
   <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/agency/</loc>
+  </url>
+  
+  <url>
     <loc>https://agrofims.github.io/helpdocs/features/workflow/</loc>
   </url>
   
@@ -75,11 +87,19 @@
   </url>
   
   <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/blankcase/</loc>
+  </url>
+  
+  <url>
     <loc>https://agrofims.github.io/helpdocs/creatingasite/updatesite/</loc>
   </url>
   
   <url>
     <loc>https://agrofims.github.io/helpdocs/features/managingyouraccount/updatepassword/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/removeagency/</loc>
   </url>
   
   <url>
