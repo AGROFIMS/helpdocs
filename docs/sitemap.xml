@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/features/linux/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://agrofims.github.io/helpdocs/features/about/</loc>
   </url>
   
@@ -110,6 +105,11 @@
   
   <url>
     <loc>https://agrofims.github.io/helpdocs/creatingasite/deletesite/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/features/linux/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>

@@ -27,7 +27,7 @@ menushortcutsnewtab = true # set true to open shortcuts links to a new tab/windo
 # autoCollapseToc = true  # Auto expand and collapse toc                              # 目录自动展开/折叠
  
 # logo is for all page
-logo = "image/logo.png"
+logo = "AgroFIMS help documentation"
 # logo white is for homepage logo, you can use colorful logo too...
 logo_white = ""
 # when logo is empty, it will shown your site title
