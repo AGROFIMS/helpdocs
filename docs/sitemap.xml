@@ -20,14 +20,6 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/getting-started/</loc>
-  </url>
-  
-  <url>
-    <loc>https://agrofims.github.io/helpdocs/getting-started/manageaccount/</loc>
-  </url>
-  
-  <url>
     <loc>https://agrofims.github.io/helpdocs/policyterms/privacy_policy/</loc>
   </url>
   
@@ -36,7 +28,7 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/sourcecode/</loc>
+    <loc>https://agrofims.github.io/helpdocs/sourcecode/open/</loc>
   </url>
   
   <url>
@@ -125,17 +117,27 @@
   </url>
   
   <url>
+    <loc>https://agrofims.github.io/helpdocs/sourcecode/</loc>
+    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/</loc>
     <lastmod>2018-12-28T11:02:05+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/features/</loc>
+    <loc>https://agrofims.github.io/helpdocs/creatingasite/</loc>
     <lastmod>2018-12-28T11:02:05+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/creatingasite/</loc>
+    <loc>https://agrofims.github.io/helpdocs/survey/</loc>
+    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/features/</loc>
     <lastmod>2018-12-28T11:02:05+06:00</lastmod>
   </url>
   

@@ -87,7 +87,7 @@ link = "#"
 languageName = "En"
 languageCode = "en-us"
 weight = 1
-copyright = "Copyright © AgroFIMS 2020"
+copyright = "Copyright © AgroFIMS 2020 [Terms of Use and Privacy Policy](https://agrofims.github.io/helpdocs/policyterms/)"
 
 # banner
 [Languages.en.params.banner]
@@ -111,7 +111,7 @@ link = "agrofims@cgiar.org"
 ################## english navigation #################
 [[Languages.en.menu.main]]
 name = "Home"
-url = "/"
+url = "helpdocs"
 weight = 1
 
 [[Languages.en.menu.main]]
