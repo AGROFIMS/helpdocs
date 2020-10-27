@@ -111,7 +111,7 @@ link = "agrofims@cgiar.org"
 ################## english navigation #################
 [[Languages.en.menu.main]]
 name = "Home"
-url = "https://agrofims.github.io/helpdocs/"
+url = "/"
 weight = 1
 
 [[Languages.en.menu.main]]

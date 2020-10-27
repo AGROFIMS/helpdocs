@@ -12,6 +12,10 @@
   </url>
   
   <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingasite/site/</loc>
+  </url>
+  
+  <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/</loc>
   </url>
   
@@ -48,6 +52,10 @@
   </url>
   
   <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingasite/viewsite/</loc>
+  </url>
+  
+  <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/fieldbook_id/</loc>
   </url>
   
@@ -60,11 +68,23 @@
   </url>
   
   <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingasite/updatesite/</loc>
+  </url>
+  
+  <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/site/</loc>
   </url>
   
   <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingasite/siteid/</loc>
+  </url>
+  
+  <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingasite/deletesite/</loc>
   </url>
   
   <url>

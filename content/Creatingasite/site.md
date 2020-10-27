@@ -1,7 +1,7 @@
 +++
 title = "Creating a new site"
 description = ""
-weight = 2
+weight = 1
 +++
 
 
