@@ -19,6 +19,10 @@
   </url>
   
   <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/createfieldbook/</loc>
+  </url>
+  
+  <url>
     <loc>https://agrofims.github.io/helpdocs/creatingasite/site/</loc>
   </url>
   
@@ -36,6 +40,10 @@
   
   <url>
     <loc>https://agrofims.github.io/helpdocs/sourcecode/license/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/editfieldbook/</loc>
   </url>
   
   <url>
@@ -87,11 +95,15 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/</loc>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/deletefieldbook/</loc>
   </url>
   
   <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/import_variety/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/</loc>
   </url>
   
   <url>

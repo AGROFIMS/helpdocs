@@ -49,6 +49,16 @@
     </item>
     
     <item>
+      <title>Creating a new fieldbook</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/createfieldbook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/createfieldbook/</guid>
+      <description> Click on the button Add Fieldbook Choose a country in the drop-down list Choose a site in the drop-down list  To be able to create a new fieldbook, you must have created your site first. To create your site, click on Create new site
+ </description>
+    </item>
+    
+    <item>
       <title>Creating a new site</title>
       <link>https://agrofims.github.io/helpdocs/creatingasite/site/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -89,6 +99,15 @@
 GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
 Copyright (C) 2007 Free Software Foundation, Inc. http://fsf.org/ Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
  Preamble The GNU General Public License is a free, copyleft license for software and other kinds of works.</description>
+    </item>
+    
+    <item>
+      <title>Edit fieldbook</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/editfieldbook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/editfieldbook/</guid>
+      <description>Click on the Open icon on the right side of the Fieldbook line to open it.</description>
     </item>
     
     <item>
@@ -189,12 +208,12 @@ AgroFIMS is an online interface conceived to standardizes agronomic data collect
     </item>
     
     <item>
-      <title>Fieldbook</title>
-      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/</link>
+      <title>Deleting a fieldbook</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/deletefieldbook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/</guid>
-      <description>Find below the steps to create a fieldbook in AgroFIMS.</description>
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/deletefieldbook/</guid>
+      <description>Click on the red bin icon at the right of the fielbook line to remove it.</description>
     </item>
     
     <item>
@@ -248,7 +267,7 @@ AgroFIMS is an online interface conceived to standardizes agronomic data collect
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/removeagency/</guid>
-      <description>Click on the cross at the upper right side of the line to remove it. There is a minimum of one line per category. If you want to remove the information in this line, you can erase the name typed. </description>
+      <description>Click on the red cross at the upper right side of the box to remove it.</description>
     </item>
     
     <item>
@@ -294,7 +313,9 @@ AgroFIMS is an online interface conceived to standardizes agronomic data collect
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/blankcase/</guid>
-      <description>The mandatory fields are marked with a red asterisk. All other fields may be left blank. However, we recommend that you provide as much information about your experiment as possible. Robust metadata will allow better understanding and interpretation of your data set, and greatly augment its discovery and re-use in the immediate and distant future, assuring that your data continues to provide value well after collection.</description>
+      <description>The mandatory fields are marked with a red asterisk. All other fields may be left blank. However, we recommend that you provide as much information about your experiment as possible.
+Robust metadata will allow better understanding and interpretation of your data set, and greatly augment its discovery and re-use in the immediate and distant future, assuring that your data continues to provide value well after collection.
+ </description>
     </item>
     
     <item>

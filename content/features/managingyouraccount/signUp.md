@@ -9,7 +9,7 @@ weight = 1
 3.	Click Create.
 4.	Your account has been created. You can Log in and start using AgroFIMS.
  
-{{< notice tip >}}
+{{< notice note >}}
   An email will be sent to your mailbox to confirm your account. 
  Don’t forget to check your spam folder if you don’t see the email in your inbox!
  {{</ notice >}}

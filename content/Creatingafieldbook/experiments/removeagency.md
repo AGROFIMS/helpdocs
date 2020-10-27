@@ -4,5 +4,6 @@ description = ""
 weight = 4
 +++
 
-Click on the cross at the upper right side of the line to remove it. There is a minimum of one line per category. If you want to remove the information in this line, you can erase the name typed. 
+Click on the red cross at the upper right side of the box to remove it.
+
  ![removeagency](https://agrofims.github.io/helpdocs/images/removeagency.png) 

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personnel on AgroFIMS Help Documentation</title>
+    <link>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/</link>
+    <description>Recent content in Personnel on AgroFIMS Help Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © AgroFIMS 2020 [Terms of Use and Privacy Policy](https://agrofims.github.io/helpdocs/policyterms/)</copyright>
+    
+	<atom:link href="https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Creating a new fieldbook</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/createfieldbook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/createfieldbook/</guid>
+      <description> Click on the button Add Fieldbook Choose a country in the drop-down list Choose a site in the drop-down list  To be able to create a new fieldbook, you must have created your site first. To create your site, click on Create new site
+ </description>
+    </item>
+    
+    <item>
+      <title>Edit fieldbook</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/editfieldbook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/editfieldbook/</guid>
+      <description>Click on the Open icon on the right side of the Fieldbook line to open it.</description>
+    </item>
+    
+    <item>
+      <title>Deleting a fieldbook</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/deletefieldbook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/deletefieldbook/</guid>
+      <description>Click on the red bin icon at the right of the fielbook line to remove it.</description>
+    </item>
+    
+  </channel>
+</rss>

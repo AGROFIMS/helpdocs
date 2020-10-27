@@ -9,6 +9,6 @@ weight = 4
 3.	Enter your email and click on Reset my password
 4.	A new password will be sent to your email address. 
 
-{{< notice tip >}}
+{{< notice note >}}
   Don’t forget to check your spam folder
  {{</ notice >}}
