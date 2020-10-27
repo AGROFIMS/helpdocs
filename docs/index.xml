@@ -31,6 +31,15 @@
     </item>
     
     <item>
+      <title>Adding personnel</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/addpersonnel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/addpersonnel/</guid>
+      <description>Click on the button Add Personnel to add a new person to the experiment. </description>
+    </item>
+    
+    <item>
       <title>Create a new experiment</title>
       <link>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/experiments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -101,6 +110,15 @@ Copyright (C) 2007 Free Software Foundation, Inc. http://fsf.org/ Everyone is pe
     </item>
     
     <item>
+      <title>Loading my info</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/myinfo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/myinfo/</guid>
+      <description>You can start by adding your profile information using the button ‘’ Load my info’’ . This will auto-fill the boxes with information registered in your profile.</description>
+    </item>
+    
+    <item>
       <title>Logging in</title>
       <link>https://agrofims.github.io/helpdocs/features/managingyouraccount/log/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -120,15 +138,6 @@ In the AgroFIMS project, we are strong advocates of enriching the community with
   a web application based on Angular, HTML and Javascript;
   R-packages to facilitate the design and analysis of agronomic data;
   Pythons and Java rutines to facilitate the conversion of AgroFIMS files to mobile applications such as KDSmart and Field Book.</description>
-    </item>
-    
-    <item>
-      <title>Personnel</title>
-      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/</guid>
-      <description>In this section you can add information about the personnel linked to the experiment.</description>
     </item>
     
     <item>
@@ -198,12 +207,12 @@ AgroFIMS is an online interface conceived to standardizes agronomic data collect
     </item>
     
     <item>
-      <title>May I leave a case blank?</title>
-      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/blankcase/</link>
+      <title>Removing personnel</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/removepersonnel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/blankcase/</guid>
-      <description>The mandatory fields are marked with a red asterisk. All other fields may be left blank. However, we recommend that you provide as much information about your experiment as possible. Robust metadata will allow better understanding and interpretation of your data set, and greatly augment its discovery and re-use in the immediate and distant future, assuring that your data continues to provide value well after collection.</description>
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/removepersonnel/</guid>
+      <description>Click on the red cross at the top right of the personnel box to remove it. </description>
     </item>
     
     <item>
@@ -222,6 +231,15 @@ AgroFIMS is an online interface conceived to standardizes agronomic data collect
       
       <guid>https://agrofims.github.io/helpdocs/features/managingyouraccount/updatepassword/</guid>
       <description> Log in. Click on at the top right corner of the Home page. Select Autentication Enter your current password and a new password. Click ‘’Update password’’. Your password has been updated and you can now log in with your new password.  </description>
+    </item>
+    
+    <item>
+      <title>Modifying your profile</title>
+      <link>https://agrofims.github.io/helpdocs/features/managingyouraccount/modifyprofile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/features/managingyouraccount/modifyprofile/</guid>
+      <description>You can view your profile information by selecting Account &amp;gt; Profile in the Menu. If you wish to update your profile information, please send an email to agrofims@cgiar.org.</description>
     </item>
     
     <item>
@@ -268,6 +286,15 @@ AgroFIMS is an online interface conceived to standardizes agronomic data collect
       
       <guid>https://agrofims.github.io/helpdocs/creatingasite/deletesite/</guid>
       <description> Go to Sites in the Menu. Click on bin icon next to the site you want to delete.  </description>
+    </item>
+    
+    <item>
+      <title>May I leave a case blank?</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/blankcase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/blankcase/</guid>
+      <description>The mandatory fields are marked with a red asterisk. All other fields may be left blank. However, we recommend that you provide as much information about your experiment as possible. Robust metadata will allow better understanding and interpretation of your data set, and greatly augment its discovery and re-use in the immediate and distant future, assuring that your data continues to provide value well after collection.</description>
     </item>
     
     <item>
@@ -342,16 +369,6 @@ Phenology measurements 1.</description>
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/weather-measurements/</guid>
       <description>This section is dedicated to the selection of weather measurements to make during the experiment.
 Selecting a weather measurement  Select a measurement in the drop-down list. You can either scroll through the list or delete the default and type the name of your measurement – the auto-complete feature will select the term if the measurement is in the list. Once you have found your measurement, select it and click on .</description>
-    </item>
-    
-    <item>
-      <title>00. Former Crop</title>
-      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/</guid>
-      <description>This section is dedicated to the description of the crops cultivated in the experiment.
-Adding a crop or a variety to the experiment  Select the type of cropping system of your experiment. Currently the choices are: Monocrop, Intercrop or Relay crop. Select the crop’s common name. If the crop is not listed, select ‘’Other’’ and specify the crop common name. If “Intercrop” or “Relay crop” are selected, AgroFIMS will require you to add at least 2 crops.</description>
     </item>
     
   </channel>

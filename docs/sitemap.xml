@@ -11,6 +11,10 @@
   </url>
   
   <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/addpersonnel/</loc>
+  </url>
+  
+  <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/experiments/</loc>
   </url>
   
@@ -40,6 +44,10 @@
   
   <url>
     <loc>https://agrofims.github.io/helpdocs/features/homescreen/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/myinfo/</loc>
   </url>
   
   <url>
@@ -87,7 +95,7 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/blankcase/</loc>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/removepersonnel/</loc>
   </url>
   
   <url>
@@ -96,6 +104,10 @@
   
   <url>
     <loc>https://agrofims.github.io/helpdocs/features/managingyouraccount/updatepassword/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/features/managingyouraccount/modifyprofile/</loc>
   </url>
   
   <url>
@@ -125,6 +137,10 @@
   
   <url>
     <loc>https://agrofims.github.io/helpdocs/creatingasite/deletesite/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/blankcase/</loc>
   </url>
   
   <url>
@@ -162,10 +178,6 @@
   
   <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/weather-measurements/</loc>
-  </url>
-  
-  <url>
-    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/</loc>
   </url>
   
   <url>
