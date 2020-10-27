@@ -53,7 +53,7 @@ contact_form_action = "#agrofims@cgiar.org" # contact form works with : https://
       unsafe = true
 
 [outputs]
-home = [ "HTML", "RSS", "JSON"]
+home = [ "HTML", "RSS"]
 
 [[menu.shortcuts]]
 name = "<button class='btn btn-success mt-n1'>AgroFIMS</button>"
@@ -111,7 +111,7 @@ link = "agrofims@cgiar.org"
 ################## english navigation #################
 [[Languages.en.menu.main]]
 name = "Home"
-url = "/"
+url = "https://agrofims.github.io/helpdocs/"
 weight = 1
 
 [[Languages.en.menu.main]]

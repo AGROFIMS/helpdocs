@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Site on AgroFIMS Help Documentation</title>
-    <link>https://agrofims.github.io/helpdocs/creatingasite/</link>
-    <description>Recent content in Site on AgroFIMS Help Documentation</description>
+    <title>Fieldbook on AgroFIMS Help Documentation</title>
+    <link>https://agrofims.github.io/helpdocs/features/</link>
+    <description>Recent content in Fieldbook on AgroFIMS Help Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © AgroFIMS 2020</copyright>
     <lastBuildDate>Fri, 28 Dec 2018 11:02:05 +0600</lastBuildDate>
     
-	<atom:link href="https://agrofims.github.io/helpdocs/creatingasite/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://agrofims.github.io/helpdocs/features/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
