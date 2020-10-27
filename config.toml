@@ -111,16 +111,16 @@ link = "agrofims@cgiar.org"
 ################## english navigation #################
 [[Languages.en.menu.main]]
 name = "Home"
-url = "helpdocs"
+url = ""
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "Tutorial"
-url = "tutorial"
+name = "AgroFIMS"
+url = "https://agrofims.org/"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "contact"
+name = "Contact"
 url = "contact"
 weight = 3
 
