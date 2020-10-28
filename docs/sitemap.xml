@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://agrofims.github.io/helpdocs/features/</loc>
+    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://agrofims.github.io/helpdocs/features/about/</loc>
   </url>
   
@@ -36,6 +41,11 @@
   
   <url>
     <loc>https://agrofims.github.io/helpdocs/features/managingyouraccount/signup/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/</loc>
+    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
   </url>
   
   <url>
@@ -87,6 +97,11 @@
   </url>
   
   <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingasite/</loc>
+    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/agency/</loc>
   </url>
   
@@ -99,11 +114,11 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/import_variety/</loc>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/</loc>
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/</loc>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/import_variety/</loc>
   </url>
   
   <url>
@@ -116,6 +131,11 @@
   
   <url>
     <loc>https://agrofims.github.io/helpdocs/features/managingyouraccount/updatepassword/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/survey/</loc>
+    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
   </url>
   
   <url>
@@ -141,6 +161,11 @@
   <url>
     <loc>https://agrofims.github.io/helpdocs/features/managingyouraccount/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/sourcecode/</loc>
+    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
   </url>
   
   <url>
@@ -195,31 +220,6 @@
   <url>
     <loc>https://agrofims.github.io/helpdocs/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://agrofims.github.io/helpdocs/sourcecode/</loc>
-    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/</loc>
-    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://agrofims.github.io/helpdocs/features/</loc>
-    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://agrofims.github.io/helpdocs/creatingasite/</loc>
-    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://agrofims.github.io/helpdocs/survey/</loc>
-    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
   </url>
   
   <url>
