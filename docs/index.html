@@ -102,6 +102,12 @@
         
         
         
+        <li class="nav-item">
+          <a class="nav-link text-dark" href="https://agrofims.github.io/creatingafieldbook/fieldbook/">Fieldbook</a>
+        </li>
+        
+        
+        
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle text-dark" href="#" role="button" data-toggle="dropdown"
             aria-haspopup="true" aria-expanded="false">
@@ -149,6 +155,12 @@
 						},
 						
 						{
+							value: "Manage your account",
+							label: "<p></p><p></p>",
+							url:"https:\/\/agrofims.github.io\/helpdocs\/about\/managingyouraccount\/"
+						},
+						
+						{
 							value: "About",
 							label: "<p>The Agronomy Field Information Management System (AgroFIMS) allows users to create fieldbooks to collect agronomic data that is already tied to a metadata standard (the CG Core Metadata Schema, aligned with the standard Dublin Core), and semantic standards like the Agronomy Ontology (AgrO), generating data that is Findable, Accessible, Interoperable, and Reusable (FAIR) at collection. AgroFIMS therefore standardizes data collection and description for easy aggregation and inter-linking across disparate datasets. By December 2020 you will be able to export the fieldbooks you create to the Android-based KDSmart or Field Book applications for data collection. Collected data can be imported back to AgroFIMS for statistical analysis and reports. We have also made available the Agronomy API or AgrAPI, which is a RESTful web service API specification to enable access, exchange, and integration of agronomic data across systems and applications. You can use the API to retrieve research management information, experimental designs, crop measurements, and environmental variables from AgroFIMS. The AgrAPI blueprint can be implemented in different programming languages. Currently, AgrAPI is implemented in the R statistical programming language allowing you to analyze your data with the R statistical packages and graphics of your choice. In 2021 AgroFIMS will allow you to set up agronomic survey questionnaires, for data collection via ODK. It will also allow easy upload of your “born FAIR” data to Dataverse repository platforms with Dublin Core-compliant metadata schemas. Funding for AgroFIMS was provided by the Bill and Melinda Gates Foundation’s Open Access, Open Data Initiative, and the CGIAR Platform for Big Data in Agriculture. AgroFIMS is under GPL license.\nAgroFIMS workflow AgroFIMS works in collaboration with the Android applications like KDSmart, ODK Collect and Field Book apps to provide a complete workflow to manage data for the creation of a fieldbook to the data analysis. Below are the different steps to follow to create, collect, analyze and save data using AgroFIMS: Home screen </p>",
 							url:"https:\/\/agrofims.github.io\/helpdocs\/about\/about\/"
@@ -185,6 +197,12 @@
 						},
 						
 						{
+							value: "Edit fieldbook",
+							label: "<p>Click on the Open icon on the right side of the Fieldbook line to open it.\n</p>",
+							url:"https:\/\/agrofims.github.io\/helpdocs\/collect\/fieldbookapp\/editfieldbook\/"
+						},
+						
+						{
 							value: "Experiments",
 							label: "<p> An experiment embraces your global project. An experiment can have multiple fieldbooks. In this section, you can detail the metadata of the experiment.\n </p>",
 							url:"https:\/\/agrofims.github.io\/helpdocs\/creatingafieldbook\/experiments\/"
@@ -203,7 +221,7 @@
 						},
 						
 						{
-							value: "Set the app in production mode",
+							value: "Set in production mode",
 							label: "<p>The application downloaded is in Demo DB mode. To enable all the functionalities the mode Production has to be enabled.\n In the home screen, click on the menu icon on the top left, and select Settings.    2.\tIn the Settings menu, click on Active Database  Select Production   To go back to the home screen, click on the arrow at the top left.\n  </p>",
 							url:"https:\/\/agrofims.github.io\/helpdocs\/collect\/kdsmart\/productionmode\/"
 						},
@@ -227,9 +245,9 @@
 						},
 						
 						{
-							value: "Edit fieldbook",
-							label: "<p>Click on the Open icon on the right side of the Fieldbook line to open it.\n</p>",
-							url:"https:\/\/agrofims.github.io\/helpdocs\/collect\/fieldbookapp\/editfieldbook\/"
+							value: "Deleting a fieldbook",
+							label: "<p>Click on the red bin icon at the right of the fielbook line to remove it.\n</p>",
+							url:"https:\/\/agrofims.github.io\/helpdocs\/collect\/fieldbookapp\/deletefieldbook\/"
 						},
 						
 						{
@@ -245,7 +263,7 @@
 						},
 						
 						{
-							value: "Exporting AgroFIMS fieldbook",
+							value: "Export AgroFIMS fieldbook",
 							label: "<p>To upload an AgroFIMS fieldbook in KDSmart, you have to first export the AgroFIMS fieldbook as a .kdx file.\n  Select Experiments in the Menu and select the experiment of our choice.   Go to the Fieldbooks tab and open the fieldbook of your choice by clicking on the blue eye icon.   Click on the cloud icon at the top right of the window.   Click on Build.   If the fieldbook is correctly built, click on Save.   Click on KDSmart App and a .kdx file will be downloaded to your laptop.   </p>",
 							url:"https:\/\/agrofims.github.io\/helpdocs\/collect\/kdsmart\/exportkdsmart\/"
 						},
@@ -317,6 +335,12 @@
 						},
 						
 						{
+							value: " Send KDSmart file to mobile device",
+							label: "<p>Once you have downloaded a .kdx file, you have to send it to the device where KDSmart is installed. For this you have three options:\n  Via email: send an email to yourself or the data collector, with the .kdx file attached. Open this email on the mobile device where KDSmart is installed and download the .kdx file in the folder ‘’Download’’ of the mobile device.\n  Via a cloud: On your laptop save the .kdx file on a cloud-based service (OneDrive, Dropbox, Google Drive, etc.). Open the same service on the mobile device and download the .kdx file in the folder ‘’Download’’ of the mobile device.\n  Via USB transfer: Connect the mobile device to your laptop. Save the .kdx file in the folder ‘’Download’’ of the mobile device.\n  </p>",
+							url:"https:\/\/agrofims.github.io\/helpdocs\/collect\/kdsmart\/sendtokdsmart\/"
+						},
+						
+						{
 							value: "Adding a Funding agency – Project management entity – Experiment lead",
 							label: "<p>Click on the \u002b button to add a new line. </p>",
 							url:"https:\/\/agrofims.github.io\/helpdocs\/creatingafieldbook\/experiments\/agency\/"
@@ -326,12 +350,6 @@
 							value: "AgroFIMS workflow",
 							label: "<p>AgroFIMS works in collaboration with the Android applications like KDSmart, ODK Collect and Field Book apps to provide a complete workflow to manage data for the creation of a fieldbook to the data analysis. Below are the different steps to follow to create, collect, analyze and save data using AgroFIMS: </p>",
 							url:"https:\/\/agrofims.github.io\/helpdocs\/about\/workflow\/"
-						},
-						
-						{
-							value: "Deleting a fieldbook",
-							label: "<p>Click on the red bin icon at the right of the fielbook line to remove it.\n</p>",
-							url:"https:\/\/agrofims.github.io\/helpdocs\/collect\/fieldbookapp\/deletefieldbook\/"
 						},
 						
 						{
@@ -377,19 +395,13 @@
 						},
 						
 						{
-							value: "Survey",
-							label: "<p></p>",
-							url:"https:\/\/agrofims.github.io\/helpdocs\/survey\/"
-						},
-						
-						{
 							value: "Modifying your profile",
 							label: "<p>You can view your profile information by selecting Account \u0026gt; Profile in the Menu. If you wish to update your profile information, please send an email to agrofims@cgiar.org.\n</p>",
 							url:"https:\/\/agrofims.github.io\/helpdocs\/about\/managingyouraccount\/modifyprofile\/"
 						},
 						
 						{
-							value: "Open the file in KDSmart",
+							value: "Open fieldbook in KDSmart",
 							label: "<p>Once the .kdx file in stored in your mobile device, you can open it in KDsmart following this tutorial (cf. tutorial  )\n</p>",
 							url:"https:\/\/agrofims.github.io\/helpdocs\/collect\/kdsmart\/openinkdsmart\/"
 						},
@@ -419,15 +431,15 @@
 						},
 						
 						{
-							value: "Manage your account",
-							label: "<p></p><p></p>",
-							url:"https:\/\/agrofims.github.io\/helpdocs\/about\/managingyouraccount\/"
-						},
-						
-						{
 							value: "Code",
 							label: "<p></p>",
 							url:"https:\/\/agrofims.github.io\/helpdocs\/sourcecode\/"
+						},
+						
+						{
+							value: "Survey",
+							label: "<p></p>",
+							url:"https:\/\/agrofims.github.io\/helpdocs\/survey\/"
 						},
 						
 						{
@@ -443,8 +455,8 @@
 						},
 						
 						{
-							value: "Identifying the plots",
-							label: "<p>In KDSmart the plots can be named either by their number or by the number of their column, row and block.\n  Download a trial (cf. KDSmart tutorial  )\n  Click on the three dots at the top left.\n  Select “Trials”   Select your trial in the list to open “Trial Details”\n  Click on the edit icon next to “Plot identification”   Select “Plot” if you want to identify the plots by their number, select \u0026ldquo;Block\/Field Column\/Field Row” if you prefer to identify the plots with their Block\/Column and Row numbers.\n  </p>",
+							value: "Identify the plots",
+							label: "<p>In KDSmart the plots can be named either by their number or by the number of their column, row and block.\n  Download a trial (cf. KDSmart tutorial  )\n  Click on the three dots at the top left (1)\n  Select “Trials” (2)   Select your trial in the list to open “Trial Details”\n  Click on the edit icon next to “Plot identification”   Select “Plot” if you want to identify the plots by their number, select \u0026ldquo;Block\/Field Column\/Field Row” if you prefer to identify the plots with their Block\/Column and Row numbers.\n  </p>",
 							url:"https:\/\/agrofims.github.io\/helpdocs\/collect\/kdsmart\/identifyplot\/"
 						},
 						
@@ -473,8 +485,8 @@
 						},
 						
 						{
-							value: "Where to find the information filled in AgroFIMS in KDSmart",
-							label: "<p>A.\tIn Trial Details\n  Click on the three dots at the top left of KDSmart screen.\n  Select “Trials”.   Select your trial in the list to open the Trial Details page of your experiment.\n  Experiment objective is noted as Note (3)\n  Measurements (Crop, Phenology, Soil, Management practices to be collected in the field) are listed as “Traits”. (4)\n  Experiment, personnel, site, crop and design information are listed under “Trial attributes”. They start with a M00. (5)\n  Management practices (Protocol tab of the Excel fieldbook) are listed under “Trial attributes”. They start with a P00. (5)\n  B.\tIn the Scoring Panel\n Start scoring a trial (cf. KDSmart Tutorial) Click on a Trait to get trait information (also listed in the TraitList tab of the Excel fieldbook)  1 TraitAlias\n2 Measurement timing\n3 Type of data\n4 Trait validation rule\n</p>",
+							value: "Where to find the information filled in AgroFIMS",
+							label: "<p>In Trial Details   Click on the three dots at the top left of KDSmart screen.\n  Select “Trials”.   Select your trial in the list to open the Trial Details page of your experiment.\n  Experiment objective is noted as Note (3)\n  Measurements (Crop, Phenology, Soil, Management practices to be collected in the field) are listed as “Traits”. (4)\n  Experiment, personnel, site, crop and design information are listed under “Trial attributes”. They start with a M00. (5)\n  Management practices (Protocol tab of the Excel fieldbook) are listed under “Trial attributes”. They start with a P00. (5)\n  In the Scoring Panel  Start scoring a trial (cf. KDSmart Tutorial) Click on a Trait to get trait information (also listed in the TraitList tab of the Excel fieldbook)  (1) TraitAlias\n(2) Measurement timing\n(3) Type of data\n(4) Trait validation rule\n</p>",
 							url:"https:\/\/agrofims.github.io\/helpdocs\/collect\/kdsmart\/findinfo\/"
 						},
 						
@@ -601,18 +613,18 @@
         </div>
         
         <div class="col-lg-4 col-sm-6 mb-4">
-          <a href="https://agrofims.github.io/helpdocs/survey/" class="px-4 py-5 bg-white shadow text-center d-block match-height">
-            <i class="ti-pencil-alt icon text-primary d-block mb-4"></i>
-            <h3 class="mb-3 mt-0">Survey</h3>
-            <p class="mb-0">Coming soon</p>
-          </a>
-        </div>
-        
-        <div class="col-lg-4 col-sm-6 mb-4">
           <a href="https://agrofims.github.io/helpdocs/sourcecode/" class="px-4 py-5 bg-white shadow text-center d-block match-height">
             <i class="ti-world icon text-primary d-block mb-4"></i>
             <h3 class="mb-3 mt-0">Code</h3>
             <p class="mb-0">Open tools for open science</p>
+          </a>
+        </div>
+        
+        <div class="col-lg-4 col-sm-6 mb-4">
+          <a href="https://agrofims.github.io/helpdocs/survey/" class="px-4 py-5 bg-white shadow text-center d-block match-height">
+            <i class="ti-pencil-alt icon text-primary d-block mb-4"></i>
+            <h3 class="mb-3 mt-0">Survey</h3>
+            <p class="mb-0">Coming soon</p>
           </a>
         </div>
         

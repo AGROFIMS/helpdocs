@@ -4,7 +4,12 @@
   
   <url>
     <loc>https://agrofims.github.io/helpdocs/about/</loc>
-    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/about/managingyouraccount/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
@@ -29,6 +34,10 @@
   
   <url>
     <loc>https://agrofims.github.io/helpdocs/creatingasite/site/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/collect/fieldbookapp/editfieldbook/</loc>
   </url>
   
   <url>
@@ -61,7 +70,7 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/collect/fieldbookapp/editfieldbook/</loc>
+    <loc>https://agrofims.github.io/helpdocs/collect/fieldbookapp/deletefieldbook/</loc>
   </url>
   
   <url>
@@ -122,15 +131,15 @@
   </url>
   
   <url>
+    <loc>https://agrofims.github.io/helpdocs/collect/kdsmart/sendtokdsmart/</loc>
+  </url>
+  
+  <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/agency/</loc>
   </url>
   
   <url>
     <loc>https://agrofims.github.io/helpdocs/about/workflow/</loc>
-  </url>
-  
-  <url>
-    <loc>https://agrofims.github.io/helpdocs/collect/fieldbookapp/deletefieldbook/</loc>
   </url>
   
   <url>
@@ -159,12 +168,6 @@
   
   <url>
     <loc>https://agrofims.github.io/helpdocs/collect/</loc>
-    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://agrofims.github.io/helpdocs/survey/</loc>
-    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
   </url>
   
   <url>
@@ -192,12 +195,12 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/about/managingyouraccount/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <loc>https://agrofims.github.io/helpdocs/sourcecode/</loc>
+    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/sourcecode/</loc>
+    <loc>https://agrofims.github.io/helpdocs/survey/</loc>
     <lastmod>2018-12-28T11:02:05+06:00</lastmod>
   </url>
   

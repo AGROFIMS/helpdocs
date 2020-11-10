@@ -1,7 +1,8 @@
 +++
-title = "Set the app in production mode"
+title = "Set in production mode"
 description = ""
 weight = 1
+
 +++
 
 The application downloaded is in Demo DB mode. To enable all the functionalities the mode Production has to be enabled.

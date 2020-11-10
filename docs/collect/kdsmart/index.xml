@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Set the app in production mode</title>
+      <title>Set in production mode</title>
       <link>https://agrofims.github.io/helpdocs/collect/kdsmart/productionmode/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -23,7 +23,7 @@
     </item>
     
     <item>
-      <title>Exporting AgroFIMS fieldbook</title>
+      <title>Export AgroFIMS fieldbook</title>
       <link>https://agrofims.github.io/helpdocs/collect/kdsmart/exportkdsmart/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -33,7 +33,18 @@
     </item>
     
     <item>
-      <title>Open the file in KDSmart</title>
+      <title> Send KDSmart file to mobile device</title>
+      <link>https://agrofims.github.io/helpdocs/collect/kdsmart/sendtokdsmart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/collect/kdsmart/sendtokdsmart/</guid>
+      <description>Once you have downloaded a .kdx file, you have to send it to the device where KDSmart is installed. For this you have three options:
+  Via email: send an email to yourself or the data collector, with the .kdx file attached. Open this email on the mobile device where KDSmart is installed and download the .kdx file in the folder ‘’Download’’ of the mobile device.
+  Via a cloud: On your laptop save the .</description>
+    </item>
+    
+    <item>
+      <title>Open fieldbook in KDSmart</title>
       <link>https://agrofims.github.io/helpdocs/collect/kdsmart/openinkdsmart/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -42,26 +53,25 @@
     </item>
     
     <item>
-      <title>Identifying the plots</title>
+      <title>Identify the plots</title>
       <link>https://agrofims.github.io/helpdocs/collect/kdsmart/identifyplot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/collect/kdsmart/identifyplot/</guid>
       <description>In KDSmart the plots can be named either by their number or by the number of their column, row and block.
   Download a trial (cf. KDSmart tutorial  )
-  Click on the three dots at the top left.
-  Select “Trials”   Select your trial in the list to open “Trial Details”
+  Click on the three dots at the top left (1)
+  Select “Trials” (2)   Select your trial in the list to open “Trial Details”
   Click on the edit icon next to “Plot identification”   Select “Plot” if you want to identify the plots by their number, select &amp;ldquo;Block/Field Column/Field Row” if you prefer to identify the plots with their Block/Column and Row numbers.</description>
     </item>
     
     <item>
-      <title>Where to find the information filled in AgroFIMS in KDSmart</title>
+      <title>Where to find the information filled in AgroFIMS</title>
       <link>https://agrofims.github.io/helpdocs/collect/kdsmart/findinfo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/collect/kdsmart/findinfo/</guid>
-      <description>A.	In Trial Details
-  Click on the three dots at the top left of KDSmart screen.
+      <description>In Trial Details   Click on the three dots at the top left of KDSmart screen.
   Select “Trials”.   Select your trial in the list to open the Trial Details page of your experiment.
   Experiment objective is noted as Note (3)
   Measurements (Crop, Phenology, Soil, Management practices to be collected in the field) are listed as “Traits”. (4)

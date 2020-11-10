@@ -1,9 +1,7 @@
 +++
-title = " Send KDSmart file to the mobile device"
+title = " Send KDSmart file to mobile device"
 description = ""
 weight = 3
-date= 2020-11-20
-
 +++
 
 Once you have downloaded a .kdx file, you have to send it to the device where KDSmart is installed. For this you have three options:

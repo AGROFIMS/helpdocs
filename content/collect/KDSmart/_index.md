@@ -1,8 +1,11 @@
-+++
-title = "KDSmart"
-description = ""
-weight = 1
-+++
+---
+title : "KDSmart"
+weight: 1
+menu :
+  KDSmart:
+    parent: 'collect'
+    weight: 1
+---
 
 
 1.	Download and install the  <a href="https://play.google.com/store/apps/details?id=com.diversityarrays.kdsmart&hl=en_US" target="_blank"> KDSmart application</a> on an Android device.

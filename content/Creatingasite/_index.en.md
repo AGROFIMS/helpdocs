@@ -5,4 +5,5 @@ icon: "ti-location-pin"
 description: "Create your sites"
 type : "docs"
 weight: 3
+menue: main
 ---

@@ -532,8 +532,8 @@ textarea.form-control {
 
 .content img {
   max-width: 100%;
-  height: auto;
-  margin: 0 auto 15px;
+  max-height: 600px;
+  margin: 15px auto 15px;
   display: block;
   text-align: center;
 }
@@ -717,14 +717,14 @@ tbody {
 /* /single page */
 
 /* side list */
-.sidebar {
+.sidebar ul.topics li.parent > ul {
   background-color: var(--white-color);
   position: sticky;
   top: 50px;
   margin-bottom: 30px;
   padding: 40px 10px 20px 10px;
 }
-
+ 
 .sidelist {
   display: block;
 }

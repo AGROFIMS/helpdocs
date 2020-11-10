@@ -1,9 +1,9 @@
 +++
-title = "Where to find the information filled in AgroFIMS in KDSmart"
+title = "Where to find the information filled in AgroFIMS"
 weight = 6
 +++
 
-**A.	In Trial Details**
+#### In Trial Details ####
 1.	Click on the three dots at the top left of KDSmart screen.
 2.	Select “Trials”. 
 ![kds4](https://agrofims.github.io/helpdocs/images/kds4.png)
@@ -18,18 +18,18 @@ weight = 6
 
 
 
-**B.	 In the Scoring Panel**
+#### In the Scoring Panel ####
 1.	Start scoring a trial (cf. KDSmart Tutorial)
 2.	Click on a Trait to get trait information (also listed in the TraitList tab of the Excel fieldbook)
 
 ![kds7](https://agrofims.github.io/helpdocs/images/kds7.png)
 
-**1** TraitAlias
+**(1)** TraitAlias
 
-**2** Measurement timing
+**(2)** Measurement timing
 
-**3** Type of data
+**(3)** Type of data
 
-**4** Trait validation rule
+**(4)** Trait validation rule
 
 

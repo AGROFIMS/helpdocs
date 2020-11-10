@@ -1,8 +1,11 @@
-+++
-title = "Field Book"
-description = ""
-weight = 2
-+++
+---
+title : "Field Book"
+weight: 2
+menu :
+  FieldbookApp:
+    parent: 'collect'
+    weight: 2
+---
 
 
 

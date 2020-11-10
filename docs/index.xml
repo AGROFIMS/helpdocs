@@ -69,6 +69,15 @@
     </item>
     
     <item>
+      <title>Edit fieldbook</title>
+      <link>https://agrofims.github.io/helpdocs/collect/fieldbookapp/editfieldbook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/collect/fieldbookapp/editfieldbook/</guid>
+      <description>Click on the Open icon on the right side of the Fieldbook line to open it.</description>
+    </item>
+    
+    <item>
       <title>Privacy policy</title>
       <link>https://agrofims.github.io/helpdocs/policyterms/privacy_policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -79,7 +88,7 @@
     </item>
     
     <item>
-      <title>Set the app in production mode</title>
+      <title>Set in production mode</title>
       <link>https://agrofims.github.io/helpdocs/collect/kdsmart/productionmode/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -113,12 +122,12 @@ Copyright (C) 2007 Free Software Foundation, Inc. http://fsf.org/ Everyone is pe
     </item>
     
     <item>
-      <title>Edit fieldbook</title>
-      <link>https://agrofims.github.io/helpdocs/collect/fieldbookapp/editfieldbook/</link>
+      <title>Deleting a fieldbook</title>
+      <link>https://agrofims.github.io/helpdocs/collect/fieldbookapp/deletefieldbook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://agrofims.github.io/helpdocs/collect/fieldbookapp/editfieldbook/</guid>
-      <description>Click on the Open icon on the right side of the Fieldbook line to open it.</description>
+      <guid>https://agrofims.github.io/helpdocs/collect/fieldbookapp/deletefieldbook/</guid>
+      <description>Click on the red bin icon at the right of the fielbook line to remove it.</description>
     </item>
     
     <item>
@@ -140,7 +149,7 @@ Copyright (C) 2007 Free Software Foundation, Inc. http://fsf.org/ Everyone is pe
     </item>
     
     <item>
-      <title>Exporting AgroFIMS fieldbook</title>
+      <title>Export AgroFIMS fieldbook</title>
       <link>https://agrofims.github.io/helpdocs/collect/kdsmart/exportkdsmart/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -220,6 +229,17 @@ AgroFIMS is an online interface conceived to standardizes agronomic data collect
     </item>
     
     <item>
+      <title> Send KDSmart file to mobile device</title>
+      <link>https://agrofims.github.io/helpdocs/collect/kdsmart/sendtokdsmart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/collect/kdsmart/sendtokdsmart/</guid>
+      <description>Once you have downloaded a .kdx file, you have to send it to the device where KDSmart is installed. For this you have three options:
+  Via email: send an email to yourself or the data collector, with the .kdx file attached. Open this email on the mobile device where KDSmart is installed and download the .kdx file in the folder ‘’Download’’ of the mobile device.
+  Via a cloud: On your laptop save the .</description>
+    </item>
+    
+    <item>
       <title>Adding a Funding agency – Project management entity – Experiment lead</title>
       <link>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/agency/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -235,15 +255,6 @@ AgroFIMS is an online interface conceived to standardizes agronomic data collect
       
       <guid>https://agrofims.github.io/helpdocs/about/workflow/</guid>
       <description>AgroFIMS works in collaboration with the Android applications like KDSmart, ODK Collect and Field Book apps to provide a complete workflow to manage data for the creation of a fieldbook to the data analysis. Below are the different steps to follow to create, collect, analyze and save data using AgroFIMS: </description>
-    </item>
-    
-    <item>
-      <title>Deleting a fieldbook</title>
-      <link>https://agrofims.github.io/helpdocs/collect/fieldbookapp/deletefieldbook/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/collect/fieldbookapp/deletefieldbook/</guid>
-      <description>Click on the red bin icon at the right of the fielbook line to remove it.</description>
     </item>
     
     <item>
@@ -301,7 +312,7 @@ AgroFIMS is an online interface conceived to standardizes agronomic data collect
     </item>
     
     <item>
-      <title>Open the file in KDSmart</title>
+      <title>Open fieldbook in KDSmart</title>
       <link>https://agrofims.github.io/helpdocs/collect/kdsmart/openinkdsmart/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -356,15 +367,15 @@ AgroFIMS is an online interface conceived to standardizes agronomic data collect
     </item>
     
     <item>
-      <title>Identifying the plots</title>
+      <title>Identify the plots</title>
       <link>https://agrofims.github.io/helpdocs/collect/kdsmart/identifyplot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/collect/kdsmart/identifyplot/</guid>
       <description>In KDSmart the plots can be named either by their number or by the number of their column, row and block.
   Download a trial (cf. KDSmart tutorial  )
-  Click on the three dots at the top left.
-  Select “Trials”   Select your trial in the list to open “Trial Details”
+  Click on the three dots at the top left (1)
+  Select “Trials” (2)   Select your trial in the list to open “Trial Details”
   Click on the edit icon next to “Plot identification”   Select “Plot” if you want to identify the plots by their number, select &amp;ldquo;Block/Field Column/Field Row” if you prefer to identify the plots with their Block/Column and Row numbers.</description>
     </item>
     
@@ -398,13 +409,12 @@ Robust metadata will allow better understanding and interpretation of your data 
     </item>
     
     <item>
-      <title>Where to find the information filled in AgroFIMS in KDSmart</title>
+      <title>Where to find the information filled in AgroFIMS</title>
       <link>https://agrofims.github.io/helpdocs/collect/kdsmart/findinfo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/collect/kdsmart/findinfo/</guid>
-      <description>A.	In Trial Details
-  Click on the three dots at the top left of KDSmart screen.
+      <description>In Trial Details   Click on the three dots at the top left of KDSmart screen.
   Select “Trials”.   Select your trial in the list to open the Trial Details page of your experiment.
   Experiment objective is noted as Note (3)
   Measurements (Crop, Phenology, Soil, Management practices to be collected in the field) are listed as “Traits”. (4)
