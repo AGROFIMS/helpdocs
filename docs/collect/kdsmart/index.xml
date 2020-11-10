@@ -12,32 +12,60 @@
     
     
     <item>
-      <title>Download KDSmart</title>
-      <link>https://agrofims.github.io/helpdocs/collect/kdsmart/download-kdsmart/</link>
+      <title>Set the app in production mode</title>
+      <link>https://agrofims.github.io/helpdocs/collect/kdsmart/productionmode/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://agrofims.github.io/helpdocs/collect/kdsmart/download-kdsmart/</guid>
-      <description>  Download and install the KDSmart application on an Android device.
-  A tutorial  for KDSmart is available on the website of KDDart.
+      <guid>https://agrofims.github.io/helpdocs/collect/kdsmart/productionmode/</guid>
+      <description>The application downloaded is in Demo DB mode. To enable all the functionalities the mode Production has to be enabled.
+ In the home screen, click on the menu icon on the top left, and select Settings.    2.	In the Settings menu, click on Active Database  Select Production   To go back to the home screen, click on the arrow at the top left.
   </description>
     </item>
     
     <item>
-      <title>Edit fieldbook</title>
-      <link>https://agrofims.github.io/helpdocs/collect/kdsmart/editfieldbook/</link>
+      <title>Exporting AgroFIMS fieldbook</title>
+      <link>https://agrofims.github.io/helpdocs/collect/kdsmart/exportkdsmart/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://agrofims.github.io/helpdocs/collect/kdsmart/editfieldbook/</guid>
-      <description>Click on the Open icon on the right side of the Fieldbook line to open it.</description>
+      <guid>https://agrofims.github.io/helpdocs/collect/kdsmart/exportkdsmart/</guid>
+      <description>To upload an AgroFIMS fieldbook in KDSmart, you have to first export the AgroFIMS fieldbook as a .kdx file.
+  Select Experiments in the Menu and select the experiment of our choice.   Go to the Fieldbooks tab and open the fieldbook of your choice by clicking on the blue eye icon.   Click on the cloud icon at the top right of the window.   Click on Build.</description>
     </item>
     
     <item>
-      <title>Deleting a fieldbook</title>
-      <link>https://agrofims.github.io/helpdocs/collect/kdsmart/deletefieldbook/</link>
+      <title>Open the file in KDSmart</title>
+      <link>https://agrofims.github.io/helpdocs/collect/kdsmart/openinkdsmart/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://agrofims.github.io/helpdocs/collect/kdsmart/deletefieldbook/</guid>
-      <description>Click on the red bin icon at the right of the fielbook line to remove it.</description>
+      <guid>https://agrofims.github.io/helpdocs/collect/kdsmart/openinkdsmart/</guid>
+      <description>Once the .kdx file in stored in your mobile device, you can open it in KDsmart following this tutorial (cf. tutorial  )</description>
+    </item>
+    
+    <item>
+      <title>Identifying the plots</title>
+      <link>https://agrofims.github.io/helpdocs/collect/kdsmart/identifyplot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/collect/kdsmart/identifyplot/</guid>
+      <description>In KDSmart the plots can be named either by their number or by the number of their column, row and block.
+  Download a trial (cf. KDSmart tutorial  )
+  Click on the three dots at the top left.
+  Select “Trials”   Select your trial in the list to open “Trial Details”
+  Click on the edit icon next to “Plot identification”   Select “Plot” if you want to identify the plots by their number, select &amp;ldquo;Block/Field Column/Field Row” if you prefer to identify the plots with their Block/Column and Row numbers.</description>
+    </item>
+    
+    <item>
+      <title>Where to find the information filled in AgroFIMS in KDSmart</title>
+      <link>https://agrofims.github.io/helpdocs/collect/kdsmart/findinfo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/collect/kdsmart/findinfo/</guid>
+      <description>A.	In Trial Details
+  Click on the three dots at the top left of KDSmart screen.
+  Select “Trials”.   Select your trial in the list to open the Trial Details page of your experiment.
+  Experiment objective is noted as Note (3)
+  Measurements (Crop, Phenology, Soil, Management practices to be collected in the field) are listed as “Traits”. (4)
+  Experiment, personnel, site, crop and design information are listed under “Trial attributes”.</description>
     </item>
     
   </channel>

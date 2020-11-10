@@ -32,14 +32,6 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/collect/kdsmart/download-kdsmart/</loc>
-  </url>
-  
-  <url>
-    <loc>https://agrofims.github.io/helpdocs/collect/kdsmart/setupkdsmart/download-kdsmart/</loc>
-  </url>
-  
-  <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/</loc>
   </url>
   
@@ -52,11 +44,7 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/collect/kdsmart/setupkdsmart/productionmode/</loc>
-  </url>
-  
-  <url>
-    <loc>https://agrofims.github.io/helpdocs/collect/kdsmart/setupkdsmart/</loc>
+    <loc>https://agrofims.github.io/helpdocs/collect/kdsmart/productionmode/</loc>
   </url>
   
   <url>
@@ -77,19 +65,15 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/collect/kdsmart/editfieldbook/</loc>
-  </url>
-  
-  <url>
-    <loc>https://agrofims.github.io/helpdocs/collect/kdsmart/setupkdsmart/editfieldbook/</loc>
-  </url>
-  
-  <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/editfieldbook/</loc>
   </url>
   
   <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/experimentid/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/collect/kdsmart/exportkdsmart/</loc>
   </url>
   
   <url>
@@ -150,10 +134,6 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/collect/kdsmart/deletefieldbook/</loc>
-  </url>
-  
-  <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/deletefieldbook/</loc>
   </url>
   
@@ -192,6 +172,10 @@
   </url>
   
   <url>
+    <loc>https://agrofims.github.io/helpdocs/collect/kdsmart/openinkdsmart/</loc>
+  </url>
+  
+  <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/removeagency/</loc>
   </url>
   
@@ -226,6 +210,10 @@
   </url>
   
   <url>
+    <loc>https://agrofims.github.io/helpdocs/collect/kdsmart/identifyplot/</loc>
+  </url>
+  
+  <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/blankcase/</loc>
   </url>
   
@@ -240,6 +228,10 @@
   
   <url>
     <loc>https://agrofims.github.io/helpdocs/about/managingyouraccount/manageaccount/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/collect/kdsmart/findinfo/</loc>
   </url>
   
   <url>
