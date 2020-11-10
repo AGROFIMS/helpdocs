@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/features/</loc>
+    <loc>https://agrofims.github.io/helpdocs/about/</loc>
     <lastmod>2018-12-28T11:02:05+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/features/about/</loc>
+    <loc>https://agrofims.github.io/helpdocs/about/about/</loc>
   </url>
   
   <url>
@@ -32,7 +32,19 @@
   </url>
   
   <url>
+    <loc>https://agrofims.github.io/helpdocs/collect/kdsmart/download-kdsmart/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/collect/kdsmart/setupkdsmart/download-kdsmart/</loc>
+  </url>
+  
+  <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/collect/kdsmart/</loc>
   </url>
   
   <url>
@@ -40,7 +52,15 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/features/managingyouraccount/signup/</loc>
+    <loc>https://agrofims.github.io/helpdocs/collect/kdsmart/setupkdsmart/productionmode/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/collect/kdsmart/setupkdsmart/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/about/managingyouraccount/signup/</loc>
   </url>
   
   <url>
@@ -53,6 +73,18 @@
   </url>
   
   <url>
+    <loc>https://agrofims.github.io/helpdocs/collect/fieldbookapp/editfieldbook/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/collect/kdsmart/editfieldbook/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/collect/kdsmart/setupkdsmart/editfieldbook/</loc>
+  </url>
+  
+  <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/editfieldbook/</loc>
   </url>
   
@@ -61,7 +93,11 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/features/homescreen/</loc>
+    <loc>https://agrofims.github.io/helpdocs/collect/fieldbookapp/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/about/homescreen/</loc>
   </url>
   
   <url>
@@ -69,7 +105,7 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/features/managingyouraccount/log/</loc>
+    <loc>https://agrofims.github.io/helpdocs/about/managingyouraccount/log/</loc>
   </url>
   
   <url>
@@ -106,7 +142,15 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/features/workflow/</loc>
+    <loc>https://agrofims.github.io/helpdocs/about/workflow/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/collect/fieldbookapp/deletefieldbook/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/collect/kdsmart/deletefieldbook/</loc>
   </url>
   
   <url>
@@ -130,7 +174,12 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/features/managingyouraccount/updatepassword/</loc>
+    <loc>https://agrofims.github.io/helpdocs/about/managingyouraccount/updatepassword/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/collect/</loc>
+    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
   </url>
   
   <url>
@@ -139,7 +188,7 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/features/managingyouraccount/modifyprofile/</loc>
+    <loc>https://agrofims.github.io/helpdocs/about/managingyouraccount/modifyprofile/</loc>
   </url>
   
   <url>
@@ -147,7 +196,7 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/features/managingyouraccount/newpassword/</loc>
+    <loc>https://agrofims.github.io/helpdocs/about/managingyouraccount/newpassword/</loc>
   </url>
   
   <url>
@@ -159,7 +208,7 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/features/managingyouraccount/</loc>
+    <loc>https://agrofims.github.io/helpdocs/about/managingyouraccount/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
@@ -181,7 +230,7 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/features/linux/</loc>
+    <loc>https://agrofims.github.io/helpdocs/about/linux/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
@@ -190,7 +239,7 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/features/managingyouraccount/manageaccount/</loc>
+    <loc>https://agrofims.github.io/helpdocs/about/managingyouraccount/manageaccount/</loc>
   </url>
   
   <url>
