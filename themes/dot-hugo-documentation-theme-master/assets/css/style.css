@@ -527,7 +527,9 @@ textarea.form-control {
 /* single page */
 
 .content * {
-  margin-bottom: 20px;
+  margin-bottom: 30px;
+  text-align: justify;
+  
 }
 
 .content img {
@@ -599,19 +601,29 @@ blockquote p {
 
 .pagination {
   justify-content: space-between;
+  display: outside;
+  background: var(--body-color);
+  
+  
 }
 
 .pagination a {
   color: var(--primary-color);
+  margin-top: 10px;
+  margin-bottom:10px;
+  margin-right: 20px ;
+  margin-left:20px;
+  
 }
 
 .pagination i {
   font-size: 15px;
   line-height: 1.8;
+  
 }
 
 #accordion i {
-  font-size: 14px;
+  font-size: 12px;
   line-height: 2;
 }
 
@@ -621,6 +633,7 @@ table {
   max-width: 100%;
   margin-bottom: 1rem;
   border: 1px solid #dee2e6;
+  
 }
 
 table td,
@@ -661,8 +674,8 @@ tbody {
 }
 
 .notices.note p {
-  border-top: 30px solid #6ab0de;
-  background: #e7f2fa;
+  border-top: 30px solid #4a7934;
+  background: #edf8e7;
 }
 
 .notices.note p::after {
@@ -717,16 +730,17 @@ tbody {
 /* /single page */
 
 /* side list */
-.sidebar ul.topics li.parent > ul {
+.sidebar {
   background-color: var(--white-color);
   position: sticky;
-  top: 50px;
+  top: 50 px;
   margin-bottom: 30px;
-  padding: 40px 10px 20px 10px;
+  padding: 30px 20px 20px 10px;
 }
  
 .sidelist {
   display: block;
+  
 }
 
 li.sidelist>a {
@@ -805,7 +819,7 @@ code {
 }
 
 .ui-autocomplete-input {
-  border-bottom: 1px solid rgb(212, 212, 212) !important;
+  border-bottom: 1px solid var(--white-color) !important;
 }
 
 .ui-autocomplete-input.active {

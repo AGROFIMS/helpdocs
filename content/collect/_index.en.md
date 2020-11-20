@@ -6,3 +6,5 @@ type : "docs"
 weight: 4
 
 ---
+
+Once you have created a fieldbook in AgroFIMS, you may download it and export it to an Android device to digitaly collect your data.
