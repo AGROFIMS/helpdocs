@@ -29,7 +29,7 @@
       
       <guid>https://agrofims.github.io/helpdocs/collect/kdsmart/exportkdsmart/</guid>
       <description>To upload an AgroFIMS fieldbook in KDSmart, you have to first export the AgroFIMS fieldbook as a .kdx file.
-  Select Experiments in the Menu and select the experiment of our choice.   Go to the Fieldbooks tab and open the fieldbook of your choice by clicking on the blue eye icon.   Click on the cloud icon at the top right of the window.   Click on Build.</description>
+  Select Experiments in the Menu and select the experiment of our choice.   Go to the Fieldbooks tab and open the fieldbook of your choice by clicking on “open” icon (square with an arrow through it).   Click on the cloud icon at the top right of the window.</description>
     </item>
     
     <item>

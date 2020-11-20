@@ -12,21 +12,46 @@
     
     
     <item>
-      <title>Edit fieldbook</title>
+      <title>Exporting AgroFIMS fieldbook in a format readable by Field Book</title>
+      <link>https://agrofims.github.io/helpdocs/collect/fieldbookapp/exportfieldbook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/collect/fieldbookapp/exportfieldbook/</guid>
+      <description>To upload an AgroFIMS fieldbook to Field Book, you have to first export the AgroFIMS fieldbook as a .zip file and then unzip it.
+  Go to Experiments in the left-hand panel menu and select the experiment of your choice.   Go to the Fieldbooks tab at the top.
+  Open the fieldbook of your choice by clicking on the “open” icon (square with an arrow through it).</description>
+    </item>
+    
+    <item>
+      <title> Send KDSmart file to mobile device</title>
+      <link>https://agrofims.github.io/helpdocs/collect/fieldbookapp/sendtofieldbook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/collect/fieldbookapp/sendtofieldbook/</guid>
+      <description>Once you have downloaded a .kdx file, you have to send it to the device where KDSmart is installed. For this you have three options:
+  Via email: send an email to yourself or the data collector, with the .kdx file attached. Open this email on the mobile device where KDSmart is installed and download the .kdx file in the folder ‘’Download’’ of the mobile device.
+  Via a cloud: On your laptop save the .</description>
+    </item>
+    
+    <item>
+      <title>Save the files in your mobile memory</title>
       <link>https://agrofims.github.io/helpdocs/collect/fieldbookapp/editfieldbook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/collect/fieldbookapp/editfieldbook/</guid>
-      <description>Click on the Open icon on the right side of the Fieldbook line to open it.</description>
+      <description>  Save the .csv file in the folder field_import of the main folder fieldBook created by the app on the mobile device.
+  Save the .trt file in the trait folder of the folder fieldBook created by the app on the mobile device
+  </description>
     </item>
     
     <item>
-      <title>Deleting a fieldbook</title>
-      <link>https://agrofims.github.io/helpdocs/collect/fieldbookapp/deletefieldbook/</link>
+      <title>Open the files in Field Book</title>
+      <link>https://agrofims.github.io/helpdocs/collect/fieldbookapp/openfieldbook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://agrofims.github.io/helpdocs/collect/fieldbookapp/deletefieldbook/</guid>
-      <description>Click on the red bin icon at the right of the fielbook line to remove it.</description>
+      <guid>https://agrofims.github.io/helpdocs/collect/fieldbookapp/openfieldbook/</guid>
+      <description>Open Field Book.
+  Go Fields.   Click on the + at the top right and select Local storage.   Select the .csv field exported from AgroFIMS, and then validate the radio button next to it.   Go back to the main menu and select Traits.   Click on the three dots at the top right and select ‘’Import/Export’’.   Select ‘’Import’’ and then ‘’Local storage’’.</description>
     </item>
     
   </channel>
