@@ -1,14 +1,13 @@
 +++
-title = " Send KDSmart file to mobile device"
+title = " Send the files to mobile device"
 description = ""
 weight = 2
 +++
 
-Once you have downloaded a .kdx file, you have to send it to the device where KDSmart is installed. For this you have three options:
+Once you have created a .zip file, you have to send it to the device where Field Book is installed. For this you have three options:
 
--	Via email: send an email to yourself or the data collector, with the .kdx file attached. Open this email on the mobile device where KDSmart is installed and download the .kdx file in the folder ‘’Download’’ of the mobile device. 
+•	Via email: send an email to yourself or the data collector, with the .csv and .trt files attached. Open this email on the mobile device where Field Book is installed and download the files.
 
--	Via a cloud: On your laptop save the .kdx file on a cloud-based service (OneDrive, Dropbox, Google Drive, etc.). Open the same service on the mobile device and download the .kdx file in the folder ‘’Download’’ of the mobile device. 
+•	Via the cloud: On your laptop save the .csv and .trt files on a cloud-based service (OneDrive, Dropbox, Google Drive, etc.). Open the same service on the mobile device and download the files.
 
--	Via USB transfer: Connect the mobile device to your laptop. Save the .kdx file in the folder ‘’Download’’ of the mobile device. 
-
+•	Via USB transfer: Connect the mobile device to your laptop to transfer the .csv and .trt files. 

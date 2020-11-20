@@ -4,8 +4,8 @@ weight = 6
 +++
 
 #### In Trial Details ####
-1.	Click on the three dots at the top left of KDSmart screen.
-2.	Select “Trials”. 
+1.	Click on the three dots at the top left of KDSmart screen **(1)**.
+2.	Select “Trials” **(2)**. 
 ![kds4](https://agrofims.github.io/helpdocs/images/kds4.png)
 
 3.	Select your trial in the list to open the Trial Details page of your experiment. 
@@ -19,7 +19,8 @@ weight = 6
 
 
 #### In the Scoring Panel ####
-1.	Start scoring a trial (cf. KDSmart Tutorial)
+1.	Start scoring a trial (cf. <a href="http://www.kddart.org/help/kdtutorials/html/KDSTutorial.html#" target="_blank"> KDSmart tutorial </a> )
+
 2.	Click on a Trait to get trait information (also listed in the TraitList tab of the Excel fieldbook)
 
 ![kds7](https://agrofims.github.io/helpdocs/images/kds7.png)

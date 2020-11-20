@@ -49,7 +49,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/collect/kdsmart/openinkdsmart/</guid>
-      <description>Once the .kdx file in stored in your mobile device, you can open it in KDsmart following this tutorial (cf. tutorial  )</description>
+      <description>Once the .kdx file is stored in your mobile device, you can open it in KDSmart following this tutorial.</description>
     </item>
     
     <item>
@@ -71,8 +71,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/collect/kdsmart/findinfo/</guid>
-      <description>In Trial Details   Click on the three dots at the top left of KDSmart screen.
-  Select “Trials”.   Select your trial in the list to open the Trial Details page of your experiment.
+      <description>In Trial Details   Click on the three dots at the top left of KDSmart screen (1).
+  Select “Trials” (2).   Select your trial in the list to open the Trial Details page of your experiment.
   Experiment objective is noted as Note (3)
   Measurements (Crop, Phenology, Soil, Management practices to be collected in the field) are listed as “Traits”. (4)
   Experiment, personnel, site, crop and design information are listed under “Trial attributes”.</description>
