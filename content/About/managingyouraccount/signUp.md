@@ -4,13 +4,18 @@ description = ""
 weight = 1
 +++
 
-1.	Go to  <a href="https://agrofims.org/" target="_blank">AgroFIMS</a>.
-2.	Enter your email, password, name, last name, organization and country. 
-3.	Click Create.
-4.	Your account has been created. You can Log in and start using AgroFIMS.
+1.	Go to  <a href="https://agrofims.org/" target="_blank">**AgroFIMS**</a>.
+2. Click on **Register**.
+![register](https://agrofims.github.io/helpdocs/images/register.png)
+
+3. Enter your email, first name, last name, email, affiliation, and country. 
+4.	Click **Register**.
+5.	An email will be sent to your mailbox with a link to activate your account and a password.  
+6.	Click on the link to activate your password.
+7. Go to  <a href="https://agrofims.org/" target="_blank">**AgroFIMS**</a> to log in. We recommend that you modify the password sent and change it frequently.
+
  
 {{< notice note >}}
-  An email will be sent to your mailbox to confirm your account. 
- Don’t forget to check your spam folder if you don’t see the email in your inbox!
+ Don’t forget to check your spam folder if you don’t see the email in your inbox.
  {{</ notice >}}
 

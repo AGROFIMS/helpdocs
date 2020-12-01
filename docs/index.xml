@@ -18,7 +18,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/about/about/</guid>
-      <description>The Agronomy Field Information Management System (AgroFIMS) allows users to create fieldbooks to collect agronomic data that is already tied to a metadata standard (the CG Core Metadata Schema, aligned with the standard Dublin Core), and semantic standards like the Agronomy Ontology (AgrO), generating data that is Findable, Accessible, Interoperable, and Reusable (FAIR) at collection. AgroFIMS therefore standardizes data collection and description for easy aggregation and inter-linking across disparate datasets. By December 2020 you will be able to export the fieldbooks you create to the Android-based KDSmart or Field Book applications for data collection.</description>
+      <description>The Agronomy Field Information Management System (**(AgroFIMS)**AgroFIMS) allows users to create fieldbooks to collect agronomic data. The fieldbook is already tied to a metadata standard (the CG Core Metadata Schema, aligned with the industry standard Dublin Core Metadata Schema and required by CGIAR and many other repositories). The data variables and protocol parameters in AgroFIMS fieldbooks align with semantic standards like the and semantic standards like the **Agronomy Ontology** (AgrO). This a priori compliance with data standards facilitates data to be Findable, Accessible, Interoperable, and Reusable (FAIR) at collection, making it easier to interpret and aggregate.</description>
     </item>
     
     <item>
@@ -106,8 +106,12 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/about/managingyouraccount/signup/</guid>
-      <description> Go to AgroFIMS. Enter your email, password, name, last name, organization and country. Click Create. Your account has been created. You can Log in and start using AgroFIMS.  An email will be sent to your mailbox to confirm your account. Don’t forget to check your spam folder if you don’t see the email in your inbox!
- </description>
+      <description>Go to AgroFIMS.
+  Click on Register.   Enter your email, first name, last name, email, affiliation, and country.
+  Click Register.
+  An email will be sent to your mailbox with a link to activate your account and a password.
+  Click on the link to activate your password.
+  Go to AgroFIMS to log in. We recommend that you modify the password sent and change it frequently.</description>
     </item>
     
     <item>
@@ -132,6 +136,15 @@
 GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
 Copyright (C) 2007 Free Software Foundation, Inc. http://fsf.org/ Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
  Preamble The GNU General Public License is a free, copyleft license for software and other kinds of works.</description>
+    </item>
+    
+    <item>
+      <title>AgroFIMS workflow</title>
+      <link>https://agrofims.github.io/helpdocs/about/workflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/about/workflow/</guid>
+      <description>AgroFIMS works in collaboration with Android applications like KDSmart, ODK Collect and Field Book to provide a complete standards-compliant workflow, from picking data variables and experimental protocol parameters to create an Excel fieldbook, through data analysis and upload to data repositories. Below are the different steps to follow to create, collect, analyze and save data using AgroFIMS: </description>
     </item>
     
     <item>
@@ -163,15 +176,6 @@ Copyright (C) 2007 Free Software Foundation, Inc. http://fsf.org/ Everyone is pe
     </item>
     
     <item>
-      <title>Home screen</title>
-      <link>https://agrofims.github.io/helpdocs/about/homescreen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/about/homescreen/</guid>
-      <description> Button to open and close the Menu Menu  </description>
-    </item>
-    
-    <item>
       <title>Loading my info</title>
       <link>https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/myinfo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -187,7 +191,7 @@ Copyright (C) 2007 Free Software Foundation, Inc. http://fsf.org/ Everyone is pe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/about/managingyouraccount/log/</guid>
-      <description> At the upper right corner of the Home page, click on and select Log In Enter your email and your password. Click Log In  </description>
+      <description> Go to AgroFIMS. Enter your email and your password. Click Log In.   If the login screen is not open when you reach AgroFIMS, click on Login at the top right corner of the Home page.  </description>
     </item>
     
     <item>
@@ -254,21 +258,21 @@ AgroFIMS is an online interface conceived to standardizes agronomic data collect
     </item>
     
     <item>
-      <title>AgroFIMS workflow</title>
-      <link>https://agrofims.github.io/helpdocs/about/workflow/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/about/workflow/</guid>
-      <description>AgroFIMS works in collaboration with the Android applications like KDSmart, ODK Collect and Field Book apps to provide a complete workflow to manage data for the creation of a fieldbook to the data analysis. Below are the different steps to follow to create, collect, analyze and save data using AgroFIMS: </description>
-    </item>
-    
-    <item>
       <title>Deleting a fieldbook</title>
       <link>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/deletefieldbook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/deletefieldbook/</guid>
       <description>Click on the red bin icon at the right of the fielbook line to remove it.</description>
+    </item>
+    
+    <item>
+      <title>Home screen</title>
+      <link>https://agrofims.github.io/helpdocs/about/homescreen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/about/homescreen/</guid>
+      <description> Button to open and close the Menu Profile settings, log in and to log out Navigation menu  </description>
     </item>
     
     <item>
@@ -315,16 +319,7 @@ AgroFIMS is an online interface conceived to standardizes agronomic data collect
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/about/managingyouraccount/updatepassword/</guid>
-      <description> Log in. Click on at the top right corner of the Home page. Select Autentication Enter your current password and a new password. Click ‘’Update password’’. Your password has been updated and you can now log in with your new password.  </description>
-    </item>
-    
-    <item>
-      <title>Modifying your profile</title>
-      <link>https://agrofims.github.io/helpdocs/about/managingyouraccount/modifyprofile/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/about/managingyouraccount/modifyprofile/</guid>
-      <description>You can view your profile information by selecting Account &amp;gt; Profile in the Menu. If you wish to update your profile information, please send an email to agrofims@cgiar.org.</description>
+      <description> Log in to AgroFIMS. Click on Profile settings at the top right corner of the Home page. Select Autentication.  Enter your current password and a new one. Click Update password.  Your password has been updated and you can now log in with your new password.  </description>
     </item>
     
     <item>
@@ -361,8 +356,10 @@ AgroFIMS is an online interface conceived to standardizes agronomic data collect
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/about/managingyouraccount/newpassword/</guid>
-      <description> At the upper right corner of the Home page, click on  Select Forgot your password? Enter your email and click on Reset my password A new password will be sent to your email address.  Don’t forget to check your spam folder
- </description>
+      <description>  Go to AgroFIMS.
+  On the login screen select Forgot your pwd?.   Enter your email and click on Reset my password.
+  A new password will be sent to your email address. Don’t forget to check your spam folder.
+  If the login screen is not open when you reach AgroFIMS, click on Login at the top right corner of the Home page.  </description>
     </item>
     
     <item>
@@ -417,21 +414,21 @@ Robust metadata will allow better understanding and interpretation of your data 
     </item>
     
     <item>
+      <title>Modifying your profile information</title>
+      <link>https://agrofims.github.io/helpdocs/about/managingyouraccount/modifyprofile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/about/managingyouraccount/modifyprofile/</guid>
+      <description>You can only view your profile information by selecting Profile settings at the top right corner of the Home page and then Profile. If you wish to update your profile information, please send an email to agrofims@cgiar.org .</description>
+    </item>
+    
+    <item>
       <title>Design</title>
       <link>https://agrofims.github.io/helpdocs/creatingafieldbook/design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/design/</guid>
       <description>Find below the steps to create a fieldbook in AgroFIMS.</description>
-    </item>
-    
-    <item>
-      <title>old page</title>
-      <link>https://agrofims.github.io/helpdocs/about/managingyouraccount/manageaccount/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/about/managingyouraccount/manageaccount/</guid>
-      <description>Signing Up  Go to AgroFIMS. Enter your email, password, name, last name, organization and country. Click Create. Your account has been created. You can Log in and start using AgroFIMS. An email will be sent to your mailbox to confirm your account. Don’t forget to check your spam folder if you don’t see the email in your inbox!  Logging in  At the upper right corner of the Home page, click on and select Log In Enter your email and your password.</description>
     </item>
     
     <item>

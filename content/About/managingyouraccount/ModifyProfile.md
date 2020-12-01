@@ -1,7 +1,7 @@
 +++
-title = "Modifying your profile"
+title = "Modifying your profile information"
 description = ""
-weight = 4
+weight = 5
 +++
 
-You can view your profile information by selecting Account > Profile in the Menu. If you wish to update your profile information, please send an email to agrofims@cgiar.org.
+You can only view your profile information by selecting Profile settings at the top right corner of the Home page and then **Profile**. If you wish to update your profile information, please send an email to agrofims@cgiar.org .

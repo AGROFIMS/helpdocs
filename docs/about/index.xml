@@ -18,16 +18,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/about/about/</guid>
-      <description>The Agronomy Field Information Management System (AgroFIMS) allows users to create fieldbooks to collect agronomic data that is already tied to a metadata standard (the CG Core Metadata Schema, aligned with the standard Dublin Core), and semantic standards like the Agronomy Ontology (AgrO), generating data that is Findable, Accessible, Interoperable, and Reusable (FAIR) at collection. AgroFIMS therefore standardizes data collection and description for easy aggregation and inter-linking across disparate datasets. By December 2020 you will be able to export the fieldbooks you create to the Android-based KDSmart or Field Book applications for data collection.</description>
-    </item>
-    
-    <item>
-      <title>Home screen</title>
-      <link>https://agrofims.github.io/helpdocs/about/homescreen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/about/homescreen/</guid>
-      <description> Button to open and close the Menu Menu  </description>
+      <description>The Agronomy Field Information Management System (**(AgroFIMS)**AgroFIMS) allows users to create fieldbooks to collect agronomic data. The fieldbook is already tied to a metadata standard (the CG Core Metadata Schema, aligned with the industry standard Dublin Core Metadata Schema and required by CGIAR and many other repositories). The data variables and protocol parameters in AgroFIMS fieldbooks align with semantic standards like the and semantic standards like the **Agronomy Ontology** (AgrO). This a priori compliance with data standards facilitates data to be Findable, Accessible, Interoperable, and Reusable (FAIR) at collection, making it easier to interpret and aggregate.</description>
     </item>
     
     <item>
@@ -36,7 +27,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/about/workflow/</guid>
-      <description>AgroFIMS works in collaboration with the Android applications like KDSmart, ODK Collect and Field Book apps to provide a complete workflow to manage data for the creation of a fieldbook to the data analysis. Below are the different steps to follow to create, collect, analyze and save data using AgroFIMS: </description>
+      <description>AgroFIMS works in collaboration with Android applications like KDSmart, ODK Collect and Field Book to provide a complete standards-compliant workflow, from picking data variables and experimental protocol parameters to create an Excel fieldbook, through data analysis and upload to data repositories. Below are the different steps to follow to create, collect, analyze and save data using AgroFIMS: </description>
+    </item>
+    
+    <item>
+      <title>Home screen</title>
+      <link>https://agrofims.github.io/helpdocs/about/homescreen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/about/homescreen/</guid>
+      <description> Button to open and close the Menu Profile settings, log in and to log out Navigation menu  </description>
     </item>
     
   </channel>

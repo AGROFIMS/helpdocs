@@ -8,11 +8,6 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/about/managingyouraccount/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://agrofims.github.io/helpdocs/about/about/</loc>
   </url>
   
@@ -69,6 +64,10 @@
   </url>
   
   <url>
+    <loc>https://agrofims.github.io/helpdocs/about/workflow/</loc>
+  </url>
+  
+  <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/editfieldbook/</loc>
   </url>
   
@@ -86,10 +85,6 @@
   
   <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/</loc>
-  </url>
-  
-  <url>
-    <loc>https://agrofims.github.io/helpdocs/about/homescreen/</loc>
   </url>
   
   <url>
@@ -138,15 +133,15 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/about/workflow/</loc>
-  </url>
-  
-  <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/deletefieldbook/</loc>
   </url>
   
   <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/about/homescreen/</loc>
   </url>
   
   <url>
@@ -170,11 +165,12 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/collect/</loc>
+    <loc>https://agrofims.github.io/helpdocs/about/managingyouraccount/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/about/managingyouraccount/modifyprofile/</loc>
+    <loc>https://agrofims.github.io/helpdocs/collect/</loc>
   </url>
   
   <url>
@@ -228,16 +224,16 @@
   </url>
   
   <url>
+    <loc>https://agrofims.github.io/helpdocs/about/managingyouraccount/modifyprofile/</loc>
+  </url>
+  
+  <url>
     <loc>https://agrofims.github.io/helpdocs/about/linux/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/design/</loc>
-  </url>
-  
-  <url>
-    <loc>https://agrofims.github.io/helpdocs/about/managingyouraccount/manageaccount/</loc>
   </url>
   
   <url>
