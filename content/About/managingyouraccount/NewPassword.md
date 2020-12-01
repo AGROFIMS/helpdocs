@@ -13,6 +13,6 @@ weight = 4
 
 
 {{< notice note >}}
-If the login screen is not open when you reach AgroFIMS, click on **Login** at the top right corner of the Home page.
+If the login screen is not open when you reach AgroFIMS, click on **LOGIN** at the top right corner of the Home page.
 ![click on login page](https://agrofims.github.io/helpdocs/images/login.png)
  {{</ notice >}}

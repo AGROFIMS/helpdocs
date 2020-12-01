@@ -18,7 +18,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/about/about/</guid>
-      <description>The Agronomy Field Information Management System (**(AgroFIMS)**AgroFIMS) allows users to create fieldbooks to collect agronomic data. The fieldbook is already tied to a metadata standard (the CG Core Metadata Schema, aligned with the industry standard Dublin Core Metadata Schema and required by CGIAR and many other repositories). The data variables and protocol parameters in AgroFIMS fieldbooks align with semantic standards like the and semantic standards like the **Agronomy Ontology** (AgrO). This a priori compliance with data standards facilitates data to be Findable, Accessible, Interoperable, and Reusable (FAIR) at collection, making it easier to interpret and aggregate.</description>
+      <description>The Agronomy Field Information Management System (AgroFIMS) allows users to create fieldbooks to collect agronomic data. The fieldbook is already tied to a metadata standard (the CG Core Metadata Schema, aligned with the industry standard Dublin Core Metadata Schema and required by CGIAR and many other repositories). The data variables and protocol parameters in AgroFIMS fieldbooks align with semantic standards like the and semantic standards like the Agronomy Ontology (AgrO). This a priori compliance with data standards facilitates data to be Findable, Accessible, Interoperable, and Reusable (FAIR) at collection, making it easier to interpret and aggregate.</description>
     </item>
     
     <item>
@@ -144,7 +144,7 @@ Copyright (C) 2007 Free Software Foundation, Inc. http://fsf.org/ Everyone is pe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/about/workflow/</guid>
-      <description>AgroFIMS works in collaboration with Android applications like KDSmart, ODK Collect and Field Book to provide a complete standards-compliant workflow, from picking data variables and experimental protocol parameters to create an Excel fieldbook, through data analysis and upload to data repositories. Below are the different steps to follow to create, collect, analyze and save data using AgroFIMS: </description>
+      <description>AgroFIMS works in collaboration with Android applications like KDSmart, Field Book and ODK Collect to provide a complete standards-compliant workflow, from picking data variables and experimental protocol parameters to create an Excel fieldbook, through data analysis and upload to data repositories. Below are the different steps to follow to create, collect, analyze and save data using AgroFIMS. </description>
     </item>
     
     <item>
@@ -191,7 +191,7 @@ Copyright (C) 2007 Free Software Foundation, Inc. http://fsf.org/ Everyone is pe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/about/managingyouraccount/log/</guid>
-      <description> Go to AgroFIMS. Enter your email and your password. Click Log In.   If the login screen is not open when you reach AgroFIMS, click on Login at the top right corner of the Home page.  </description>
+      <description> Go to AgroFIMS. Enter your email and your password. Click Login.   If the login screen is not open when you reach AgroFIMS, click on LOGIN at the top right corner of the Home page.  </description>
     </item>
     
     <item>
@@ -319,7 +319,7 @@ AgroFIMS is an online interface conceived to standardizes agronomic data collect
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/about/managingyouraccount/updatepassword/</guid>
-      <description> Log in to AgroFIMS. Click on Profile settings at the top right corner of the Home page. Select Autentication.  Enter your current password and a new one. Click Update password.  Your password has been updated and you can now log in with your new password.  </description>
+      <description> Log in to AgroFIMS. Click on Profile settings at the top right corner of the Home page. Select Authentication.  Enter your current password and a new one. Click Update password.  Your password has been updated and you can now log in with your new password.  </description>
     </item>
     
     <item>
@@ -359,7 +359,7 @@ AgroFIMS is an online interface conceived to standardizes agronomic data collect
       <description>  Go to AgroFIMS.
   On the login screen select Forgot your pwd?.   Enter your email and click on Reset my password.
   A new password will be sent to your email address. Don’t forget to check your spam folder.
-  If the login screen is not open when you reach AgroFIMS, click on Login at the top right corner of the Home page.  </description>
+  If the login screen is not open when you reach AgroFIMS, click on LOGIN at the top right corner of the Home page.  </description>
     </item>
     
     <item>
