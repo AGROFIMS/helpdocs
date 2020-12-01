@@ -28,7 +28,7 @@ menushortcutsnewtab = true # set true to open shortcuts links to a new tab/windo
  
 # logo is for all page
 logo = "AgroFIMS help documentation"
-bg_image = "images/logo.jpg"
+bg_image = "images/logo.png"
 # logo white is for homepage logo, you can use colorful logo too...
 logo_white = ""
 # when logo is empty, it will shown your site title
