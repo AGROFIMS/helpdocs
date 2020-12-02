@@ -17,7 +17,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/addpersonnel/</guid>
-      <description>Click on the button Add Personnel to add a new person to the experiment. </description>
+      <description>Click on the button Add Personnel to add a new person to the experiment, and then add information about him/her. </description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/myinfo/</guid>
-      <description>You can start by adding your profile information using the button ‘’ Load my info’’. This will auto-fill the boxes with information registered in your profile.
+      <description>You can start by adding your profile information using the button Load my info. This will auto-fill the boxes with information registered in your profile.
   </description>
     </item>
     
@@ -36,7 +36,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/removepersonnel/</guid>
-      <description>Click on the red cross at the top right of the personnel box to remove it. </description>
+      <description>Click on the red x at the top right of the personnel box to remove a person’s information. </description>
     </item>
     
   </channel>

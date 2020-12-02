@@ -76,6 +76,10 @@
   </url>
   
   <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/</loc>
+  </url>
+  
+  <url>
     <loc>https://agrofims.github.io/helpdocs/collect/kdsmart/exportkdsmart/</loc>
   </url>
   
@@ -84,7 +88,7 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/</loc>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/importfieldbook/</loc>
   </url>
   
   <url>
@@ -116,10 +120,6 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/fieldbook_id/</loc>
-  </url>
-  
-  <url>
     <loc>https://agrofims.github.io/helpdocs/creatingasite/</loc>
     <lastmod>2018-12-28T11:02:05+06:00</lastmod>
   </url>
@@ -133,10 +133,6 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/deletefieldbook/</loc>
-  </url>
-  
-  <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/</loc>
   </url>
   
@@ -146,6 +142,10 @@
   
   <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/import_variety/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/deletefieldbook/</loc>
   </url>
   
   <url>
@@ -234,6 +234,10 @@
   
   <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/design/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingasite/findsite/</loc>
   </url>
   
   <url>

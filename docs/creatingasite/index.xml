@@ -58,5 +58,14 @@
       <description> Go to Sites in the navigation menu at left of the home page. Click on bin icon next to the site you want to delete.   </description>
     </item>
     
+    <item>
+      <title>I don&#39;t find my site</title>
+      <link>https://agrofims.github.io/helpdocs/creatingasite/findsite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingasite/findsite/</guid>
+      <description> If your site doesn&amp;rsquo;t appear in the site list, check the list by clicking on Sites in the navigation menu. If the site is not listed, it may not have been saved during its creation. You may create the site again by clicking on the blue button + New site.  </description>
+    </item>
+    
   </channel>
 </rss>
