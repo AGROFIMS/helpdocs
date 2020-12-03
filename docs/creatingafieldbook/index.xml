@@ -24,30 +24,13 @@
     </item>
     
     <item>
-      <title>Fertilizer</title>
-      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/fertilizer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/fertilizer/</guid>
-      <description>Find below the steps to add fertilizer applications in your protocol.</description>
-    </item>
-    
-    <item>
-      <title>Management practices</title>
-      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/management-practices/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/management-practices/</guid>
-      <description>Find below the steps to add management practices in your protocol.</description>
-    </item>
-    
-    <item>
       <title>Crop measurements</title>
       <link>https://agrofims.github.io/helpdocs/creatingafieldbook/crop-measurement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/crop-measurement/</guid>
-      <description>In this section you can select and describe the measurements to be made on the crops.</description>
+      <description>In this section you can select and describe the measurements to be made on the crops. In case of intercropping or relay cropping trial, the measurements must be separately selected for the individual crops.
+  Select a measurement in the Crop measurement drop-down list. You can either scroll through the list or type the name of the measurement – the auto-complete feature will select the term if the measurement is in the list.</description>
     </item>
     
     <item>
@@ -56,27 +39,28 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/phenology-measurements/</guid>
-      <description>Find below the steps to create a fieldbook in AgroFIMS.
-Phenology measurements 1.</description>
+      <description>In this section you can select phenological measurements to be made in the field. In case of an intercropping or a relay cropping trial, the measurements will be specified separately for each crop.
+ Select a measurement in the drop-down list. You can either scroll through the list or type the name of the measurement – the auto-complete feature will select the term if the measurement is in the list. If the section is empty, verify that you have selected a crop in the Crop section.</description>
     </item>
     
     <item>
-      <title>Soil measurements</title>
+      <title>Soil</title>
       <link>https://agrofims.github.io/helpdocs/creatingafieldbook/soil-measurements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/soil-measurements/</guid>
-      <description>This section is dedicated to the selection of soil measurements to make during the experiment.</description>
+      <description>This section is dedicated to the selection of soil measurements to make during the experiment.
+ Select a measurement in the drop-down list. You can either scroll through the list or type the name of your measurement – the auto-complete feature will select the term if the measurement is in the list. Once you have found your measurement, select it and click on Add measurement. You can then indicate its unit, the depth of the measurement, the number of times it has to be measured during the season, and its timing.</description>
     </item>
     
     <item>
-      <title>Weather measurements</title>
+      <title>Weather</title>
       <link>https://agrofims.github.io/helpdocs/creatingafieldbook/weather-measurements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/weather-measurements/</guid>
       <description>This section is dedicated to the selection of weather measurements to make during the experiment.
-Selecting a weather measurement  Select a measurement in the drop-down list. You can either scroll through the list or delete the default and type the name of your measurement – the auto-complete feature will select the term if the measurement is in the list. Once you have found your measurement, select it and click on .</description>
+ Select a measurement in the drop-down list. You can either scroll through the list or type the name of your measurement – the auto-complete feature will select the term if the measurement is in the list. Once you have found your measurement, select it and click on Add measurement. You can then indicate its unit, the number of times it has to be measured during the season, and its timing.</description>
     </item>
     
   </channel>

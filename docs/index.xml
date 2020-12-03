@@ -22,6 +22,26 @@
     </item>
     
     <item>
+      <title>Adding fertilizer</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/fertilizer/addfertilizer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/fertilizer/addfertilizer/</guid>
+      <description>To add a fertilizer application:
+ Go to the Fertilizer tab of your fieldbook. Select Product at the top of the window (1). Select the unit you will use (2). Click on the button Add Application (3). You can add as many applications as needed Select the product you will apply to the field (4). If your product is not listed, select Generic product. If your application is a mix of multiple products, click on the + button to add the complementary products.</description>
+    </item>
+    
+    <item>
+      <title>Adding nutrient</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/fertilizer/addnutrient/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/fertilizer/addnutrient/</guid>
+      <description>To add a nutrient application:
+ Go to the Fertilizer tab of your fieldbook. Select Nutrient at the top of the window (1). Click on the button Add Application (2). You can add as many applications as needed Edit the table with the quantity of nutrient you want to apply (3). Select the product you will apply to the field (4).If your product is not listed, select Generic product. If your application is a mix of multiple products, click on the + button to add the complementary products.</description>
+    </item>
+    
+    <item>
       <title>Adding personnel</title>
       <link>https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/addpersonnel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -57,6 +77,16 @@ If your site doesn&amp;rsquo;t appear in the site list, check the list by clicki
       <guid>https://agrofims.github.io/helpdocs/creatingasite/site/</guid>
       <description>Before creating your fielbook, you may want to create the site where your experiment is to occur.
  Select Sites in the navigation menu at left on the home page. Click on the button New site. Add information about the site type, site name, country name and administrative divisions using text boxes and picklists as appropriate. You can zoom into the map to find the name of your location, but you cannot use the map to directly pinpoint the site and have all the administrative information automatically filled.</description>
+    </item>
+    
+    <item>
+      <title>Creating a protocol</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/practices/protocol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/practices/protocol/</guid>
+      <description>Choose your management practices in the drop-down menu Select management practices.   Select the specific practices.   Click Add.
+  Complete the information for each of them.   To add a practice to your protocol, slide the Planned protocol button to the right to highlight it in blue.   Repeat the above steps for each practice you which to add to your protocol.</description>
     </item>
     
     <item>
@@ -124,6 +154,17 @@ If your site doesn&amp;rsquo;t appear in the site list, check the list by clicki
       <description>Once you have created a .zip file, you have to send it to the device where Field Book is installed. For this you have three options:
 •	Via email: send an email to yourself or the data collector, with the .csv and .trt files attached. Open this email on the mobile device where Field Book is installed and download the files.
 •	Via the cloud: On your laptop save the .</description>
+    </item>
+    
+    <item>
+      <title>Actual management </title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/practices/actualmanagement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/practices/actualmanagement/</guid>
+      <description>If you wish to get information about a management practice that will be done in the field, like the date of sowing or the depth of tillage:
+  Choose your management practices in the drop-down menu Select management practices.   Select the specific practices.   Click Add.
+  Slide the button Actual management to highlight it in blue. The practice will appear in the fieldbook as a measurement to be noted in the field.</description>
     </item>
     
     <item>
@@ -498,15 +539,6 @@ For these factors:
     </item>
     
     <item>
-      <title>Fertilizer</title>
-      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/fertilizer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/fertilizer/</guid>
-      <description>Find below the steps to add fertilizer applications in your protocol.</description>
-    </item>
-    
-    <item>
       <title>Nutrient factor</title>
       <link>https://agrofims.github.io/helpdocs/creatingafieldbook/design/nutrientfactor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -519,21 +551,13 @@ For these factors:
     </item>
     
     <item>
-      <title>Management practices</title>
-      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/management-practices/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/management-practices/</guid>
-      <description>Find below the steps to add management practices in your protocol.</description>
-    </item>
-    
-    <item>
       <title>Crop measurements</title>
       <link>https://agrofims.github.io/helpdocs/creatingafieldbook/crop-measurement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/crop-measurement/</guid>
-      <description>In this section you can select and describe the measurements to be made on the crops.</description>
+      <description>In this section you can select and describe the measurements to be made on the crops. In case of intercropping or relay cropping trial, the measurements must be separately selected for the individual crops.
+  Select a measurement in the Crop measurement drop-down list. You can either scroll through the list or type the name of the measurement – the auto-complete feature will select the term if the measurement is in the list.</description>
     </item>
     
     <item>
@@ -542,27 +566,28 @@ For these factors:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/phenology-measurements/</guid>
-      <description>Find below the steps to create a fieldbook in AgroFIMS.
-Phenology measurements 1.</description>
+      <description>In this section you can select phenological measurements to be made in the field. In case of an intercropping or a relay cropping trial, the measurements will be specified separately for each crop.
+ Select a measurement in the drop-down list. You can either scroll through the list or type the name of the measurement – the auto-complete feature will select the term if the measurement is in the list. If the section is empty, verify that you have selected a crop in the Crop section.</description>
     </item>
     
     <item>
-      <title>Soil measurements</title>
+      <title>Soil</title>
       <link>https://agrofims.github.io/helpdocs/creatingafieldbook/soil-measurements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/soil-measurements/</guid>
-      <description>This section is dedicated to the selection of soil measurements to make during the experiment.</description>
+      <description>This section is dedicated to the selection of soil measurements to make during the experiment.
+ Select a measurement in the drop-down list. You can either scroll through the list or type the name of your measurement – the auto-complete feature will select the term if the measurement is in the list. Once you have found your measurement, select it and click on Add measurement. You can then indicate its unit, the depth of the measurement, the number of times it has to be measured during the season, and its timing.</description>
     </item>
     
     <item>
-      <title>Weather measurements</title>
+      <title>Weather</title>
       <link>https://agrofims.github.io/helpdocs/creatingafieldbook/weather-measurements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/weather-measurements/</guid>
       <description>This section is dedicated to the selection of weather measurements to make during the experiment.
-Selecting a weather measurement  Select a measurement in the drop-down list. You can either scroll through the list or delete the default and type the name of your measurement – the auto-complete feature will select the term if the measurement is in the list. Once you have found your measurement, select it and click on .</description>
+ Select a measurement in the drop-down list. You can either scroll through the list or type the name of your measurement – the auto-complete feature will select the term if the measurement is in the list. Once you have found your measurement, select it and click on Add measurement. You can then indicate its unit, the number of times it has to be measured during the season, and its timing.</description>
     </item>
     
   </channel>

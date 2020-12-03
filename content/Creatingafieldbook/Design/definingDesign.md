@@ -16,3 +16,5 @@ To define the treatment of the experiment:
 5.	For the CRD and RCBD designs, define the treatments by assembling the factors and their levels using the dropdown menus at the bottom of the page. 
 
 ![treatment](https://agrofims.github.io/helpdocs/images/treatment.png) 
+
+{{< youtube Ic3MLrahAZ8 >}}

@@ -15,5 +15,5 @@ For these factors:
 ![type](https://agrofims.github.io/helpdocs/images/type.png) 
 
 {{< notice note >}}
-  This is the case for mulch, fertilizer, irrigation, weeding product, crop residue, nutrient element, biotic stress, biotic stress control product.
+  This is the case for mulch, fertilizer, irrigation, weeding product, crop residue, nutrient element, biotic stress, and biotic stress control product.
 {{</ notice >}}

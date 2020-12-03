@@ -15,7 +15,7 @@ For the **Fertilizer type and amount factor** you have the possibility to calcul
 ![fert2](https://agrofims.github.io/helpdocs/images/fert2.png) 
 
 5.	Optionally, specify the fertilizer application timing, technique and traction used to apply the fertilizer.
-6.	Click on Calculate to get the amount of nutrient that will be applied in the field for each level. This information will be displayed in the Protocol tab of the Excel fieldbook that is generated, and in “Trial attributes” in the KDSmart app. 
+6.	Click on **Calculate** to get the amount of nutrient that will be applied in the field for each level. This information will be displayed in the Protocol tab of the Excel fieldbook that is generated, and in “Trial attributes” in the KDSmart app. 
 
 ![fert3](https://agrofims.github.io/helpdocs/images/fert3.png) 
 
