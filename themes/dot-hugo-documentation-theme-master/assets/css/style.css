@@ -673,8 +673,8 @@ tbody {
 }
 
 .notices.note p {
-  border-top: 30px solid #4a7934;
-  background: #edf8e7;
+  border-top: 30px solid #F0B37E;
+  background: #FFF2DB;
 }
 
 .notices.note p::after {

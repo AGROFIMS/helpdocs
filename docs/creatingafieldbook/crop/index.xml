@@ -11,25 +11,5 @@
 	<atom:link href="https://agrofims.github.io/helpdocs/creatingafieldbook/crop/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Adding a crop</title>
-      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/adding_a_crop/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/adding_a_crop/</guid>
-      <description>To add a crop or a variety to the experiment:
-  Select the type of cropping system of your experiment. Currently the choices are: Monocrop, Intercrop or Relay crop.
-  Select the crop’s common name. If the crop is not listed, select ‘’Other’’ and specify the crop common name. If “Intercrop” or “Relay crop” are selected, AgroFIMS will require you to add at least 2 crops. To add more, click on + Add crop.</description>
-    </item>
-    
-    <item>
-      <title>Importing a list of varieties</title>
-      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/import_variety/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/import_variety/</guid>
-      <description>It is not currently possible to import a list of varieties or genotypes. You will need to manually enter or paste on by one your variety names in the text box: Variety name(s).</description>
-    </item>
-    
   </channel>
 </rss>

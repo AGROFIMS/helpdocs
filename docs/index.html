@@ -161,12 +161,6 @@
 						},
 						
 						{
-							value: "Adding a crop",
-							label: "<p>To add a crop or a variety to the experiment:\n  Select the type of cropping system of your experiment. Currently the choices are: Monocrop, Intercrop or Relay crop.\n  Select the crop’s common name. If the crop is not listed, select ‘’Other’’ and specify the crop common name. If “Intercrop” or “Relay crop” are selected, AgroFIMS will require you to add at least 2 crops. To add more, click on \u002b Add crop.\n  Enter the variety name. You can enter as many varieties as needed.\n    The code next to the cropping system box is the Fieldbook ID, a unique identifier created by AgroFIMS to identify your experiment. It is a concatenation of the following information: F_Cropping type_Crop name_Experiment start date_Country. “F” stands for Fieldbook in this case.\n </p>",
-							url:"https:\/\/agrofims.github.io\/helpdocs\/creatingafieldbook\/crop\/adding_a_crop\/"
-						},
-						
-						{
 							value: "Adding personnel",
 							label: "<p>Click on the button Add Personnel to add a new person to the experiment, and then add information about him\/her. </p>",
 							url:"https:\/\/agrofims.github.io\/helpdocs\/creatingafieldbook\/personnel\/addpersonnel\/"
@@ -180,7 +174,7 @@
 						
 						{
 							value: "Creating a new fieldbook",
-							label: "<p> Click on the button Add Fieldbook. Choose a country in the drop-down list. Choose a site in the drop-down list.    To be able to create a new fieldbook, you must have created your site first. To create your site, click on Create new site\nIf your site doesn\u0026rsquo;t appear in the site list, check the list by clicking on Sites in the navigation menu. If the site is not listed, it may not have been saved during its creation. You may create the site again by clicking on the blue button \u002b New site.\n </p>",
+							label: "<p> Click on the button Add Fieldbook. Choose a country in the drop-down list. Choose a site in the drop-down list.    To be able to create a new fieldbook, you must have created your site first. To create your site, click on Create new site.\nIf your site doesn\u0026rsquo;t appear in the site list, check the list by clicking on Sites in the navigation menu. If the site is not listed, it may not have been saved during its creation. You may create the site again Create new site.\n  </p>",
 							url:"https:\/\/agrofims.github.io\/helpdocs\/creatingafieldbook\/fieldbook\/createfieldbook\/"
 						},
 						
@@ -227,6 +221,12 @@
 						},
 						
 						{
+							value: "Specifying the design",
+							label: "<p>To specify the design of the experiment:\n Select the experimental design of your experiment using the drop-down list. Select the experimental unit (plot, field, pot). Enter the dimensions of the experimental unit selected and select a unit to express the size of the experimental unit using the dropdown list.  </p>",
+							url:"https:\/\/agrofims.github.io\/helpdocs\/creatingafieldbook\/design\/specifydesign\/"
+						},
+						
+						{
 							value: " Send the files to mobile device",
 							label: "<p>Once you have created a .zip file, you have to send it to the device where Field Book is installed. For this you have three options:\n•\tVia email: send an email to yourself or the data collector, with the .csv and .trt files attached. Open this email on the mobile device where Field Book is installed and download the files.\n•\tVia the cloud: On your laptop save the .csv and .trt files on a cloud-based service (OneDrive, Dropbox, Google Drive, etc.). Open the same service on the mobile device and download the files.\n•\tVia USB transfer: Connect the mobile device to your laptop to transfer the .csv and .trt files.\n</p>",
 							url:"https:\/\/agrofims.github.io\/helpdocs\/collect\/fieldbookapp\/sendtofieldbook\/"
@@ -242,6 +242,12 @@
 							value: "AgroFIMS workflow",
 							label: "<p>AgroFIMS works in collaboration with Android applications like KDSmart, Field Book and ODK Collect to provide a complete standards-compliant workflow, from picking data variables and experimental protocol parameters to create an Excel fieldbook, through data analysis and upload to data repositories. Below are the different steps to follow to create, collect, analyze and save data using AgroFIMS. </p>",
 							url:"https:\/\/agrofims.github.io\/helpdocs\/about\/workflow\/"
+						},
+						
+						{
+							value: "Defining the treatment",
+							label: "<p>A treatment is a combination of factor levels. A factor is a controlled independent variable whose levels are set by the experimenter. Each factor has two or more levels (i.e. two or more different values).\nTo define the treatment of the experiment:\n Specify the number of treatments and repetitions (or blocks). Select a factor in the list. If the factor is not listed, select ‘’Other’’ and specify the name of the factor. Enter the levels of the factor. To add another factor, click on \u002b Add factor. For the CRD and RCBD designs, define the treatments by assembling the factors and their levels using the dropdown menus at the bottom of the page.  </p>",
+							url:"https:\/\/agrofims.github.io\/helpdocs\/creatingafieldbook\/design\/definingdesign\/"
 						},
 						
 						{
@@ -347,15 +353,15 @@
 						},
 						
 						{
-							value: "Home screen",
-							label: "<p> Button to open and close the Menu Profile settings, log in and to log out Navigation menu  </p>",
-							url:"https:\/\/agrofims.github.io\/helpdocs\/about\/homescreen\/"
+							value: "Having only 1 replication",
+							label: "<p>It is not possible to design an experiment with only one replication, thus, AgroFIMS requires that you add at least two replications. Currently AgroFIMS does not allow data collection from demonstration experiments and farmer surveys, which may not be replicated. This capability will be developed in the next version.\n</p>",
+							url:"https:\/\/agrofims.github.io\/helpdocs\/creatingafieldbook\/design\/replication\/"
 						},
 						
 						{
-							value: "Importing a list of varieties",
-							label: "<p>It is not currently possible to import a list of varieties or genotypes. You will need to manually enter or paste on by one your variety names in the text box: Variety name(s).\n</p>",
-							url:"https:\/\/agrofims.github.io\/helpdocs\/creatingafieldbook\/crop\/import_variety\/"
+							value: "Home screen",
+							label: "<p> Button to open and close the Menu Profile settings, log in and to log out Navigation menu  </p>",
+							url:"https:\/\/agrofims.github.io\/helpdocs\/about\/homescreen\/"
 						},
 						
 						{
@@ -398,6 +404,12 @@
 							value: "Collect data",
 							label: "<p>Once you have created a fieldbook in AgroFIMS, you may download it and export it to an Android device to digitaly collect your data.\n</p>",
 							url:"https:\/\/agrofims.github.io\/helpdocs\/collect\/"
+						},
+						
+						{
+							value: "Finding your factor",
+							label: "<p>  Scroll through the dropdown menu or start typing the name of the factor; AgroFIMS will narrow down the possibilities for you. The factors are listed using broader categories. This means that if you want to test different amounts of urea, the factor you should select is Fertilizer amount. If you want to test different potato varieties, the factor will be Crop variety.\n  If the factor is not in the list, select Other. Then type the name of the factor in the text box, select the type of input, the unit if needed, and the levels.   </p>",
+							url:"https:\/\/agrofims.github.io\/helpdocs\/creatingafieldbook\/design\/findingfactor\/"
 						},
 						
 						{
@@ -450,7 +462,7 @@
 						
 						{
 							value: "Crop",
-							label: "<p>This section is dedicated to the description of the crops cultivated in the experiment.\n</p>",
+							label: "<p>This section is dedicated to the description of the crops cultivated in the experiment. To add a crop or a variety to the experiment:\n  Select the type of cropping system of your experiment. Currently the choices are: Monocrop, Intercrop or Relay crop.\n  Select the crop’s common name. If the crop is not listed, select ‘’Other’’ and specify the crop common name. If “Intercrop” or “Relay crop” are selected, AgroFIMS will require you to add at least 2 crops. To add more, click on \u002b Add crop.\n  Enter the variety name. You can enter as many varieties as needed. It is not currently possible to import a list of varieties or genotypes. You will need to manually enter or paste on by one your variety names in the text box: Variety name(s).\n    The code next to the cropping system box is the Fieldbook ID, a unique identifier created by AgroFIMS to identify your experiment. It is a concatenation of the following information: F_Cropping type_Crop name_Experiment start date_Country. “F” stands for Fieldbook in this case.\n </p>",
 							url:"https:\/\/agrofims.github.io\/helpdocs\/creatingafieldbook\/crop\/"
 						},
 						
@@ -479,6 +491,12 @@
 						},
 						
 						{
+							value: "Type and amount factor",
+							label: "<p>To allow a wide range of treatments, some factors have been grouped together. For example, the irrigation amount factor has been grouped with the irrigation type factor. This way it is possible to compare different types of irrigation with different amounts (Sprinkler irrigation 200ml versus Drip irrigation 300ml ).\nFor these factors:\n Select the factor in the list. Specify the type of factor. Enter the level and their units. Click \u002b, if you need to add another type of the same factor.  This is the case for mulch, fertilizer, irrigation, weeding product, crop residue, nutrient element, biotic stress, biotic stress control product.\n </p>",
+							url:"https:\/\/agrofims.github.io\/helpdocs\/creatingafieldbook\/design\/typeandamountfactor\/"
+						},
+						
+						{
 							value: "Linux",
 							label: "<p>Bold Italic\nVideo:   title Pink: --theme\n# Change the default theme to be use when building the site with Hugo theme = \u0026#34;Dot\u0026#34; Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.\nThis is a simple note.\n This is a simple tip.\n This is a simple info.\n  This is first tab  this is second tab  this is third tab    Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.\nImage Example Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.\nEtiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.\nExample Of Code Block In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;\n\u0026lt;head\u0026gt; \u0026lt;meta charset=\u0026#34;utf-8\u0026#34;\u0026gt; \u0026lt;meta http-equiv=\u0026#34;X-UA-Compatible\u0026#34; content=\u0026#34;IE=edge\u0026#34;\u0026gt; \u0026lt;meta name=\u0026#34;viewport\u0026#34; content=\u0026#34;width=device-width, initial-scale=1\u0026#34;\u0026gt; \u0026lt;link rel=\u0026#34;stylesheet\u0026#34; href=\u0026#34;\/assets\/css\/main.css\u0026#34;\u0026gt; \u0026lt;link rel=\u0026#34;shortcut icon\u0026#34; type=\u0026#34;image\/png\u0026#34; href=\u0026#34;\/assets\/img\/favicon.png\u0026#34; \u0026gt; \u0026lt;script src=\u0026#34;\/assets\/js\/main.js\u0026#34;\u0026gt;\u0026lt;\/script\u0026gt; \u0026lt;\/head\u0026gt; Text and Quote Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna turpis.\n Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet\n Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.\n</p><p></p>",
 							url:"https:\/\/agrofims.github.io\/helpdocs\/about\/linux\/"
@@ -486,8 +504,14 @@
 						
 						{
 							value: "Design",
-							label: "<p>Find below the steps to create a fieldbook in AgroFIMS.\n</p>",
+							label: "<p>In this section you can specify the design of the experiment, including treatments, levels etc.\n</p>",
 							url:"https:\/\/agrofims.github.io\/helpdocs\/creatingafieldbook\/design\/"
+						},
+						
+						{
+							value: "Fertilizer factor",
+							label: "<p>For the Fertilizer type and amount factor you have the possibility to calculate the nutrient amount that will be applied to the field and to specify the management practices.\n  Select Fertilizer type and amount in the factor list.\n  Once you have specified the fertilizer type, levels and number of application splits, click on Application details.   A pop-up window will appear.\n  The nutrient content in the product is added by default. Update it if it does not correspond to your specific fertilizer product.   Optionally, specify the fertilizer application timing, technique and traction used to apply the fertilizer.\n  Click on Calculate to get the amount of nutrient that will be applied in the field for each level. This information will be displayed in the Protocol tab of the Excel fieldbook that is generated, and in “Trial attributes” in the KDSmart app.\n  This calculation is currently on a per hectare basis; you will need to use this to calculate the amount required for the area over which you are applying the fertilizer. We will incorporate plot size into the calculation in an upcoming version.\nIn case of P2O5 phosphorous fertilizer, the calculation provides the amount of elemental phosphorous.\n  </p>",
+							url:"https:\/\/agrofims.github.io\/helpdocs\/creatingafieldbook\/design\/fertilizerfactor\/"
 						},
 						
 						{
@@ -506,6 +530,12 @@
 							value: "Fertilizer",
 							label: "<p>Find below the steps to add fertilizer applications in your protocol.\n</p>",
 							url:"https:\/\/agrofims.github.io\/helpdocs\/creatingafieldbook\/fertilizer\/"
+						},
+						
+						{
+							value: "Nutrient factor",
+							label: "<p>For the Nutrient type and amount factor you have the possibility to calculate the amount of product to be applied in the field and to specify the management practices.\n  Select Nutrient type and amount in the factor list.\n  Select the crop to which you will apply the nutrient, in intercrop and relay crop experiments.\n  Once you have specified the type, levels and number of application splits, click on Application details.   A pop-up window will appear.\n  Optionally, specify the fertilizer product application timing, the technique and traction that will be used to apply the product.\n  Select the product to apply from the list. If the product is not listed, select Generic fertilizer.   Check if the Nutrient content in product data corresponds to your fertilizer product. Modify the nutrient content in the product if needed.   Click on Calculate to get the amount of product that must be applied in the field to get the level of nutrient desired. This information will be displayed in the Protocol tab of the Excel fieldbook and in “Trial attributes” in KDSmart.\n  This calculation is currently on a per hectare basis; you will need to use this to calculate the amount required for the area over which you are applying the fertilizer. We will incorporate plot size into the calculation in an upcoming version.\n </p>",
+							url:"https:\/\/agrofims.github.io\/helpdocs\/creatingafieldbook\/design\/nutrientfactor\/"
 						},
 						
 						{

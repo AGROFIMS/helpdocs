@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design on AgroFIMS Help Documentation</title>
+    <link>https://agrofims.github.io/helpdocs/creatingafieldbook/design/</link>
+    <description>Recent content in Design on AgroFIMS Help Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © AgroFIMS 2020 [Terms of Use and Privacy Policy](https://agrofims.github.io/helpdocs/policyterms/)</copyright>
+    
+	<atom:link href="https://agrofims.github.io/helpdocs/creatingafieldbook/design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Specifying the design</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/design/specifydesign/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/design/specifydesign/</guid>
+      <description>To specify the design of the experiment:
+ Select the experimental design of your experiment using the drop-down list. Select the experimental unit (plot, field, pot). Enter the dimensions of the experimental unit selected and select a unit to express the size of the experimental unit using the dropdown list.  </description>
+    </item>
+    
+    <item>
+      <title>Defining the treatment</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/design/definingdesign/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/design/definingdesign/</guid>
+      <description>A treatment is a combination of factor levels. A factor is a controlled independent variable whose levels are set by the experimenter. Each factor has two or more levels (i.e. two or more different values).
+To define the treatment of the experiment:
+ Specify the number of treatments and repetitions (or blocks). Select a factor in the list. If the factor is not listed, select ‘’Other’’ and specify the name of the factor.</description>
+    </item>
+    
+    <item>
+      <title>Having only 1 replication</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/design/replication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/design/replication/</guid>
+      <description>It is not possible to design an experiment with only one replication, thus, AgroFIMS requires that you add at least two replications. Currently AgroFIMS does not allow data collection from demonstration experiments and farmer surveys, which may not be replicated. This capability will be developed in the next version.</description>
+    </item>
+    
+    <item>
+      <title>Finding your factor</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/design/findingfactor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/design/findingfactor/</guid>
+      <description>Scroll through the dropdown menu or start typing the name of the factor; AgroFIMS will narrow down the possibilities for you. The factors are listed using broader categories. This means that if you want to test different amounts of urea, the factor you should select is Fertilizer amount. If you want to test different potato varieties, the factor will be Crop variety.
+  If the factor is not in the list, select Other.</description>
+    </item>
+    
+    <item>
+      <title>Type and amount factor</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/design/typeandamountfactor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/design/typeandamountfactor/</guid>
+      <description>To allow a wide range of treatments, some factors have been grouped together. For example, the irrigation amount factor has been grouped with the irrigation type factor. This way it is possible to compare different types of irrigation with different amounts (Sprinkler irrigation 200ml versus Drip irrigation 300ml ).
+For these factors:
+ Select the factor in the list. Specify the type of factor. Enter the level and their units. Click +, if you need to add another type of the same factor.</description>
+    </item>
+    
+    <item>
+      <title>Fertilizer factor</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/design/fertilizerfactor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/design/fertilizerfactor/</guid>
+      <description>For the Fertilizer type and amount factor you have the possibility to calculate the nutrient amount that will be applied to the field and to specify the management practices.
+  Select Fertilizer type and amount in the factor list.
+  Once you have specified the fertilizer type, levels and number of application splits, click on Application details.   A pop-up window will appear.
+  The nutrient content in the product is added by default.</description>
+    </item>
+    
+    <item>
+      <title>Nutrient factor</title>
+      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/design/nutrientfactor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/design/nutrientfactor/</guid>
+      <description>For the Nutrient type and amount factor you have the possibility to calculate the amount of product to be applied in the field and to specify the management practices.
+  Select Nutrient type and amount in the factor list.
+  Select the crop to which you will apply the nutrient, in intercrop and relay crop experiments.
+  Once you have specified the type, levels and number of application splits, click on Application details.</description>
+    </item>
+    
+  </channel>
+</rss>

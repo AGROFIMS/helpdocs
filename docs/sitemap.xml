@@ -12,10 +12,6 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/adding_a_crop/</loc>
-  </url>
-  
-  <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/addpersonnel/</loc>
   </url>
   
@@ -56,6 +52,10 @@
   </url>
   
   <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/design/specifydesign/</loc>
+  </url>
+  
+  <url>
     <loc>https://agrofims.github.io/helpdocs/collect/fieldbookapp/sendtofieldbook/</loc>
   </url>
   
@@ -65,6 +65,10 @@
   
   <url>
     <loc>https://agrofims.github.io/helpdocs/about/workflow/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/design/definingdesign/</loc>
   </url>
   
   <url>
@@ -137,11 +141,11 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/about/homescreen/</loc>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/design/replication/</loc>
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/crop/import_variety/</loc>
+    <loc>https://agrofims.github.io/helpdocs/about/homescreen/</loc>
   </url>
   
   <url>
@@ -171,6 +175,10 @@
   
   <url>
     <loc>https://agrofims.github.io/helpdocs/collect/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/design/findingfactor/</loc>
   </url>
   
   <url>
@@ -228,12 +236,20 @@
   </url>
   
   <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/design/typeandamountfactor/</loc>
+  </url>
+  
+  <url>
     <loc>https://agrofims.github.io/helpdocs/about/linux/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/design/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/design/fertilizerfactor/</loc>
   </url>
   
   <url>
@@ -246,6 +262,10 @@
   
   <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/fertilizer/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/design/nutrientfactor/</loc>
   </url>
   
   <url>
