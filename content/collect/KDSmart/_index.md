@@ -1,10 +1,10 @@
 ---
 title : "KDSmart"
-weight: 1
+weight: 2
 menu :
   KDSmart:
     parent: 'collect'
-    weight: 1
+    weight: 2
 ---
 
 

@@ -15,6 +15,5 @@ weight = 2
 
 
 {{< notice info >}}
-When you edit a fieldbook, only the edited version is saved. You won’t be able to retrieve the original version. A Duplicate fieldbook option will soon be available.
-
+When you edit a fieldbook, only the edited version is saved. You won’t be able to retrieve the original version. A **duplicate fieldbook** option will soon be available.
  {{</ notice >}}

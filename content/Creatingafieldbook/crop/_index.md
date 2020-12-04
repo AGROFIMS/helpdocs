@@ -5,13 +5,15 @@ weight = 5
 +++
 
 
-This section is dedicated to the description of the crops cultivated in the experiment.
+> This section is dedicated to the description of the crops cultivated in the experiment.
+
 To add a crop or a variety to the experiment:
 
-1.	Select the type of cropping system of your experiment. Currently the choices are: Monocrop, Intercrop or Relay crop.
+1.	Go to the **Crop** tab of your fieldbook.
+2. Select the type of cropping system of your experiment. Currently the choices are: Monocrop, Intercrop or Relay crop.
 
-2.	Select the crop’s common name. If the crop is not listed, select ‘’Other’’ and specify the crop common name. If “Intercrop” or “Relay crop” are selected, AgroFIMS will require you to add at least 2 crops. To add more, click on **+ Add crop**.
-3.	Enter the variety name. You can enter as many varieties as needed. It is not currently possible to import a list of varieties or genotypes. You will need to manually enter or paste on by one your variety names in the text box: Variety name(s).
+3.	Select the crop’s common name. If the crop is not listed, select ‘’Other’’ and specify the crop common name. If “Intercrop” or “Relay crop” are selected, AgroFIMS will require you to add at least 2 crops. To add more, click on **+ Add crop**.
+4.	Enter the variety name. You can enter as many varieties as needed. It is not currently possible to import a list of varieties or genotypes. You will need to manually enter or paste on by one your variety names in the text box: Variety name(s).
 
 {{< youtube 1k6HI1HQgIo >}}
 

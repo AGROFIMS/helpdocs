@@ -30,7 +30,8 @@
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/crop-measurement/</guid>
       <description>In this section you can select and describe the measurements to be made on the crops. In case of intercropping or relay cropping trial, the measurements must be separately selected for the individual crops.
-  Select a measurement in the Crop measurement drop-down list. You can either scroll through the list or type the name of the measurement – the auto-complete feature will select the term if the measurement is in the list.</description>
+   Go to the Crop measurements tab of your fieldbook.
+  In case of intercropping or relay cropping trial, start by selecting the tab corresponding to one of the crops of the trial.</description>
     </item>
     
     <item>
@@ -40,7 +41,8 @@
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/phenology-measurements/</guid>
       <description>In this section you can select phenological measurements to be made in the field. In case of an intercropping or a relay cropping trial, the measurements will be specified separately for each crop.
- Select a measurement in the drop-down list. You can either scroll through the list or type the name of the measurement – the auto-complete feature will select the term if the measurement is in the list. If the section is empty, verify that you have selected a crop in the Crop section.</description>
+   Go to the Crop phenology tab of your fieldbook.
+  In case of intercropping or relay cropping trial, start by selecting the tab corresponding to one of the crops of the trial.  Select a measurement in the drop-down list.</description>
     </item>
     
     <item>
@@ -50,7 +52,9 @@
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/soil-measurements/</guid>
       <description>This section is dedicated to the selection of soil measurements to make during the experiment.
- Select a measurement in the drop-down list. You can either scroll through the list or type the name of your measurement – the auto-complete feature will select the term if the measurement is in the list. Once you have found your measurement, select it and click on Add measurement. You can then indicate its unit, the depth of the measurement, the number of times it has to be measured during the season, and its timing.</description>
+   Go to the Soil tab of your fieldbook.
+  In case of intercropping or relay cropping trial, start by selecting the tab corresponding to one of the crops of the trial.
+  Select a measurement in the drop-down list. You can either scroll through the list or type the name of your measurement – the auto-complete feature will select the term if the measurement is in the list.</description>
     </item>
     
     <item>
@@ -60,7 +64,7 @@
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/weather-measurements/</guid>
       <description>This section is dedicated to the selection of weather measurements to make during the experiment.
- Select a measurement in the drop-down list. You can either scroll through the list or type the name of your measurement – the auto-complete feature will select the term if the measurement is in the list. Once you have found your measurement, select it and click on Add measurement. You can then indicate its unit, the number of times it has to be measured during the season, and its timing.</description>
+  Go to the Weather tab of your fieldbook. Select a measurement in the drop-down list. You can either scroll through the list or type the name of your measurement – the auto-complete feature will select the term if the measurement is in the list. Once you have found your measurement, select it and click on Add measurement.</description>
     </item>
     
   </channel>

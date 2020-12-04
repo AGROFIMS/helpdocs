@@ -17,7 +17,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/practices/protocol/</guid>
-      <description>Choose your management practices in the drop-down menu Select management practices.   Select the specific practices.   Click Add.
+      <description>Go to the Management practices tab of your fieldbook.
+  Choose your management practices in the drop-down menu Select management practices.   Select the specific practices.   Click Add.
   Complete the information for each of them.   To add a practice to your protocol, slide the Planned protocol button to the right to highlight it in blue.   Repeat the above steps for each practice you which to add to your protocol.</description>
     </item>
     
@@ -28,8 +29,9 @@
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/practices/actualmanagement/</guid>
       <description>If you wish to get information about a management practice that will be done in the field, like the date of sowing or the depth of tillage:
+  Go to the Management practices tab of your fieldbook.
   Choose your management practices in the drop-down menu Select management practices.   Select the specific practices.   Click Add.
-  Slide the button Actual management to highlight it in blue. The practice will appear in the fieldbook as a measurement to be noted in the field.</description>
+  Slide the button Actual management to highlight it in blue.</description>
     </item>
     
   </channel>

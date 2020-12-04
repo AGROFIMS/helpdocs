@@ -1,10 +1,10 @@
 ---
 title : "Field Book"
-weight: 2
+weight: 3
 menu :
   FieldbookApp:
     parent: 'collect'
-    weight: 2
+    weight: 3
 ---
 
 1.	Download and install the  <a href="https://play.google.com/store/apps/details?id=com.fieldbook.tracker&hl=en&gl=US" target="_blank"> Field Book application</a> on an Android device.

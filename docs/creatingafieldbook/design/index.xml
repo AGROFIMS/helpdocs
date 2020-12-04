@@ -18,7 +18,7 @@
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/design/specifydesign/</guid>
       <description>To specify the design of the experiment:
- Select the experimental design of your experiment using the drop-down list. Select the experimental unit (plot, field, pot). Enter the dimensions of the experimental unit selected and select a unit to express the size of the experimental unit using the dropdown list.  </description>
+ Go to the Design tab of your fieldbook. Select the experimental design of your experiment using the drop-down list. Select the experimental unit (plot, field, pot). Enter the dimensions of the experimental unit selected and select a unit to express the size of the experimental unit using the dropdown list.  </description>
     </item>
     
     <item>
@@ -29,7 +29,7 @@
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/design/definingdesign/</guid>
       <description>A treatment is a combination of factor levels. A factor is a controlled independent variable whose levels are set by the experimenter. Each factor has two or more levels (i.e. two or more different values).
 To define the treatment of the experiment:
- Specify the number of treatments and repetitions (or blocks). Select a factor in the list. If the factor is not listed, select ‘’Other’’ and specify the name of the factor.</description>
+ Go to the Design tab of your fieldbook and specify the design. Then, specify the number of treatments and repetitions (or blocks). Select a factor in the list.</description>
     </item>
     
     <item>

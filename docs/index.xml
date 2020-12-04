@@ -28,7 +28,7 @@
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/fertilizer/addfertilizer/</guid>
       <description>To add a fertilizer application:
- Go to the Fertilizer tab of your fieldbook. Select Product at the top of the window (1). Select the unit you will use (2). Click on the button Add Application (3). You can add as many applications as needed Select the product you will apply to the field (4). If your product is not listed, select Generic product. If your application is a mix of multiple products, click on the + button to add the complementary products.</description>
+ Go to the Fertilizer tab of your fieldbook. Select Product at the top of the window (1). Select the unit you will use (2). Click on the button Add Application (3). You can add as many applications as needed. Select the product you will apply to the field (4). If your product is not listed, select Generic product. If your application is a mix of multiple products, click on the + button to add the complementary products.</description>
     </item>
     
     <item>
@@ -38,16 +38,7 @@
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/fertilizer/addnutrient/</guid>
       <description>To add a nutrient application:
- Go to the Fertilizer tab of your fieldbook. Select Nutrient at the top of the window (1). Click on the button Add Application (2). You can add as many applications as needed Edit the table with the quantity of nutrient you want to apply (3). Select the product you will apply to the field (4).If your product is not listed, select Generic product. If your application is a mix of multiple products, click on the + button to add the complementary products.</description>
-    </item>
-    
-    <item>
-      <title>Adding personnel</title>
-      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/addpersonnel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/addpersonnel/</guid>
-      <description>Click on the button Add Personnel to add a new person to the experiment, and then add information about him/her. </description>
+ Go to the Fertilizer tab of your fieldbook. Select Nutrient at the top of the window (1). Click on the button Add Application (2). You can add as many applications as needed. Edit the table with the quantity of nutrient you want to apply (3). Select the product you will apply to the field (4).If your product is not listed, select Generic product. If your application is a mix of multiple products, click on the + button to add the complementary products.</description>
     </item>
     
     <item>
@@ -85,7 +76,8 @@ If your site doesn&amp;rsquo;t appear in the site list, check the list by clicki
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/practices/protocol/</guid>
-      <description>Choose your management practices in the drop-down menu Select management practices.   Select the specific practices.   Click Add.
+      <description>Go to the Management practices tab of your fieldbook.
+  Choose your management practices in the drop-down menu Select management practices.   Select the specific practices.   Click Add.
   Complete the information for each of them.   To add a practice to your protocol, slide the Planned protocol button to the right to highlight it in blue.   Repeat the above steps for each practice you which to add to your protocol.</description>
     </item>
     
@@ -96,7 +88,7 @@ If your site doesn&amp;rsquo;t appear in the site list, check the list by clicki
       
       <guid>https://agrofims.github.io/helpdocs/collect/fieldbookapp/exportfieldbook/</guid>
       <description>To upload an AgroFIMS fieldbook to Field Book, you have to first export the AgroFIMS fieldbook as a .zip file and then unzip it.
-  Go to Experiments in the left-hand panel menu and select the experiment of your choice by clicking on the “open” icon (square with an arrow through it).   Go to the Fieldbooks tab at the top.
+  Go to Experiments in the left-hand panel menu and select the experiment of your choice by clicking on the open icon (square with an arrow through it).   Go to the Fieldbooks tab at the top.
   Open the fieldbook of your choice by clicking on the “open” icon.</description>
     </item>
     
@@ -117,7 +109,7 @@ If your site doesn&amp;rsquo;t appear in the site list, check the list by clicki
       
       <guid>https://agrofims.github.io/helpdocs/collect/kdsmart/productionmode/</guid>
       <description>The application downloaded is in Demo DB mode. To enable all the functionalities the mode Production has to be enabled.
- In the home screen, click on the menu icon on the top left, and select Settings.    2.	In the Settings menu, click on Active Database  Select Production   To go back to the home screen, click on the arrow at the top left.
+ In the home screen, click on the menu icon on the top left, and select Settings.    2.	In the Settings menu, click on Active Database.  Select Production.   To go back to the home screen, click on the arrow at the top left.
   </description>
     </item>
     
@@ -142,7 +134,7 @@ If your site doesn&amp;rsquo;t appear in the site list, check the list by clicki
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/design/specifydesign/</guid>
       <description>To specify the design of the experiment:
- Select the experimental design of your experiment using the drop-down list. Select the experimental unit (plot, field, pot). Enter the dimensions of the experimental unit selected and select a unit to express the size of the experimental unit using the dropdown list.  </description>
+ Go to the Design tab of your fieldbook. Select the experimental design of your experiment using the drop-down list. Select the experimental unit (plot, field, pot). Enter the dimensions of the experimental unit selected and select a unit to express the size of the experimental unit using the dropdown list.  </description>
     </item>
     
     <item>
@@ -152,8 +144,8 @@ If your site doesn&amp;rsquo;t appear in the site list, check the list by clicki
       
       <guid>https://agrofims.github.io/helpdocs/collect/fieldbookapp/sendtofieldbook/</guid>
       <description>Once you have created a .zip file, you have to send it to the device where Field Book is installed. For this you have three options:
-•	Via email: send an email to yourself or the data collector, with the .csv and .trt files attached. Open this email on the mobile device where Field Book is installed and download the files.
-•	Via the cloud: On your laptop save the .</description>
+  Via email: send an email to yourself or the data collector, with the .csv and .trt files attached. Open this email on the mobile device where Field Book is installed and download the files.
+  Via a cloud storage service: On your laptop save the .</description>
     </item>
     
     <item>
@@ -163,8 +155,9 @@ If your site doesn&amp;rsquo;t appear in the site list, check the list by clicki
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/practices/actualmanagement/</guid>
       <description>If you wish to get information about a management practice that will be done in the field, like the date of sowing or the depth of tillage:
+  Go to the Management practices tab of your fieldbook.
   Choose your management practices in the drop-down menu Select management practices.   Select the specific practices.   Click Add.
-  Slide the button Actual management to highlight it in blue. The practice will appear in the fieldbook as a measurement to be noted in the field.</description>
+  Slide the button Actual management to highlight it in blue.</description>
     </item>
     
     <item>
@@ -190,6 +183,15 @@ Copyright (C) 2007 Free Software Foundation, Inc. http://fsf.org/ Everyone is pe
     </item>
     
     <item>
+      <title>Content of the Excel file tabs</title>
+      <link>https://agrofims.github.io/helpdocs/collect/excel/contentexcel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/collect/excel/contentexcel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Defining the treatment</title>
       <link>https://agrofims.github.io/helpdocs/creatingafieldbook/design/definingdesign/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -197,7 +199,7 @@ Copyright (C) 2007 Free Software Foundation, Inc. http://fsf.org/ Everyone is pe
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/design/definingdesign/</guid>
       <description>A treatment is a combination of factor levels. A factor is a controlled independent variable whose levels are set by the experimenter. Each factor has two or more levels (i.e. two or more different values).
 To define the treatment of the experiment:
- Specify the number of treatments and repetitions (or blocks). Select a factor in the list. If the factor is not listed, select ‘’Other’’ and specify the name of the factor.</description>
+ Go to the Design tab of your fieldbook and specify the design. Then, specify the number of treatments and repetitions (or blocks). Select a factor in the list.</description>
     </item>
     
     <item>
@@ -228,7 +230,7 @@ To define the treatment of the experiment:
       
       <guid>https://agrofims.github.io/helpdocs/collect/kdsmart/exportkdsmart/</guid>
       <description>To upload an AgroFIMS fieldbook in KDSmart, you have to first export the AgroFIMS fieldbook as a .kdx file.
-  Select Experiments in the Menu and select the experiment of our choice.   Go to the Fieldbooks tab and open the fieldbook of your choice by clicking on “open” icon (square with an arrow through it).   Click on the cloud icon at the top right of the window.</description>
+  Select Experiments in the Menu and select the experiment of our choice.   Go to the Fieldbooks tab and open the fieldbook of your choice by clicking on open icon (square with an arrow through it).   Click on the cloud icon at the top right of the window.</description>
     </item>
     
     <item>
@@ -238,16 +240,6 @@ To define the treatment of the experiment:
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/importfieldbook/</guid>
       <description>It is currently not possible to import an existing fieldbook into AgroFIMS.</description>
-    </item>
-    
-    <item>
-      <title>Loading my info</title>
-      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/myinfo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/myinfo/</guid>
-      <description>You can start by adding your profile information using the button Load my info. This will auto-fill the boxes with information registered in your profile.
-  </description>
     </item>
     
     <item>
@@ -301,7 +293,7 @@ AgroFIMS is an online interface conceived to standardizes agronomic data collect
       <guid>https://agrofims.github.io/helpdocs/collect/kdsmart/sendtokdsmart/</guid>
       <description>Once you have downloaded a .kdx file, you have to send it to the device where KDSmart is installed. For this you have three options:
   Via email: send an email to yourself or the data collector, with the .kdx file attached. Open this email on the mobile device where KDSmart is installed and download the .kdx file in the folder ‘’Download’’ of the mobile device.
-  Via a cloud: On your laptop save the .</description>
+  Via a cloud storage service: On your laptop save the .</description>
     </item>
     
     <item>
@@ -343,20 +335,11 @@ AgroFIMS is an online interface conceived to standardizes agronomic data collect
     </item>
     
     <item>
-      <title>Removing personnel</title>
-      <link>https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/removepersonnel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/removepersonnel/</guid>
-      <description>Click on the red x at the top right of the personnel box to remove a person’s information. </description>
-    </item>
-    
-    <item>
       <title>Save the files in your mobile memory</title>
-      <link>https://agrofims.github.io/helpdocs/collect/fieldbookapp/editfieldbook/</link>
+      <link>https://agrofims.github.io/helpdocs/collect/fieldbookapp/savefieldbook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://agrofims.github.io/helpdocs/collect/fieldbookapp/editfieldbook/</guid>
+      <guid>https://agrofims.github.io/helpdocs/collect/fieldbookapp/savefieldbook/</guid>
       <description>  Save the .csv file in the folder field_import of the main folder fieldBook created by the app on the mobile device.
   Save the .trt file in the trait folder of the folder fieldBook created by the app on the mobile device
   </description>
@@ -406,7 +389,7 @@ AgroFIMS is an online interface conceived to standardizes agronomic data collect
       
       <guid>https://agrofims.github.io/helpdocs/collect/fieldbookapp/openfieldbook/</guid>
       <description>Open Field Book.
-  Go Fields.   Click on the + at the top right and select Local storage.   Select the .csv file exported from AgroFIMS, and then validate the radio button next to it.   Go back to the main menu and select Traits.   Click on the three dots at the top right and select ‘’Import/Export’’.   Select ‘’Import’’ and then ‘’Local storage’’.</description>
+  Go Fields.   Click on the + at the top right and select Local storage.   Select the .csv file exported from AgroFIMS, and then validate the radio button next to it.   Go back to the main menu and select Traits.   Click on the three dots at the top right and select ‘’Import/Export’’.   Select Import and then Local storage.</description>
     </item>
     
     <item>
@@ -469,8 +452,8 @@ AgroFIMS is an online interface conceived to standardizes agronomic data collect
       <description>In KDSmart the plots can be named either by their number or by the number of their column, row and block.
   Download a trial (cf. KDSmart tutorial  )
   Click on the three dots at the top left (1)
-  Select “Trials” (2)   Select your trial in the list to open “Trial Details”
-  Click on the edit icon next to “Plot identification”   Select “Plot” if you want to identify the plots by their number, select &amp;ldquo;Block/Field Column/Field Row” if you prefer to identify the plots with their Block/Column and Row numbers.</description>
+  Select Trials (2)   Select your trial in the list to open Trial Details.
+  Click on the edit icon next to Plot identification.</description>
     </item>
     
     <item>
@@ -557,7 +540,8 @@ For these factors:
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/crop-measurement/</guid>
       <description>In this section you can select and describe the measurements to be made on the crops. In case of intercropping or relay cropping trial, the measurements must be separately selected for the individual crops.
-  Select a measurement in the Crop measurement drop-down list. You can either scroll through the list or type the name of the measurement – the auto-complete feature will select the term if the measurement is in the list.</description>
+   Go to the Crop measurements tab of your fieldbook.
+  In case of intercropping or relay cropping trial, start by selecting the tab corresponding to one of the crops of the trial.</description>
     </item>
     
     <item>
@@ -567,7 +551,8 @@ For these factors:
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/phenology-measurements/</guid>
       <description>In this section you can select phenological measurements to be made in the field. In case of an intercropping or a relay cropping trial, the measurements will be specified separately for each crop.
- Select a measurement in the drop-down list. You can either scroll through the list or type the name of the measurement – the auto-complete feature will select the term if the measurement is in the list. If the section is empty, verify that you have selected a crop in the Crop section.</description>
+   Go to the Crop phenology tab of your fieldbook.
+  In case of intercropping or relay cropping trial, start by selecting the tab corresponding to one of the crops of the trial.  Select a measurement in the drop-down list.</description>
     </item>
     
     <item>
@@ -577,7 +562,9 @@ For these factors:
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/soil-measurements/</guid>
       <description>This section is dedicated to the selection of soil measurements to make during the experiment.
- Select a measurement in the drop-down list. You can either scroll through the list or type the name of your measurement – the auto-complete feature will select the term if the measurement is in the list. Once you have found your measurement, select it and click on Add measurement. You can then indicate its unit, the depth of the measurement, the number of times it has to be measured during the season, and its timing.</description>
+   Go to the Soil tab of your fieldbook.
+  In case of intercropping or relay cropping trial, start by selecting the tab corresponding to one of the crops of the trial.
+  Select a measurement in the drop-down list. You can either scroll through the list or type the name of your measurement – the auto-complete feature will select the term if the measurement is in the list.</description>
     </item>
     
     <item>
@@ -587,7 +574,7 @@ For these factors:
       
       <guid>https://agrofims.github.io/helpdocs/creatingafieldbook/weather-measurements/</guid>
       <description>This section is dedicated to the selection of weather measurements to make during the experiment.
- Select a measurement in the drop-down list. You can either scroll through the list or type the name of your measurement – the auto-complete feature will select the term if the measurement is in the list. Once you have found your measurement, select it and click on Add measurement. You can then indicate its unit, the number of times it has to be measured during the season, and its timing.</description>
+  Go to the Weather tab of your fieldbook. Select a measurement in the drop-down list. You can either scroll through the list or type the name of your measurement – the auto-complete feature will select the term if the measurement is in the list. Once you have found your measurement, select it and click on Add measurement.</description>
     </item>
     
   </channel>

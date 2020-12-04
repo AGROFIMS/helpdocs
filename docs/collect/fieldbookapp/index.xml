@@ -18,7 +18,7 @@
       
       <guid>https://agrofims.github.io/helpdocs/collect/fieldbookapp/exportfieldbook/</guid>
       <description>To upload an AgroFIMS fieldbook to Field Book, you have to first export the AgroFIMS fieldbook as a .zip file and then unzip it.
-  Go to Experiments in the left-hand panel menu and select the experiment of your choice by clicking on the “open” icon (square with an arrow through it).   Go to the Fieldbooks tab at the top.
+  Go to Experiments in the left-hand panel menu and select the experiment of your choice by clicking on the open icon (square with an arrow through it).   Go to the Fieldbooks tab at the top.
   Open the fieldbook of your choice by clicking on the “open” icon.</description>
     </item>
     
@@ -29,16 +29,16 @@
       
       <guid>https://agrofims.github.io/helpdocs/collect/fieldbookapp/sendtofieldbook/</guid>
       <description>Once you have created a .zip file, you have to send it to the device where Field Book is installed. For this you have three options:
-•	Via email: send an email to yourself or the data collector, with the .csv and .trt files attached. Open this email on the mobile device where Field Book is installed and download the files.
-•	Via the cloud: On your laptop save the .</description>
+  Via email: send an email to yourself or the data collector, with the .csv and .trt files attached. Open this email on the mobile device where Field Book is installed and download the files.
+  Via a cloud storage service: On your laptop save the .</description>
     </item>
     
     <item>
       <title>Save the files in your mobile memory</title>
-      <link>https://agrofims.github.io/helpdocs/collect/fieldbookapp/editfieldbook/</link>
+      <link>https://agrofims.github.io/helpdocs/collect/fieldbookapp/savefieldbook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://agrofims.github.io/helpdocs/collect/fieldbookapp/editfieldbook/</guid>
+      <guid>https://agrofims.github.io/helpdocs/collect/fieldbookapp/savefieldbook/</guid>
       <description>  Save the .csv file in the folder field_import of the main folder fieldBook created by the app on the mobile device.
   Save the .trt file in the trait folder of the folder fieldBook created by the app on the mobile device
   </description>
@@ -51,7 +51,7 @@
       
       <guid>https://agrofims.github.io/helpdocs/collect/fieldbookapp/openfieldbook/</guid>
       <description>Open Field Book.
-  Go Fields.   Click on the + at the top right and select Local storage.   Select the .csv file exported from AgroFIMS, and then validate the radio button next to it.   Go back to the main menu and select Traits.   Click on the three dots at the top right and select ‘’Import/Export’’.   Select ‘’Import’’ and then ‘’Local storage’’.</description>
+  Go Fields.   Click on the + at the top right and select Local storage.   Select the .csv file exported from AgroFIMS, and then validate the radio button next to it.   Go back to the main menu and select Traits.   Click on the three dots at the top right and select ‘’Import/Export’’.   Select Import and then Local storage.</description>
     </item>
     
   </channel>

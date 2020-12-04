@@ -20,10 +20,6 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/addpersonnel/</loc>
-  </url>
-  
-  <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/experiments/</loc>
   </url>
   
@@ -40,15 +36,15 @@
   </url>
   
   <url>
+    <loc>https://agrofims.github.io/helpdocs/collect/excel/</loc>
+  </url>
+  
+  <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/experiments/</loc>
   </url>
   
   <url>
     <loc>https://agrofims.github.io/helpdocs/collect/fieldbookapp/exportfieldbook/</loc>
-  </url>
-  
-  <url>
-    <loc>https://agrofims.github.io/helpdocs/collect/kdsmart/</loc>
   </url>
   
   <url>
@@ -84,6 +80,10 @@
   </url>
   
   <url>
+    <loc>https://agrofims.github.io/helpdocs/collect/excel/contentexcel/</loc>
+  </url>
+  
+  <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/design/definingdesign/</loc>
   </url>
   
@@ -104,15 +104,11 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/collect/fieldbookapp/</loc>
-  </url>
-  
-  <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/importfieldbook/</loc>
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/myinfo/</loc>
+    <loc>https://agrofims.github.io/helpdocs/collect/kdsmart/</loc>
   </url>
   
   <url>
@@ -153,6 +149,10 @@
   </url>
   
   <url>
+    <loc>https://agrofims.github.io/helpdocs/collect/fieldbookapp/</loc>
+  </url>
+  
+  <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/fieldbook/</loc>
   </url>
   
@@ -169,11 +169,7 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/removepersonnel/</loc>
-  </url>
-  
-  <url>
-    <loc>https://agrofims.github.io/helpdocs/collect/fieldbookapp/editfieldbook/</loc>
+    <loc>https://agrofims.github.io/helpdocs/collect/fieldbookapp/savefieldbook/</loc>
   </url>
   
   <url>

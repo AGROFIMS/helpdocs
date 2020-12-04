@@ -9,7 +9,7 @@ To add a fertilizer application:
 1.	Go to the **Fertilizer** tab of your fieldbook.
 2.  Select **Product** at the top of the window **(1)**.
 3.	Select the unit you will use **(2)**.
-4.	Click on the button **Add Application** **(3)**. You can add as many applications as needed
+4.	Click on the button **Add Application** **(3)**. You can add as many applications as needed.
 5.	Select the product you will apply to the field **(4)**. If your product is not listed, select **Generic product**. 
 6.	If your application is a mix of multiple products, click on the **+** button to add the complementary products. 
 7.	Check if the **Nutrient content in product** data corresponds to your fertilizer product **(5)**. Modify the nutrient content in the product if needed. 
