@@ -9,7 +9,7 @@ To upload an AgroFIMS fieldbook in KDSmart, you have to first export the AgroFIM
 1.	Select **Experiments** in the Menu and select the experiment of our choice.
 ![exp1](https://agrofims.github.io/helpdocs/images/exp1.png)
  
-2.	Go to the **Fieldbooks** tab and open the fieldbook of your choice by clicking on **open** icon (square with an arrow through it).
+2.	Go to the **Fieldbooks** tab and open the fieldbook of your choice by clicking on **open** icon.
 ![exp2](https://agrofims.github.io/helpdocs/images/exp2.png)
  
 4.	Click on the **cloud** icon at the top right of the window.

@@ -8,7 +8,7 @@ menu :
 ---
 
 1.	Open Field Book.
-2.	Go **Fields**.
+2.	Go to **Fields**.
 ![book](https://agrofims.github.io/helpdocs/images/book.png)
 
 3.	Click on the **+** at the top right and select Local storage.

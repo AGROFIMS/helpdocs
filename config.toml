@@ -27,10 +27,12 @@ menushortcutsnewtab = true # set true to open shortcuts links to a new tab/windo
 # autoCollapseToc = true  # Auto expand and collapse toc                              # 目录自动展开/折叠
  
 # logo is for all page
-logo = "AgroFIMS help documentation"
-bg_image = "images/logo.png"
+logo = "images/logo.png"
+bg_image = ""
+
 # logo white is for homepage logo, you can use colorful logo too...
-logo_white = ""
+logo_white ="images/logo2.png"
+
 # when logo is empty, it will shown your site title
 
 # customize color
@@ -64,7 +66,7 @@ weight = 3
 [[menu.shortcuts]]
 name = "<i class='fab fa-github'></i>"
 url = "https://github.com/AGROFIMS/"
-weight = 20
+weight = 2000
 
 sectionPagesMenu = "main"
 
@@ -82,8 +84,8 @@ icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
 link = "#https://www.youtube.com/channel/UChfp4kWQCscsIUP-4duKzeQ/"
   
 [[params.social]]
-icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+icon = "ti-arrow-circle-right" # themify icon pack : https://themify.me/themify-icons
+link = "#https://agrofims.org/"
 
 ################################ English Language ######################
 [Languages.en]
@@ -96,7 +98,7 @@ copyright = "Copyright © AgroFIMS 2020 [Terms of Use and Privacy Policy](https:
 [Languages.en.params.banner]
 title = "AgroFIMS help documentation"
 subtitle = "Find advice to create your own fieldbooks or get in touch"
-bg_image = "images/banner.png"
+bg_image = "images/banner2.jpg"
 placeholder = "Have a question? Just ask here or enter terms"
 
 # call to action
@@ -126,24 +128,3 @@ weight = 2
 name = "Contact"
 url = "contact"
 weight = 3
-
-
-  [[Languages.en.menu.main]]
-  parent = "docs"
-  name = "Installation"
-  url = "installation"
-  weight = 1
-
-  [[Languages.en.menu.main]]
-  parent = "docs"
-  name = "choice"
-  url = "billing-pricing"
-  weight = 2
-
-  [[Languages.en.menu.main]]
-  parent = "docs"
-  name = "Features"
-  url = "features"
-  weight = 3
-
-

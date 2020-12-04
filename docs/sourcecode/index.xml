@@ -18,24 +18,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/sourcecode/license/</guid>
-      <description>License text without any modification
- License All the source of AGROFIMS is under GPL-3 license. For further details about this licence, please click on link.
+      <description>All the source code of AGROFIMS is under GPL-3 license. Further details about this licence here.
 GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
 Copyright (C) 2007 Free Software Foundation, Inc. http://fsf.org/ Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
- Preamble The GNU General Public License is a free, copyleft license for software and other kinds of works.</description>
-    </item>
-    
-    <item>
-      <title>Open Source</title>
-      <link>https://agrofims.github.io/helpdocs/sourcecode/open/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agrofims.github.io/helpdocs/sourcecode/open/</guid>
-      <description>Open tools for open science
-In the AgroFIMS project, we are strong advocates of enriching the community with open tools for agronomists and researchers in general. AgroFIMS is composed by:
-  a web application based on Angular, HTML and Javascript;
-  R-packages to facilitate the design and analysis of agronomic data;
-  Pythons and Java rutines to facilitate the conversion of AgroFIMS files to mobile applications such as KDSmart and Field Book.</description>
+PREMBULE The GNU General Public License is a free, copyleft license for software and other kinds of works.</description>
     </item>
     
   </channel>

@@ -116,10 +116,6 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/sourcecode/open/</loc>
-  </url>
-  
-  <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/personnel/</loc>
   </url>
   
@@ -252,11 +248,6 @@
   </url>
   
   <url>
-    <loc>https://agrofims.github.io/helpdocs/about/linux/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/design/</loc>
   </url>
   
@@ -278,6 +269,10 @@
   
   <url>
     <loc>https://agrofims.github.io/helpdocs/creatingafieldbook/design/nutrientfactor/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agrofims.github.io/helpdocs/collect/kdsmart/scoringpanel/</loc>
   </url>
   
   <url>

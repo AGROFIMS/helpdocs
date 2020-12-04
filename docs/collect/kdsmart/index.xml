@@ -29,7 +29,7 @@
       
       <guid>https://agrofims.github.io/helpdocs/collect/kdsmart/exportkdsmart/</guid>
       <description>To upload an AgroFIMS fieldbook in KDSmart, you have to first export the AgroFIMS fieldbook as a .kdx file.
-  Select Experiments in the Menu and select the experiment of our choice.   Go to the Fieldbooks tab and open the fieldbook of your choice by clicking on open icon (square with an arrow through it).   Click on the cloud icon at the top right of the window.</description>
+  Select Experiments in the Menu and select the experiment of our choice.   Go to the Fieldbooks tab and open the fieldbook of your choice by clicking on open icon.   Click on the cloud icon at the top right of the window.   Click on Build.</description>
     </item>
     
     <item>
@@ -59,10 +59,10 @@
       
       <guid>https://agrofims.github.io/helpdocs/collect/kdsmart/identifyplot/</guid>
       <description>In KDSmart the plots can be named either by their number or by the number of their column, row and block.
-  Download a trial (cf. KDSmart tutorial  )
-  Click on the three dots at the top left (1)
-  Select Trials (2)   Select your trial in the list to open Trial Details.
-  Click on the edit icon next to Plot identification.</description>
+  Download a trial (cf. KDSmart tutorial ).
+  Click on the three dots at the top left (1).
+  Select Trials (2).   Select your trial in the list to open Trial Details.
+  Click on the edit icon next to Plot identification.   Select Plot if you want to identify the plots by their number, select Block/Field Column/Field Row if you prefer to identify the plots with their Block/Column and Row numbers.</description>
     </item>
     
     <item>
@@ -71,11 +71,26 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/collect/kdsmart/findinfo/</guid>
-      <description>In Trial Details   Click on the three dots at the top left of KDSmart screen (1).
-  Select “Trials” (2).   Select your trial in the list to open the Trial Details page of your experiment.
-  Experiment objective is noted as Note (3)
-  Measurements (Crop, Phenology, Soil, Management practices to be collected in the field) are listed as “Traits”. (4)
-  Experiment, personnel, site, crop and design information are listed under “Trial attributes”.</description>
+      <description>Metadata and measurements filled in AgroFIMS are lited in the Trail details part of KDSMart. To find it:
+  Click on the three dots at the top left of KDSmart screen (1).
+  Select Trials (2).   Select your trial in the list to open the Trial Details page of your experiment.
+  Experiment objective is noted as “Note“ (3)
+  Measurements (Crop, Phenology, Soil, Management practices to be collected in the field) are listed as “Traits”.</description>
+    </item>
+    
+    <item>
+      <title>Scoring panel</title>
+      <link>https://agrofims.github.io/helpdocs/collect/kdsmart/scoringpanel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrofims.github.io/helpdocs/collect/kdsmart/scoringpanel/</guid>
+      <description>In the Scoring Panel of a trait you can find more details about it.
+  Start scoring a trial (cf. KDSmart tutorial ).
+  Click on a Trait to open the Scoring Panel and get trait information.
+  (1) TraitAlias : short name of the trait.
+(2) Measurement timing : when to measure the trait.
+(3) Type of data
+(4) Trait validation rule : maximum and minimum possible value of the trait.</description>
     </item>
     
   </channel>

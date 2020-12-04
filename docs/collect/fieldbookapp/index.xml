@@ -18,8 +18,7 @@
       
       <guid>https://agrofims.github.io/helpdocs/collect/fieldbookapp/exportfieldbook/</guid>
       <description>To upload an AgroFIMS fieldbook to Field Book, you have to first export the AgroFIMS fieldbook as a .zip file and then unzip it.
-  Go to Experiments in the left-hand panel menu and select the experiment of your choice by clicking on the open icon (square with an arrow through it).   Go to the Fieldbooks tab at the top.
-  Open the fieldbook of your choice by clicking on the “open” icon.</description>
+  Go to Experiments in the left-hand panel menu and select the experiment of your choice by clicking on the open icon.   Go to the Fieldbooks tab and open the fieldbook of your choice by clicking on the open icon.   Click on the cloud icon at the top right of the window.</description>
     </item>
     
     <item>
@@ -51,7 +50,7 @@
       
       <guid>https://agrofims.github.io/helpdocs/collect/fieldbookapp/openfieldbook/</guid>
       <description>Open Field Book.
-  Go Fields.   Click on the + at the top right and select Local storage.   Select the .csv file exported from AgroFIMS, and then validate the radio button next to it.   Go back to the main menu and select Traits.   Click on the three dots at the top right and select ‘’Import/Export’’.   Select Import and then Local storage.</description>
+  Go to Fields.   Click on the + at the top right and select Local storage.   Select the .csv file exported from AgroFIMS, and then validate the radio button next to it.   Go back to the main menu and select Traits.   Click on the three dots at the top right and select ‘’Import/Export’’.   Select Import and then Local storage.</description>
     </item>
     
   </channel>

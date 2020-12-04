@@ -17,5 +17,5 @@ weight = 2
 
 {{< youtube NBVh3jt-L1c >}}
 
-4. Click on the red **x** at the top right of the personnel box to remove a person’s information.
+5. Click on the red **x** at the top right of the personnel box to remove a person’s information.
 ![remove_personnel](https://agrofims.github.io/helpdocs/images/removepersonnel.png)
