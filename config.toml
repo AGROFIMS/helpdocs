@@ -62,6 +62,7 @@ home = [ "HTML", "RSS"]
 name = "<button class='btn btn-success mt-n1'>AgroFIMS</button>"
 url = "https://agrofims.org/"
 weight = 3
+TargetBlank = true
 
 [[menu.shortcuts]]
 name = "<i class='fab fa-github'></i>"
@@ -77,15 +78,16 @@ sectionPagesMenu = "main"
   
 [[params.social]]
 icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
-link = "#https://github.com/AGROFIMS"
+link = "https://github.com/AGROFIMS"
 
 [[params.social]]
 icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
-link = "#https://www.youtube.com/channel/UChfp4kWQCscsIUP-4duKzeQ/"
+link = "https://www.youtube.com/channel/UChfp4kWQCscsIUP-4duKzeQ/"
   
 [[params.social]]
 icon = "ti-arrow-circle-right" # themify icon pack : https://themify.me/themify-icons
-link = "#https://agrofims.org/"
+link = "https://agrofims.org/"
+
 
 ################################ English Language ######################
 [Languages.en]

@@ -12,4 +12,5 @@ Once you have created a fieldbook, you can describe your the experimental site a
 
 •	Soil classification might be known before the experiment starts and detailed in this section.
 
+![site](https://agrofims.github.io/helpdocs/images/site.png)
 

@@ -267,7 +267,7 @@ AgroFIMS is an online interface conceived to standardizes agronomic data collect
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agrofims.github.io/helpdocs/creatingasite/viewsite/</guid>
-      <description> Go to Sites in the navigation menu at left of the home page. Click on the blue eye icon next to the site about which you want information.   </description>
+      <description> Go to Sites in the navigation menu at left of the home page. Click on the blue eye icon next to the site about which you want information.  </description>
     </item>
     
     <item>
@@ -420,7 +420,7 @@ AgroFIMS is an online interface conceived to standardizes agronomic data collect
     </item>
     
     <item>
-      <title>Deleting a Site</title>
+      <title>Deleting a site</title>
       <link>https://agrofims.github.io/helpdocs/creatingasite/deletesite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
