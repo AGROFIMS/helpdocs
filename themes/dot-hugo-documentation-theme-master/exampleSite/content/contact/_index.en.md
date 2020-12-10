@@ -1,5 +1,5 @@
 ---
-title: "Got Any Questions"
+title: ""
 draft: false
 ---
 
